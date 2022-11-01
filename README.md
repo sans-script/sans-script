@@ -5,7 +5,7 @@
 - 🤔 Procurando ajuda para aprender JavaScript
 - 😄 Pronomes: ele/dele
 
-<div align="center">
+<div display="inline">
   <a href="https://github.com/sans-script">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sans-script&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sans-script&layout=compact&langs_count=7&theme=synthwave"/>
