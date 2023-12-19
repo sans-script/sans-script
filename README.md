@@ -20,7 +20,7 @@
 </div>
 <h2> - 📫 How to reach me:</h2>
 <br>
-<div align="center">
+<div style = "background:black" align="center">
   <a href="https://www.instagram.com/_sans.alex/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="100"height="35" alt="instagram logo" height="35" alt="instagram logo"  />
   </a>
