@@ -1,4 +1,3 @@
-<div style = "background:#282A36">
 <h2 style = "color:#50FA7B"align="left">Hello World!!! My name is Alex and I'm a Computer Science enthusiast</h2>
 <br>
 <div align="center">
@@ -33,5 +32,5 @@
   </a>
 </div>
 <br>
-<div align="center"><img src="https://raw.githubusercontent.com/sans-script/sans-script/output/snake.svg" alt="Snake animation"/><p style = "color:#50FA7B">Nota: Acho que essa cobrinha vai morrer de fome 🫠</p></div>
+<div align="center" style = "background:#000"><img src="https://raw.githubusercontent.com/sans-script/sans-script/output/snake.svg" alt="Snake animation"/><p style = "color:#50FA7B">Nota: Acho que essa cobrinha vai morrer de fome 🫠</p></div>
 </div>
