@@ -1,10 +1,10 @@
-<h2 style = "color:#50FA7B"align="left">Hello World!!! My name is Alex and I'm a Computer Science enthusiast</h2>
+<h2 align="left">Hello World!!! My name is Alex and I'm a Computer Science enthusiast</h2>
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sans-script&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false"  height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sans-script&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
-<h2 style = "color:#8BE9FD"> - 🌱☕ I’m currently learning:</h2>
+<h2> - 🌱☕ I’m currently learning:</h2>
 <br>
 <img align="right"border="2px"  width="200" height="200" src="https://i.imgflip.com/89vrb6.gif"/>
 <div align="center">
@@ -18,7 +18,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"/>
 </div>
-<h2 style = "color:#8BE9FD"> - 📫 How to reach me:</h2>
+<h2> - 📫 How to reach me:</h2>
 <br>
 <div align="center">
   <a href="https://www.instagram.com/_sans.alex/" target="_blank">
@@ -32,5 +32,4 @@
   </a>
 </div>
 <br>
-<div align="center" style = "background:#000"><img src="https://raw.githubusercontent.com/sans-script/sans-script/output/snake.svg" alt="Snake animation"/><p style = "color:#50FA7B">Nota: Acho que essa cobrinha vai morrer de fome 🫠</p></div>
-</div>
+<div align="center"><img src="https://raw.githubusercontent.com/sans-script/sans-script/output/snake.svg" alt="Snake animation"/><p>Nota: Acho que essa cobrinha vai morrer de fome 🫠</p></div>
