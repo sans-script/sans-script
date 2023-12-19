@@ -39,8 +39,11 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=ap0b5ngrzs5bzl771j7gx64dz&count=1" alt="Spotify recently played"/>
   </a>
 </div>
+
 [![Spotify](https://novatorem-8z148swoa-sans-scripts-projects.vercel.app/api/spotify)](https://open.spotify.com/user/ap0b5ngrzs5bzl771j7gx64dz)
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/sans-script/sans-script/output/snake.svg" alt="Snake animation"/>
   <p>Nota: Acho que essa cobrinha vai morrer de fome 🫠</p>
 </div>
+
