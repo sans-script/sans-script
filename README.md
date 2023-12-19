@@ -32,4 +32,12 @@
   </a>
 </div>
 <br>
+<div align="center">
+  <a href="https://open.spotify.com/user/ap0b5ngrzs5bzl771j7gx64dz">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ap0b5ngrzs5bzl771j7gx64dz&count=1" alt="Spotify recently played"/>
+  </a>
+</div>
 <div align="center"><img src="https://raw.githubusercontent.com/sans-script/sans-script/output/snake.svg" alt="Snake animation"/><p>Nota: Acho que essa cobrinha vai morrer de fome 🫠</p></div>
+
+
+
