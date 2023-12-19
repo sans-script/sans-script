@@ -34,13 +34,13 @@
 
 <br>
 
-<div align="right">
+<div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ap0b5ngrzs5bzl771j7gx64dz&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=1eff00&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+ <img src="https://spotify-github-profile.vercel.app/api/view?uid=ap0b5ngrzs5bzl771j7gx64dz&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=1eff00&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile" width="600" alt="git logo"/>
+
 
 </div>
-
-
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/sans-script/sans-script/output/snake.svg" alt="Snake animation"/>
