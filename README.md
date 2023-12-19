@@ -34,13 +34,13 @@
 
 <br>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/ap0b5ngrzs5bzl771j7gx64dz">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ap0b5ngrzs5bzl771j7gx64dz&count=1" alt="Spotify recently played"/>
-  </a>
+<div align="right">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ap0b5ngrzs5bzl771j7gx64dz&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=1eff00&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 </div>
 
-[![Spotify](https://novatorem-sans-scripts-projects.vercel.app/api/spotify)](https://open.spotify.com/user/ap0b5ngrzs5bzl771j7gx64dz)
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/sans-script/sans-script/output/snake.svg" alt="Snake animation"/>
