@@ -21,7 +21,7 @@
 </div>
 <h2> - 📫🔗 How to reach me:</h2>
 
-### [CodePen](https://codepen.io/sans-script) 
+### [Instagram](https://www.instagram.com/_sans.alex) 
 ### [Discord](https://discord.gg/5SARbGrNpP)
 ### [CodePen](https://codepen.io/sans-script)
 
