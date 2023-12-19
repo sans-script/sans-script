@@ -22,13 +22,14 @@
 <br>
 <div align="center">
   <a href="https://www.instagram.com/_sans.alex/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="100"height="35" alt="instagram logo" height="35" alt="instagram logo"  />
   </a>
   <a href="https://discord.gg/5SARbGrNpP" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord%20&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="100"height="35" alt="discord logo"  />
   </a>
   <a href="https://codepen.io/sans-script" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-000000.svg?style=for-the-badge&logo=CodePen&logoColor=white" height="35" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" height="35" width="100" alt="linkedin logo"  />
   </a>
 </div>
+<br>
 <div align="center"><img src="https://raw.githubusercontent.com/sans-script/sans-script/output/snake.svg" alt="Snake animation"/></div>
