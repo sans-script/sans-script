@@ -42,6 +42,5 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/sans-script/sans-script/output/snake.svg" alt="Snake animation"/>
-  <p>Nota: Acho que essa cobrinha vai morrer de fome 🫠</p>
 </div>
 
