@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sans-script&hide_titl![sans-script's Stats](https://github-readme-stats.vercel.app/api?username=sans-script&theme=github_dark&show_icons=true&hide_border=false&count_private=true"  height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sans-script&theme=github_dark&show_icons=true&hide_border=false&count_private=true"  height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sans-script&theme=github_dark&show_icons=true&hide_border=false&layout=compact" height="150" alt="languages graph" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sans-script&theme=github_dark&hide_border=false" height="250" alt="languages graph" />
 </div>
