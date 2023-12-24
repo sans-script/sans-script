@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sans-script&theme=github_dark&show_icons=true&hide_border=false&count_private=true"  height="150" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sans-script&theme=github_dark&show_icons=true&hide_border=false&layout=compact" height="150" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sans-script&theme=github_dark&hide_border=false" height="250" alt="languages graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sans-script&theme=github_dark&hide_border=false" height="251" alt="languages graph" />
 </div>
 
 ## 🌱☕ Always Learning
