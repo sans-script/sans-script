@@ -1,4 +1,4 @@
-# Hello World! 👋 I'm Alex, a Front End Web Developer
+# Hello World!!!👋 My name is Alex and I'm a Front End Web Developer
 
 <br>
 
@@ -11,7 +11,7 @@
 ## 🌱☕ Always Learning
 
 <br>
-<img align="right" style="border: 2px solid #fff;"  width="200" height="200" src="https://i.imgflip.com/89vrb6.gif"/>
+<img align="right" width="200" height="200" src="https://i.imgflip.com/89vrb6.gif"/>
 
 <div align="center">
 
@@ -36,10 +36,9 @@
 
 
 ## 📫🔗 How to Reach Me
-<div align="center" style="border: 2px solid #fff;">
+<div align="center">
 
-### [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40"/>](https://www.instagram.com/_sans.alex) [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40"/>](https://discord.gg/5SARbGrNpP) [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="60" height="40"/>](https://codepen.io/sans-script)
-
+### [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40"/>](https://www.instagram.com/_sans.alex)[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40"/>](https://discord.gg/5SARbGrNpP)[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="60" height="40"/>](https://codepen.io/sans-script)
 
 <img src="https://raw.githubusercontent.com/sans-script/sans-script/output/snake.svg" alt="Snake Animation"/>
 </div>
