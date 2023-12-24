@@ -11,7 +11,7 @@
 ## 🌱☕ Always Learning
 
 <br>
-<img align="right" width="207" height="207" src="https://i.imgflip.com/89vrb6.gif"/>
+<img align="right" width="223" height="223" src="https://i.imgflip.com/89vrb6.gif"/>
 
 <div align="center">
 
