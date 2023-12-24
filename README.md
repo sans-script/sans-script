@@ -1,4 +1,4 @@
-# Hello World!!!👋 My name is Alex and I'm a Front End Web Developer
+# Hello World!!!👋 My name is Alex and I'm a Front-End Web Developer
 
 <br>
 
