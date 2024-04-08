@@ -40,3 +40,4 @@
   
 ### [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="30"/>](https://www.instagram.com/_sans.alex)[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="30"/>](https://discord.gg/4npFNEGTGN)[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="60" height="30"/>](https://codepen.io/sans-script)
 </div>
+
