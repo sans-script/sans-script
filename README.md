@@ -9,9 +9,7 @@
 </div>
 
 ## 🌱☕ Always Learning
-
 <br>
-
 <div align="center">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
@@ -24,7 +22,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git"/>
   ...
-
 </div>
 
 ##
@@ -32,8 +29,6 @@
 <div align="right">
  <img src="https://spotify-github-profile.vercel.app/api/view?uid=ap0b5ngrzs5bzl771j7gx64dz&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=1eff00&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile" width="360" alt="Spotify"/> 
 </div>
-
-
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/sans-script/sans-script/output/snake.svg" alt="Snake Animation" width="1000"/>
