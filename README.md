@@ -1,11 +1,15 @@
-## Hello World!!!👋 My name is Alex and I'm a Front-End Web Developer :D
-
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sans-script&theme=github_dark&show_icons=true&hide_border=false&count_private=true"  height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sans-script&theme=github_dark&show_icons=true&hide_border=false&layout=compact" height="150" alt="Top Languages"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&center=true&random=false&width=435&lines=Hello+World!!!;My+name+is+Alex;I'm+a+Front-End+Web+Developer+%3AD)](https://git.io/typing-svg)
+
+ <img width="398" height="230" src="https://github-readme-stats.vercel.app/api?username=sans-script&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7FF&icon_color=36BCF7FF&text_color=36BCF7FF&bg_color=0A0C10" alt="Alexandre Santos github stats" /> 
+<img width="304" height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sans-script&layout=compact&hide_border=true&title_color=36BCF7FF&text_color=36BCF7FF&bg_color=0A0C10" />
   
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sans-script&bg_color=0A0C109&color=36BCF7FF&line=36BCF7FF&point=006eff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
 ## 🌱☕ Always Learning
