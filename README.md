@@ -1,4 +1,5 @@
-<div style="background: #0A0C10;">
+<div style="background-color: #0A0C10;">
+
 <br>
 
 <div align="center">
@@ -53,4 +54,5 @@
   
 ### [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="30"/>](https://www.instagram.com/_sans.alex)[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="30"/>](https://discord.gg/4npFNEGTGN)[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="60" height="30"/>](https://codepen.io/sans-script)
 </div>
+<br>
 </div>
