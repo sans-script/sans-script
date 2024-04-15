@@ -1,12 +1,10 @@
-<div style="background-color: #0A0C10;">
-
 <br>
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&random=false&width=435&lines=Hello+World!!!;My+name+is+Alex+Santos;I'm+a+Front-End+Web+Developer+%3AD)](https://git.io/typing-svg)
 
- <img width="398" height="230" src="https://github-readme-stats.vercel.app/api?username=sans-script&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7FF&icon_color=36BCF7FF&text_color=36BCF7FF&bg_color=0A0C10" alt="Alexandre Santos github stats" /> 
+<img width="398" height="230" src="https://github-readme-stats.vercel.app/api?username=sans-script&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7FF&icon_color=36BCF7FF&text_color=36BCF7FF&bg_color=0A0C10" alt="Alexandre Santos github stats" /> 
 <img width="304" height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sans-script&layout=compact&hide_border=true&title_color=36BCF7FF&text_color=36BCF7FF&bg_color=0A0C10" />
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=sans-script&hide_border=true&card_width=705&background=0A0C10&sideNums=36BCF7&fire=36BCF7&stroke=36BCF7&dates=36BCF7&ring=36BCF7&currStreakLabel=36BCF7&currStreakNum=36BCF7&sideLabels=36BCF7&border=0A0C10)](https://git.io/streak-stats)
@@ -55,4 +53,3 @@
 ### [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="30"/>](https://www.instagram.com/_sans.alex)[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="30"/>](https://discord.gg/4npFNEGTGN)[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="60" height="30"/>](https://codepen.io/sans-script)
 </div>
 <br>
-</div>
