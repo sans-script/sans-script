@@ -31,7 +31,12 @@
 
 ## 📫🔗 How to Reach Me
 
+<div align="center">
+
 [![Instagram](https://skillicons.dev/icons?i=instagram&theme=light)](https://www.instagram.com/_sans.alex)
 [![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/sansalex)
 [![Discord](https://skillicons.dev/icons?i=discord&theme=light)](https://discord.gg/4npFNEGTGN)
 [![CodePen](https://skillicons.dev/icons?i=codepen&theme=light)](https://codepen.io/sans-script)
+
+</div>
+
