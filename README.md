@@ -9,7 +9,7 @@
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=sans-script&hide_border=true&card_width=705&background=0A0C10&sideNums=36BCF7&fire=36BCF7&stroke=36BCF7&dates=36BCF7&ring=36BCF7&currStreakLabel=36BCF7&currStreakNum=36BCF7&sideLabels=36BCF7&border=0A0C10)](https://git.io/streak-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sans-script&bg_color=0A0C10&color=36BCF7FF&line=36BCF7FF&point=006eff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sans-script&bg_color=rgba255,0,0,0.0&color=36BCF7FF&line=36BCF7FF&point=006eff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
