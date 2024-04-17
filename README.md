@@ -4,12 +4,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&random=false&width=435&lines=Hello+World!!!;My+name+is+Alex+Santos;I'm+a+Front-End+Web+Developer+%3AD)](https://git.io/typing-svg)
 
-<img width="56.39%" src="https://github-readme-stats.vercel.app/api?username=sans-script&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7FF&icon_color=36BCF7FF&text_color=36BCF7FF&bg_color=0A0C10" alt="Alexandre Santos's github stats" /> 
-<img width="42.99%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sans-script&layout=compact&hide_border=true&title_color=36BCF7FF&text_color=36BCF7FF&bg_color=0A0C10"/>
+<img width="46%" src="https://github-readme-stats.vercel.app/api?username=sans-script&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7FF&icon_color=36BCF7FF&text_color=36BCF7FF&bg_color=0A0C10" alt="Alexandre Santos's github stats" /> 
+<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sans-script&layout=compact&hide_border=true&title_color=36BCF7FF&text_color=36BCF7FF&bg_color=0A0C10"/>
 
-<img width="100%" src="https://streak-stats.demolab.com?user=sans-script&hide_border=true&card_width=705&background=0A0C10&sideNums=36BCF7&fire=36BCF7&stroke=36BCF7&dates=36BCF7&ring=36BCF7&currStreakLabel=36BCF7&currStreakNum=36BCF7&sideLabels=36BCF7&border=0A0C10"/>
+<img width="81.50%" src="https://streak-stats.demolab.com?user=sans-script&hide_border=true&card_width=705&background=0A0C10&sideNums=36BCF7&fire=36BCF7&stroke=36BCF7&dates=36BCF7&ring=36BCF7&currStreakLabel=36BCF7&currStreakNum=36BCF7&sideLabels=36BCF7&border=0A0C10"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sans-script&bg_color=0A0C10&color=36BCF7FF&line=36BCF7FF&point=006eff&area=true&hide_border=true&height=320"/>
+<img width="81.50%" src="https://github-readme-activity-graph.vercel.app/graph?username=sans-script&bg_color=0A0C10&color=36BCF7FF&line=36BCF7FF&point=006eff&area=true&hide_border=true&height=320"/>
 
 </div>
 
