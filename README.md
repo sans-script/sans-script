@@ -23,5 +23,23 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,tailwind,angular,nodejs,git,vscode,ubuntu,windows,codepen,github&theme=light&perline=10" width="81%"/>
 
-<img width="86%" src="https://spotify-github-profile.vercel.app/api/view?uid=ap0b5ngrzs5bzl771j7gx64dz&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=1eff00&bar_color_cover=false" alt="Spotify"/>
-<div>
+</div>
+
+<div align="center">
+
+<img width="86%" src="https://spotify-github-profile.vercel.app/api/view?uid=ap0b5ngrzs5bzl771j7gx64dz&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=1eff00&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile" width="360" alt="Spotify"/>
+
+</div>
+
+<div align="center">
+
+<br>
+
+<!-- **📫🔗 How to Reach Me**
+
+[![Instagram](https://skillicons.dev/icons?i=instagram&theme=light)](https://www.instagram.com/_sans.alex)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/sansalex)
+[![Discord](https://skillicons.dev/icons?i=discord&theme=light)](https://discord.gg/4npFNEGTGN)
+[![CodePen](https://skillicons.dev/icons?i=codepen&theme=light)](https://codepen.io/sans-script)
+
+</div> -->
