@@ -10,9 +10,6 @@
 
 👨‍💻 All of my projects are available at [sans-script.github.io/portfolio](https://sans-script.github.io/portfolio/)
 
-<img width="80%" src="metrics.plugin.introduction.svg"/>
-
-
 <div align="center">
   
 <!-- <img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&random=false&width=435&lines=Hello+World!!!;My+name+is+Alex+Santos;I'm+a+Front-End+Web+Developer+%3AD"/> -->
