@@ -5,12 +5,6 @@
 
 **A passionate frontend web developer from Brazil**
 
-
-
-<img width="81.50%" src="https://github-readme-activity-graph.vercel.app/graph?username=sans-script&bg_color=0A0C10&radius=10&color=36BCF7FF&line=36BCF7FF&point=006eff&area=true&hide_border=true&height=320"/>
-
-
-
 🔭 I’m currently working on [my portfolio](https://sans-script.github.io/portfolio/)
 
 🌱 I’m currently learning **Angular17**
