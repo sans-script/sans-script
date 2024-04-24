@@ -2,7 +2,7 @@
 
 **I build and break stuff 🙃**
 
-**A passionate frontend web developer from Brazil**
+**A passionate front-end web developer from Brazil**
 
 🔭 I’m currently working on [my portfolio](https://sans-script.github.io/portfolio/)
 
