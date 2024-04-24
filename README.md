@@ -6,5 +6,5 @@
 **Frot-end Web Developer** \
 [**DevOps**](https://devops.tec.br/) • Trainee \
 2024 • Atualmente \
-Linguagens & Tecnologias: `Angular17`, `Tailwindcss` `TypeScript`, `Node`\
+Linguagens & Tecnologias: `Angular17`, `Tailwindcss` `TypeScript`, `Node`
 </div>
