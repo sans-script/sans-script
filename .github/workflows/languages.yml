@@ -15,12 +15,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.introduction.svg
-          user: sans-script
           token: ${{ secrets.METRICS_TOKEN }}
+          base: header, repositories
           plugin_languages: yes
           plugin_languages_indepth: yes
-          base: header
           commits_authoring: firstname lastname, username, username@users.noreply.github.com
 
     
