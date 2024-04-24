@@ -10,6 +10,8 @@
 
 👨‍💻 All of my projects are available at [sans-script.github.io/portfolio](https://sans-script.github.io/portfolio/)
 
+<img width="80%" src="metrics.plugin.introduction.svg"/>
+
 
 <div align="center">
   
