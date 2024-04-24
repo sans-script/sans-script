@@ -1,0 +1,27 @@
+on:
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["main","dev"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    environment: 
+      name: production
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.introduction.svg
+          user: sans-script
+          token: ${{ secrets.METRICS_TOKEN }}
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          base: header
+          commits_authoring: firstname lastname, username, username@users.noreply.github.com
+
+    
+    
