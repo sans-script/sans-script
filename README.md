@@ -19,17 +19,6 @@
 
 <img width="86%" src="https://spotify-github-profile.vercel.app/api/view?uid=ap0b5ngrzs5bzl771j7gx64dz&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=1eff00&bar_color_cover=false" alt="Spotify"/>
 
-
-<div align="left">
-
-[<img align="left" height="94px" width="94px" alt="DevOps" src="https://github.com/sans-script/sans-script/assets/84801905/54f71c6f-bbe8-4b4f-a80d-63641bfba28f"/>](https://devops.tec.br/)
-
-**Frot-end Web Developer** \
-[**DevOps**](https://rocketseat.com.br/) • Trainee \
-Linguagens & Tecnologias: `Angular17`, `Tailwindcss` `TypeScript`, `Node`\
-Projetos em destaque: [Redirectfy]()
-</div>
-
 </div>
 
 
