@@ -15,8 +15,6 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: languages.svg
-          user: sans-script
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories
           plugin_languages: yes
