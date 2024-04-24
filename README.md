@@ -4,7 +4,7 @@
 
 
 **Frot-end Web Developer** \
-[**DevOps**](https://rocketseat.com.br/) • Trainee \
+[**DevOps**](https://devops.tec.br/) • Trainee \
 2024 • Atualmente \
 Linguagens & Tecnologias: `Angular17`, `Tailwindcss` `TypeScript`, `Node`\
 </div>
