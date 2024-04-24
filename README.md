@@ -3,3 +3,4 @@
 **Frot-end Web Developer** \
 [**DevOps**](https://rocketseat.com.br/) • Trainee \
 Linguagens & Tecnologias: `Angular17`, `Tailwindcss` `TypeScript`, `Node`\
+Projetos em destaque: [Redirectfy]()
