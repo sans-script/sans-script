@@ -16,7 +16,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.introduction.svg
-          user: sans.alex
+          user: sans-script
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_introduction: yes
           base: header

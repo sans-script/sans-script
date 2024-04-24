@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning **Angular17**
 
-👨‍💻 All of my projects are available at [https://sans-script.github.io/portfolio/](https://sans-script.github.io/portfolio/)
+👨‍💻 All of my projects are available at [sans-script.github.io/portfolio](https://sans-script.github.io/portfolio/)
 
 
 <div align="center">
@@ -23,6 +23,8 @@
 <img width="84.80%" src="https://raw.githubusercontent.com/sans-script/sans-script/output/snake.svg"/>
 
 <br>
+
+
 
 **☕🌱 Always Learning**
 
