@@ -1,18 +1,16 @@
 **Hello World! My name is Alex Santos and I'm a Front-End Web Developer**
 
-**I build and break stuff 🙃**
-
 **A passionate front-end web developer from Brazil**
+
+**I build and break stuff 🙃**
 
 🔭 I’m currently working on [my portfolio](https://sans-script.github.io/portfolio/)
 
-🌱 I’m currently learning **Angular17**
-
 👨‍💻 All of my projects are available at [sans-script.github.io/portfolio](https://sans-script.github.io/portfolio/)
-
+<hr>
 <div align="center">
   
-<!-- <img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&random=false&width=435&lines=Hello+World!!!;My+name+is+Alex+Santos;I'm+a+Front-End+Web+Developer+%3AD"/> -->
+<img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&random=false&width=435&lines=Hello+World!!!;My+name+is+Alex+Santos;I'm+a+Front-End+Web+Developer+%3AD"/>
 
 <img width="46%" src="https://github-readme-stats.vercel.app/api?username=sans-script&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7FF&icon_color=36BCF7FF&text_color=36BCF7FF&bg_color=0A0C10" alt="Alexandre Santos's github stats" /> 
 <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sans-script&layout=compact&hide_border=true&title_color=36BCF7FF&text_color=36BCF7FF&bg_color=0A0C10"/>
@@ -25,7 +23,7 @@
 
 
 
-**☕🌱 Always Learning**
+**🌱 Always Learning**
 
 <img width="80.80%" src="https://skillicons.dev/icons?i=html,css,js,python,tailwind,angular,nodejs,git,vscode,ubuntu,windows,codepen,github&theme=light&perline=15"/>
 
