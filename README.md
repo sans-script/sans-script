@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on [my portfolio](https://sans-script.vercel.app/))
 
-👨‍💻 All of my projects are available at [sans-script.vercel.app](https://sans-script.vercel.app/))
+👨‍💻 All of my projects are available at [sans-script.vercel.app](https://sans-script.vercel.app/)
 ##
 <div align="center">
   
