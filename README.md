@@ -1,14 +1,11 @@
+<div align="center">
+
+  
 **Hello World! My name is Alex Santos and I'm a Front-End Web Developer**
 
-**A passionate front-end web developer from Brazil**
+**A passionate front-end web developer from Brazil I build and break stuff 🙃**
 
-**I build and break stuff 🙃**
-
-🔭 I’m currently working on [my portfolio](https://sans-script.vercel.app/)
-
-👨‍💻 All of my projects are available at [sans-script.vercel.app](https://sans-script.vercel.app/)
 ##
-<div align="center">
   
 <img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&random=false&width=435&lines=Hello+World!!!;My+name+is+Alex+Santos;I'm+a+Front-End+Web+Developer+%3AD"/>
 
@@ -31,6 +28,8 @@
 <br>
 
 <img width="84.80%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=ap0b5ngrzs5bzl771j7gx64dz&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=1eff00&bar_color_cover=false" alt="Spotify"/>
+
+
 </div>
 
 **Work Experience**
@@ -40,5 +39,5 @@
 **Front-end Web Developer** \
 [**DevOps**](https://devops.tec.br/) • Junior \
 2024 • Atualmente \
-Linguagens & Tecnologias: `Angular17`, `Tailwindcss` `TypeScript`, `Node`
-</div>
+Languages & Technologies `Angular17`, `Tailwindcss` `TypeScript`, `Node.js`
+
