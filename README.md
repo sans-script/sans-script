@@ -1,11 +1,3 @@
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
 <div align="center">
 
   
@@ -14,6 +6,14 @@ No activity tracked
 **A passionate front-end web developer from Brazil** 
 
 **I build and break stuff 🙃**
+
+<!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
 
 ##
   
