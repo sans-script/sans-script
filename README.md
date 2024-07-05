@@ -43,5 +43,5 @@
 **Front-end Web Developer** \
 [**DevOps**](https://devops.tec.br/) • Junior \
 Feb • Currently \
-Languages & Technologies `Angular17` `Tailwindcss` `TypeScript` `Node.js`
+Languages & Technologies: `Angular17` `Tailwindcss` `TypeScript` `Node.js`
 
