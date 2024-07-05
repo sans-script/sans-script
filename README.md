@@ -1,12 +1,3 @@
-<div align="center">
-
-  
-**Hello World! My name is Alex Santos and I'm a Front-End Web Developer**
-
-**A passionate front-end web developer from Brazil** 
-
-**I build and break stuff 🙃**
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-59%20mins-blue)
 
@@ -82,6 +73,14 @@ C                        1 repo              █░░░░░░░░░░�
 
  Last Updated on 05/07/2024 17:13:15 UTC
 <!--END_SECTION:waka-->
+
+<div align="center">
+
+**Hello World! My name is Alex Santos and I'm a Front-End Web Developer**
+
+**A passionate front-end web developer from Brazil** 
+
+**I build and break stuff 🙃**
 
 ##
   
