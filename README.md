@@ -8,11 +8,79 @@
 **I build and break stuff 🙃**
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-59%20mins-blue)
 
-```txt
-No activity tracked
+![Profile Views](http://img.shields.io/badge/Profile%20Views-174-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 57.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 177 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 28 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+🌆 Daytime                259 commits         ████████████░░░░░░░░░░░░░   46.25 % 
+🌃 Evening                220 commits         ██████████░░░░░░░░░░░░░░░   39.29 % 
+🌙 Night                  30 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   87 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Tuesday                  134 commits         ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
+Wednesday                100 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+Thursday                 112 commits         █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Friday                   43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+Saturday                 35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Sunday                   49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in CSS** 
+
+```text
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/sans-script/sans-script/main/assets/bar_graph.png)
+
+
+ Last Updated on 05/07/2024 17:13:15 UTC
 <!--END_SECTION:waka-->
 
 ##
