@@ -3,7 +3,9 @@
   
 **Hello World! My name is Alex Santos and I'm a Front-End Web Developer**
 
-**A passionate front-end web developer from Brazil I build and break stuff 🙃**
+**A passionate front-end web developer from Brazil** 
+
+**I build and break stuff 🙃**
 
 ##
   
