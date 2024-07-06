@@ -19,7 +19,30 @@ I'm a junior front-end web developer. Currently, I'm pursuing a Bachelor's degre
 ##
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
+```text
+💬 Programming Languages: 
+TypeScript               2 hrs 12 mins       █████████████░░░░░░░░░░░░   50.29 % 
+JavaScript               1 hr 31 mins        █████████░░░░░░░░░░░░░░░░   34.67 % 
+HTML                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+
+🔥 Editors: 
+VS Code                  4 hrs 24 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+material-ui              2 hrs 45 mins       ████████████████░░░░░░░░░   62.81 % 
+ReactProjects            1 hr 33 mins        █████████░░░░░░░░░░░░░░░░   35.24 % 
+sans-script              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+
+💻 Operating System: 
+WSL                      4 hrs 24 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 06/07/2024 21:31:37 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
