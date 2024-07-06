@@ -19,5 +19,6 @@ jobs:
           SHOW_TOTAL_CODE_TIME: false
           SHOW_LOC_CHART: false
           SHOW_SHORT_INFO: false
+          SYMBOL_VERSION: 3
 
           
