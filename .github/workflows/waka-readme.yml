@@ -2,34 +2,33 @@ name: Waka Readme
 
 on:
   schedule:
+    # Runs at 12am IST
     - cron: '30 18 * * *'
   workflow_dispatch:
-
 jobs:
   update-readme:
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
+      - name: Checkout repository
         uses: actions/checkout@v2
-
-      - name: Setup Python
+      - name: Set up Python
         uses: actions/setup-python@v2
         with:
           python-version: 3.x
-
-      - name: Install Requests
+      - name: Install dependencies
         run: pip install requests
-
-      - name: Update README with WakaTime Data
+      - name: Run update_readme.py
+        run: python update_readme.py
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: python update_readme.py
-
-      - name: Commit and Push
+      - name: Commit and push if changed
         run: |
-          git config --global user.name 'sans-script'
-          git config --global user.email 'alexhere.user@gmail.com'
+          git config --local user.name "sans-script"
+          git config --local user.email "alexhere.user@gmail.com"
           git add README.md
-          git commit -m "Updated with WakaTime stats"
+          git commit -m "Update README with Wakatime stats" || echo "No changes to commit"
           git push
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
