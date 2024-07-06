@@ -1,12 +1,5 @@
 # Hello World!!!
 
-
-<!--START_SECTION:badges-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2051%20mins-blue)
-![Profile Views](http://img.shields.io/badge/Profile%20Views-791-blue)
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-114.0%20thousand%20lines%20of%20code-blue)
-<!--END_SECTION:badges-->
-
 <img src="https://github.com/sans-script.png" width="200px" align="right" >
 
   <p align="left">
@@ -17,9 +10,11 @@ I'm a junior front-end web developer. Currently, I'm pursuing a Bachelor's degre
 
 **I build and break stuff 🙃**
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sansalex/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_sans.alex/)
-[![CodePen](https://img.shields.io/badge/Codepen-FFFFFF?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/sans-script/)
+<!--START_SECTION:badges-->
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2051%20mins-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-791-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-114.0%20thousand%20lines%20of%20code-blue)
+<!--END_SECTION:badges-->
 <br>
 
 <!--START_SECTION:waka-->
