@@ -18,6 +18,10 @@ I'm a junior front-end web developer. Currently, I'm pursuing a Bachelor's degre
 
 ##
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 <div align="center">
   
 <img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&random=false&width=435&lines=Hello+World!!!;My+name+is+Alex+Santos;I'm+a+Front-End+Web+Developer+%3AD"/>
@@ -40,74 +44,6 @@ I'm a junior front-end web developer. Currently, I'm pursuing a Bachelor's degre
 
 <img width="84.80%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=ap0b5ngrzs5bzl771j7gx64dz&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=1eff00&bar_color_cover=false" alt="Spotify"/>
 </div>
-
-<details>
-
-**<summary>WakaTime Metrics</summary>**
-
-<br>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%208%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-574-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-112.1%20thousand%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-🌆 Daytime                315 commits         █████████████░░░░░░░░░░░░   50.56 % 
-🌃 Evening                223 commits         █████████░░░░░░░░░░░░░░░░   35.79 % 
-🌙 Night                  30 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-Tuesday                  134 commits         █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
-Wednesday                100 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Thursday                 112 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
-Friday                   50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-Saturday                 91 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Sunday                   49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-TypeScript               2 hrs 12 mins       █████████████░░░░░░░░░░░░   50.29 % 
-JavaScript               1 hr 31 mins        █████████░░░░░░░░░░░░░░░░   34.67 % 
-HTML                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 24 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-material-ui              2 hrs 45 mins       ████████████████░░░░░░░░░   62.81 % 
-ReactProjects            1 hr 33 mins        █████████░░░░░░░░░░░░░░░░   35.24 % 
-sans-script              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-
-💻 Operating System: 
-WSL                      4 hrs 24 mins       █████████████████████████   100.00 % 
-```
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/sans-script/sans-script/main/assets/bar_graph.png)
-
-
- Last Updated on 06/07/2024 19:59:30 UTC
-<!--END_SECTION:waka-->
-
-</details>
 
 <br>
 
