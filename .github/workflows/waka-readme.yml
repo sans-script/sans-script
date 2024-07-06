@@ -1,36 +1,21 @@
 name: Waka Readme
 
 on:
-  # for manual workflow trigger
-  workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 0 * * *"
-
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-        # this action name
-      - uses: athul/waka-readme@master
+      - uses: anmol098/waka-readme-stats@master
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }} 
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          ### meta
-          API_BASE_URL: https://wakatime.com/api 
-          ### content
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_LINES_OF_CODE: true
+          SHOW_TOTAL_CODE_TIME: true
+          SHOW_LOC_CHART: false
           SHOW_SHORT_INFO: false
-          SHOW_TITLE: true 
-          SECTION_NAME: waka 
-          TIME_RANGE: all_time 
-          SHOW_TIME: true 
-          SHOW_TOTAL: true 
-          SHOW_MASKED_TIME: false 
-          STOP_AT_OTHER: true 
-          ### commit
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics 
-          COMMITTER_NAME: GitHubActionBot
-          COMMITTER_EMAIL: action-bot@github.com 
-          AUTHOR_NAME: sans-script
-          AUTHOR_EMAIL: sans-script@github.com 
+          

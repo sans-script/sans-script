@@ -4,6 +4,8 @@
 </div>
 
 **I build and break stuff 🙃**
+<img src="./github-metrics.svg"/>
+
 
 <!--START_SECTION:waka-->
 
