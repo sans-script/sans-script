@@ -1,6 +1,6 @@
 # Hello World!!!
 
-<div style="display: flex; gap: 1px;">
+
 
 <!--START_SECTION:views-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-625-blue)
@@ -12,7 +12,8 @@
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-112.1%20thousand%20lines%20of%20code-blue)
 <!--END_SECTION:loc-->
 
-</div>
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 
 <img src="https://github.com/sans-script.png" width="200px" align="right" >
