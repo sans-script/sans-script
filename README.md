@@ -16,8 +16,6 @@ I'm a junior front-end web developer. Currently, I'm pursuing a Bachelor's degre
 
 <br>
 
-##
-
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
@@ -44,6 +42,8 @@ WSL                      4 hrs 24 mins       ███████████�
 
  Last Updated on 06/07/2024 21:31:37 UTC
 <!--END_SECTION:waka-->
+
+##
 
 <div align="center">
   
