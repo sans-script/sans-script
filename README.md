@@ -2,24 +2,11 @@
 
 
 
-<!--START_SECTION:views-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-625-blue)
-<!--END_SECTION:views-->
-<!--START_SECTION:totalcode-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%207%20mins-blue)
-<!--END_SECTION:totalcode-->
-<!--START_SECTION:loc-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-112.1%20thousand%20lines%20of%20code-blue)
-<!--END_SECTION:loc-->
 
 <!--START_SECTION:badges-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2028%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-711-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-112.1%20thousand%20lines%20of%20code-blue)
-
-
 <!--END_SECTION:badges-->
 
 
@@ -40,28 +27,28 @@ I'm a junior front-end web developer. Currently, I'm pursuing a Bachelor's degre
 <br>
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-TypeScript               2 hrs 12 mins       █████████████░░░░░░░░░░░░   50.29 % 
-JavaScript               1 hr 31 mins        █████████░░░░░░░░░░░░░░░░   34.67 % 
-HTML                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+💬 Programming Languages:
+TypeScript               2 hrs 12 mins       █████████████░░░░░░░░░░░░   50.29 %
+JavaScript               1 hr 31 mins        █████████░░░░░░░░░░░░░░░░   34.67 %
+HTML                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 
-🔥 Editors: 
-VS Code                  4 hrs 24 mins       █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  4 hrs 24 mins       █████████████████████████   100.00 %
 
-🐱‍💻 Projects: 
-material-ui              2 hrs 45 mins       ████████████████░░░░░░░░░   62.81 % 
-ReactProjects            1 hr 33 mins        █████████░░░░░░░░░░░░░░░░   35.24 % 
-sans-script              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+🐱‍💻 Projects:
+material-ui              2 hrs 45 mins       ████████████████░░░░░░░░░   62.81 %
+ReactProjects            1 hr 33 mins        █████████░░░░░░░░░░░░░░░░   35.24 %
+sans-script              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
 
-💻 Operating System: 
-WSL                      4 hrs 24 mins       █████████████████████████   100.00 % 
+💻 Operating System:
+WSL                      4 hrs 24 mins       █████████████████████████   100.00 %
 ```
-
 
 <!--END_SECTION:waka-->
 

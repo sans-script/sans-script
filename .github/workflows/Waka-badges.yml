@@ -10,7 +10,10 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: actions/checkout@v2
+
+      - name: Update Readme with WakaTime Stats
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -30,4 +33,13 @@ jobs:
           SHOW_UPDATED_DATE: false
           SECTION_NAME: badges
 
-          
+      - name: Run Python script to fix badges layout
+        run: python update_readme.py
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m 'Fix badges layout'
+          git push
