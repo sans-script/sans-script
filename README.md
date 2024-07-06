@@ -1,11 +1,9 @@
 
-<div align="center">
+<!-- <div align="center">
 <img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&random=false&width=435&lines=Hello+World!!!;My+name+is+Alex+Santos;I'm+a+Front-End+Web+Developer+%3AD"/>
-</div>
+</div> -->
 
-<img src="./github-metrics.svg"/>
-
-**I build and break stuff 🙃**
+<!-- **I build and break stuff 🙃** -->
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2027%20mins-blue)
