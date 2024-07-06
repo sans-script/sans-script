@@ -1,4 +1,83 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-237-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 50.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 181 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 28 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                53 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+🌆 Daytime                263 commits         ████████████░░░░░░░░░░░░░   46.22 % 
+🌃 Evening                223 commits         ██████████░░░░░░░░░░░░░░░   39.19 % 
+🌙 Night                  30 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   87 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Tuesday                  134 commits         ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
+Wednesday                100 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+Thursday                 112 commits         █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+Friday                   50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+Saturday                 37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Sunday                   49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+TypeScript               2 hrs 12 mins       █████████████░░░░░░░░░░░░   50.29 % 
+JavaScript               1 hr 31 mins        █████████░░░░░░░░░░░░░░░░   34.67 % 
+HTML                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+
+🔥 Editors: 
+VS Code                  4 hrs 24 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+material-ui              2 hrs 45 mins       ████████████████░░░░░░░░░   62.81 % 
+ReactProjects            1 hr 33 mins        █████████░░░░░░░░░░░░░░░░   35.24 % 
+sans-script              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+
+💻 Operating System: 
+WSL                      4 hrs 24 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in CSS** 
+
+```text
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/sans-script/sans-script/main/assets/bar_graph.png)
+
+
+ Last Updated on 06/07/2024 14:34:49 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
