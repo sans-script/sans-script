@@ -1,86 +1,123 @@
+# Hello World!!!
 
-<!-- <div align="center">
+<img src="https://github.com/sans-script.png" width="200px" align="right" >
+
+  <p align="left">
+I'm a junior front-end web developer. Currently, I'm pursuing a Bachelor's degree in Science and Technology at the Federal University of Maranhão.
+  </p>
+
+**A passionate front-end web developer from Brazil**
+
+**I build and break stuff 🙃**
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sansalex/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_sans.alex/)
+[![Linkedin](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/sans-script/)
+
+<br>
+<br>
+
+##
+
+<div align="center">
+  
 <img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&random=false&width=435&lines=Hello+World!!!;My+name+is+Alex+Santos;I'm+a+Front-End+Web+Developer+%3AD"/>
-</div> -->
 
-<!-- **I build and break stuff 🙃** -->
+<img width="46%" src="https://github-readme-stats.vercel.app/api?username=sans-script&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7FF&icon_color=36BCF7FF&text_color=36BCF7FF&bg_color=0A0C10" alt="Alexandre Santos's github stats" /> 
+<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sans-script&layout=compact&hide_border=true&title_color=36BCF7FF&text_color=36BCF7FF&bg_color=0A0C10"/>
+
+<img width="81.50%" src="https://github-readme-activity-graph.vercel.app/graph?username=sans-script&bg_color=0A0C10&color=36BCF7FF&line=36BCF7FF&point=006eff&area=true&hide_border=true&height=320"/>
+
+<img width="84.80%" src="https://raw.githubusercontent.com/sans-script/sans-script/output/snake.svg"/>
+
+<br>
+
+**🌱 Always Learning**
+
+<img width="80.80%" src="https://skillicons.dev/icons?i=html,css,js,python,tailwind,angular,nodejs,git,vscode,ubuntu,windows,codepen,github&theme=light&perline=15"/>
+
+<br>
+<br>
+
+<img width="84.80%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=ap0b5ngrzs5bzl771j7gx64dz&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=1eff00&bar_color_cover=false" alt="Spotify"/>
+</div>
+
+<details>
+
+<summary>WakaTime Metrics</summary>
+
+<br>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning                55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-🌆 Daytime                305 commits         ████████████░░░░░░░░░░░░░   49.76 % 
-🌃 Evening                223 commits         █████████░░░░░░░░░░░░░░░░   36.38 % 
-🌙 Night                  30 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+🌞 Morning                55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 %
+🌆 Daytime                305 commits         ████████████░░░░░░░░░░░░░   49.76 %
+🌃 Evening                223 commits         █████████░░░░░░░░░░░░░░░░   36.38 %
+🌙 Night                  30 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
 ```
-📅 **I'm Most Productive on Tuesday** 
+
+📅 **I'm Most Productive on Tuesday**
 
 ```text
-Monday                   87 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-Tuesday                  134 commits         █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
-Wednesday                100 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Thursday                 112 commits         █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
-Friday                   50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-Saturday                 81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Sunday                   49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+Monday                   87 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.19 %
+Tuesday                  134 commits         █████░░░░░░░░░░░░░░░░░░░░   21.86 %
+Wednesday                100 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 %
+Thursday                 112 commits         █████░░░░░░░░░░░░░░░░░░░░   18.27 %
+Friday                   50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
+Saturday                 81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.21 %
+Sunday                   49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: America/Sao_Paulo
 
-💬 Programming Languages: 
-TypeScript               2 hrs 12 mins       █████████████░░░░░░░░░░░░   50.29 % 
-JavaScript               1 hr 31 mins        █████████░░░░░░░░░░░░░░░░   34.67 % 
-HTML                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+💬 Programming Languages:
+TypeScript               2 hrs 12 mins       █████████████░░░░░░░░░░░░   50.29 %
+JavaScript               1 hr 31 mins        █████████░░░░░░░░░░░░░░░░   34.67 %
+HTML                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 
-🔥 Editors: 
-VS Code                  4 hrs 24 mins       █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  4 hrs 24 mins       █████████████████████████   100.00 %
 
-🐱‍💻 Projects: 
-material-ui              2 hrs 45 mins       ████████████████░░░░░░░░░   62.81 % 
-ReactProjects            1 hr 33 mins        █████████░░░░░░░░░░░░░░░░   35.24 % 
-sans-script              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+🐱‍💻 Projects:
+material-ui              2 hrs 45 mins       ████████████████░░░░░░░░░   62.81 %
+ReactProjects            1 hr 33 mins        █████████░░░░░░░░░░░░░░░░   35.24 %
+sans-script              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
 
-💻 Operating System: 
-WSL                      4 hrs 24 mins       █████████████████████████   100.00 % 
+💻 Operating System:
+WSL                      4 hrs 24 mins       █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in CSS** 
+**I Mostly Code in CSS**
 
 ```text
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 %
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 %
+Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 %
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
 ```
 
+Last Updated on 06/07/2024 17:39:44 UTC
 
-
-
- Last Updated on 06/07/2024 17:39:44 UTC
 <!--END_SECTION:waka-->
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sans-script&bg_color=0A0C10&color=36BCF7FF&line=36BCF7FF&point=006eff&area=true&hide_border=true&height=320"/>
+</details>
 
-<img src="https://raw.githubusercontent.com/sans-script/sans-script/output/snake.svg"/>
-
-<img width="100%" src="https://spotify-github-profile.kittinanx.com/api/view?uid=ap0b5ngrzs5bzl771j7gx64dz&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=1eff00&bar_color_cover=false" alt="Spotify"/>
-
-##
+<br>
 
 **Work Experience**
 
 [<img align="left" height="94px" width="94px" alt="DevOps" src="https://github.com/sans-script/sans-script/assets/84801905/54f71c6f-bbe8-4b4f-a80d-63641bfba28f" />](https://devops.tec.br/)
 
-**Front-end Web Developer** \
-[**DevOps**](https://devops.tec.br/) • Junior \
+**Frot-End Web Developer (Jr)** \
+[**DevOps**](https://devops.tec.br/) • Full time \
 Feb • Currently \
 Languages & Technologies: `Angular17` `Tailwindcss` `TypeScript` `Node.js`
-
