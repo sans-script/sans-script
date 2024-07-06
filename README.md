@@ -3,9 +3,9 @@
 <img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&random=false&width=435&lines=Hello+World!!!;My+name+is+Alex+Santos;I'm+a+Front-End+Web+Developer+%3AD"/>
 </div>
 
-**I build and break stuff 🙃**
 <img src="./github-metrics.svg"/>
 
+**I build and break stuff 🙃**
 
 <!--START_SECTION:waka-->
 
