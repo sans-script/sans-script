@@ -27,6 +27,7 @@ jobs:
           SHOW_LANGUAGE: false
           SHOW_EDITORS: false
           SHOW_PROJECTS: false
+          SHOW_UPDATED_DATE: false
           SECTION_NAME: loc
 
           
