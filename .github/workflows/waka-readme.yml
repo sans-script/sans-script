@@ -17,5 +17,6 @@ jobs:
           SHOW_LINES_OF_CODE: true
           SHOW_TOTAL_CODE_TIME: true
           SHOW_LOC_CHART: false
+          SHOW_SHORT_INFO: false
 
           
