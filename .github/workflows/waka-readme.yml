@@ -29,7 +29,7 @@ jobs:
           git config --local user.email "alexhere.user@gmail.com"
           git add README.md
           git commit -m "Update README with Wakatime stats" || echo "No changes to commit"
-          git pull
+          git pull --rebase
           git push
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
