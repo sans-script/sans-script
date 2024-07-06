@@ -1,5 +1,14 @@
 # Hello World!!!
 
+<!--START_SECTION:views-->
+<!--END_SECTION:views-->
+
+<!--START_SECTION:loc-->
+<!--END_SECTION:loc-->
+
+<!--START_SECTION:totalcode-->
+<!--END_SECTION:totalcode-->
+
 <img src="https://github.com/sans-script.png" width="200px" align="right" >
 
   <p align="left">
