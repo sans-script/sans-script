@@ -5,12 +5,15 @@ on:
     # Runs at 12am IST
     - cron: '30 18 * * *'
   workflow_dispatch:
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
       - name: Update Readme with WakaTime Stats
         uses: anmol098/waka-readme-stats@master
@@ -34,13 +37,13 @@ jobs:
           SECTION_NAME: badges
 
       - name: Run Python script to fix badges layout
-        run: python update_readme.py
+        run: |
+          python update_readme.py
+          git add README.md
 
       - name: Commit changes
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git pull origin main
-          git add README.md
-          git commit -m 'Fix badges layout'
-          git push origin main
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git diff --quiet || git commit -m "Fix badges layout" README.md
+          git push
