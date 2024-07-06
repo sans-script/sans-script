@@ -1,34 +1,5 @@
-<!--START_SECTION:waka_stats-->
-![Code Time](http://img.shields.io/badge/Code%20Time-15842.94607%20secs-blue)
-<!--END_SECTION:waka_stats-->
-
-<!--START_SECTION:waka_languages-->
-```
-TypeScript - 50.29%
-JavaScript - 34.67%
-HTML - 12.5%
-Markdown - 1.32%
-YAML - 0.58%
-CSS - 0.49%
-Git - 0.11%
-Image (svg) - 0.02%
-SCSS - 0.01%
-```
-<!--END_SECTION:waka_languages-->
-
-<!--START_SECTION:waka_projects-->
-```
-material-ui - 62.81%
-ReactProjects - 35.24%
-sans-script - 1.94%
-```
-<!--END_SECTION:waka_projects-->
-
-<!--START_SECTION:waka_editors-->
-```
-VS Code - 100.0%
-```
-<!--END_SECTION:waka_editors-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 <!-- <div align="center">
