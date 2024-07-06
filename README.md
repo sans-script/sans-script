@@ -1,20 +1,19 @@
 # Hello World!!!
 
+<div style="display: flex; gap: 1px;">
+
 <!--START_SECTION:views-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-625-blue)
-
-
 <!--END_SECTION:views-->
-<!--START_SECTION:loc-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-112.1%20thousand%20lines%20of%20code-blue)
-
-
-<!--END_SECTION:loc-->
 <!--START_SECTION:totalcode-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%207%20mins-blue)
-
-
 <!--END_SECTION:totalcode-->
+<!--START_SECTION:loc-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-112.1%20thousand%20lines%20of%20code-blue)
+<!--END_SECTION:loc-->
+
+</div>
+
 
 <img src="https://github.com/sans-script.png" width="200px" align="right" >
 
