@@ -11,6 +11,10 @@
 <!--END_SECTION:loc-->
 
 <!--START_SECTION:totalcode-->
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2057%20mins-blue)
+
+
+ Last Updated on 06/07/2024 22:03:04 UTC
 <!--END_SECTION:totalcode-->
 
 <img src="https://github.com/sans-script.png" width="200px" align="right" >
