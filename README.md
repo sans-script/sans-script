@@ -6,30 +6,8 @@
 <!--START_SECTION:loc-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-112.1%20thousand%20lines%20of%20code-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-TypeScript               2 hrs 12 mins       █████████████░░░░░░░░░░░░   50.29 % 
-JavaScript               1 hr 31 mins        █████████░░░░░░░░░░░░░░░░   34.67 % 
-HTML                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 24 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-material-ui              2 hrs 45 mins       ████████████████░░░░░░░░░   62.81 % 
-ReactProjects            1 hr 33 mins        █████████░░░░░░░░░░░░░░░░   35.24 % 
-sans-script              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-
-💻 Operating System: 
-WSL                      4 hrs 24 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 06/07/2024 21:51:16 UTC
+ Last Updated on 06/07/2024 21:58:37 UTC
 <!--END_SECTION:loc-->
 
 <!--START_SECTION:totalcode-->
