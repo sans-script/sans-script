@@ -8,14 +8,12 @@
 
  Last Updated on 06/07/2024 22:03:44 UTC
 <!--END_SECTION:views-->
-
 <!--START_SECTION:loc-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-112.1%20thousand%20lines%20of%20code-blue)
 
 
  Last Updated on 06/07/2024 21:58:37 UTC
 <!--END_SECTION:loc-->
-
 <!--START_SECTION:totalcode-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2057%20mins-blue)
 
