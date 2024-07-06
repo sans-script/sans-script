@@ -1,7 +1,10 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+<div align="center">
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-237-blue)
+
+</div>
+
 
 **🐱 My GitHub Data** 
 
@@ -80,7 +83,7 @@ C                        1 repo              █░░░░░░░░░░�
  Last Updated on 06/07/2024 14:34:49 UTC
 <!--END_SECTION:waka-->
 
-<div align="center">
+<!-- <div align="center">
 
 **Hello World! My name is Alex Santos and I'm a Front-End Web Developer**
 
@@ -100,7 +103,7 @@ C                        1 repo              █░░░░░░░░░░�
 <img width="84.80%" src="https://raw.githubusercontent.com/sans-script/sans-script/output/snake.svg"/>
 
 <br>
-
+ -->
 
 
 **🌱 Always Learning**
