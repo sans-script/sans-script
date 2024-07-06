@@ -1,3 +1,6 @@
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <div align="center">
 
 **Hello World! My name is Alex Santos and I'm a Front-End Web Developer**
