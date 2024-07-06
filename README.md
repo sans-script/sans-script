@@ -1,6 +1,13 @@
 # Hello World!!!
 
 <!--START_SECTION:badges-->
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2051%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-711-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-114.0%20thousand%20lines%20of%20code-blue)
+
+
 <!--END_SECTION:badges-->
 
 <img src="https://github.com/sans-script.png" width="200px" align="right" >
