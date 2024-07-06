@@ -15,7 +15,6 @@ I'm a junior front-end web developer. Currently, I'm pursuing a Bachelor's degre
 [![Linkedin](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/sans-script/)
 
 <br>
-<br>
 
 ##
 
@@ -44,7 +43,7 @@ I'm a junior front-end web developer. Currently, I'm pursuing a Bachelor's degre
 
 <details>
 
-<summary>WakaTime Metrics</summary>
+**<summary>WakaTime Metrics</summary>**
 
 <br>
 
