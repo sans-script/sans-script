@@ -1,6 +1,10 @@
 name: Run Python Script and Update README
 
 on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '35 18 * * *'
+  workflow_dispatch:
   push:
     branches:
       - main

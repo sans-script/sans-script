@@ -15,7 +15,14 @@ I'm a junior front-end web developer. Currently, I'm pursuing a Bachelor's degre
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1249-blue)
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-114.3%20thousand%20lines%20of%20code-blue)
 <!--END_SECTION:badges-->
+
 <br>
+
+<!--UP_TIME_START-->
+```python
+Up time: 18 years 3 months 13 days
+```
+<!--UP_TIME_END-->
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
