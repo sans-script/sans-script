@@ -35,5 +35,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git diff --quiet || git commit -m "Update README with WakaTime stats"
+          git commit -m "Update README with WakaTime stats"
           git push
