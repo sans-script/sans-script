@@ -29,22 +29,23 @@ Up time: 18 years, 3 months and 13 days
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 12 mins       █████████████░░░░░░░░░░░░   50.29 % 
-JavaScript               1 hr 31 mins        █████████░░░░░░░░░░░░░░░░   34.67 % 
-HTML                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Markdown                 4 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   35.47 % 
+TypeScript               2 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
+JavaScript               1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+YAML                     1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Python                   1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 24 mins       █████████████████████████   100.00 % 
+VS Code                  11 hrs 52 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-material-ui              2 hrs 45 mins       ████████████████░░░░░░░░░   62.81 % 
-ReactProjects            1 hr 33 mins        █████████░░░░░░░░░░░░░░░░   35.24 % 
-sans-script              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+sans-script              6 hrs 34 mins       ██████████████░░░░░░░░░░░   55.32 % 
+material-ui              3 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   31.47 % 
+ReactProjects            1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Waka                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-WSL                      4 hrs 24 mins       █████████████████████████   100.00 % 
+WSL                      11 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 
