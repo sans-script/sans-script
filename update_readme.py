@@ -28,7 +28,7 @@ def update_up_time_section(file_path):
     months = difference.months
     days = difference.days
 
-    up_time_text = f'Up time: {years} years {months} months {days} days'
+    up_time_text = f'Up time: {years} years, {months} months and {days} days'
 
     with open(file_path, 'r') as file:
         content = file.read()
