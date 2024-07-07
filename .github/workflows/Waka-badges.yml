@@ -36,12 +36,14 @@ jobs:
           SHOW_UPDATED_DATE: false
           SECTION_NAME: badges
 
-      - name: Run Python script to fix badges layout
+      - name: Update Readme with WakaTime Stats
         run: |
           python update_readme.py
+          
+      - name: Fix badges layout
+        run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
-          git pull --no-rebase
           git add README.md
           git commit -m "Fix badges layout"
           git push
