@@ -24,7 +24,6 @@ jobs:
 
       - name:  Run Python script
         run: |
-          git pull --no-rebase
           python update_readme.py
       
       - name: Commit and push changes
