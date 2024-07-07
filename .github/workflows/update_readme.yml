@@ -1,8 +1,12 @@
-name: Run Python Script and Update README
+name: Update README after Workflow1
 
 on:
+  workflow_run:
+    workflows: ["Waka Readme"]  # Nome do primeiro workflow
+    types:
+      - completed
   schedule:
-    # Runs at 12am IST
+    # Runs at 12am IST, which is 18:35 UTC
     - cron: '35 18 * * *'
   workflow_dispatch:
   push:
@@ -10,7 +14,7 @@ on:
       - main
 
 jobs:
-  run-python-script:
+  update-readme:
     runs-on: ubuntu-latest
     
     steps:
@@ -24,7 +28,7 @@ jobs:
           
       - name: Git pull
         run: |
-          git pull --rebase origin main
+          git pull origin main  # Atualiza o branch local com as alterações do repositório remoto
           
       - name:  Run Python script
         run: |
