@@ -18,6 +18,7 @@ def update_badges_section(file_path):
 
         with open(file_path, 'w') as file:
             file.write(updated_content)
+            print("Badges Section Done")
 
 def update_up_time_section(file_path):
     start_date = datetime(2006, 3, 24)
@@ -41,6 +42,7 @@ def update_up_time_section(file_path):
 
         with open(file_path, 'w') as file:
             file.write(updated_content)
+            print("Up Time Section Done")
 
 if __name__ == "__main__":
     file_path = 'README.md'
