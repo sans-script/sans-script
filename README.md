@@ -24,6 +24,8 @@ Up time: 18 years, 3 months and 13 days
 ```
 <!--UP_TIME_END-->
 
+<img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sans-script&theme=github_dark"/>
+
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
@@ -50,7 +52,8 @@ WSL                      11 hrs 52 mins      ███████████�
 
 
 <!--END_SECTION:waka-->
-<img  src="https://github-readme-activity-graph.vercel.app/graph?username=sans-script&bg_color=0A0C10&color=36BCF7FF&line=36BCF7FF&point=006eff&area=true&hide_border=true&height=320"/>
+
+<!--<img  src="https://github-readme-activity-graph.vercel.app/graph?username=sans-script&bg_color=0A0C10&color=36BCF7FF&line=36BCF7FF&point=006eff&area=true&hide_border=true&height=320"/>-->
 
 <br>
 
