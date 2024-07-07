@@ -46,15 +46,17 @@ WSL                      4 hrs 24 mins       ███████████�
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,tailwind,angular,react,nodejs,git,vscode,ubuntu,windows,codepen,github&theme=light&perline=16"/>
+<img width="100%" src="https://skillicons.dev/icons?i=html,css,js,python,tailwind,angular,react,nodejs,git,vscode,ubuntu,windows,codepen,github&theme=light&perline=16"/>
 
 <br>
 
-<img width="300px"  src="https://spotify-github-profile.kittinanx.com/api/view?uid=ap0b5ngrzs5bzl771j7gx64dz&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=1eff00&bar_color_cover=false" align="right" >
+<img width="300px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=ap0b5ngrzs5bzl771j7gx64dz&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=1eff00&bar_color_cover=false" align="right" >
 
   <p align="left">
 If there's any music playing on my Spotify, it will show up here. This means I'm working on something really cool, or just taking a shower.
   </p>
+  
+<br>
 
 **Work Experience**
 
@@ -65,5 +67,5 @@ If there's any music playing on my Spotify, it will show up here. This means I'm
 Feb • Currently \
 Languages & Technologies: `Angular17` `Tailwindcss` `TypeScript` `Node.js`
 
-<img src="https://raw.githubusercontent.com/sans-script/sans-script/output/snake.svg"/>
+<!-- <img width="100%" src="https://raw.githubusercontent.com/sans-script/sans-script/output/snake.svg"/> -->
 
