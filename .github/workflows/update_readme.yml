@@ -25,12 +25,8 @@ jobs:
       - name: Git pull
         run: |
           git pull
-          
-      - name:  Run Python script
-        run: |
-          python update_readme.py
       
-      - name: Update README file
+      - name: Run Python script and update README.md
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         run: python update_readme.py
