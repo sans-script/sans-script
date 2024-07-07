@@ -30,10 +30,15 @@ jobs:
         run: |
           python update_readme.py
       
-      - name: Commit and push changes
-        run: |
-          git config --local user.email "python3@github.com"
-          git config --local user.name "Python"
+      - name: Update README file
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        run: python update_readme.py
+      - name: Commit
+        run: |-
           git add .
-          git diff --quiet || git commit -m "Update README with stats"
+          git diff
+          git config --global user.email "github-actions-bot@sans-script.github.io"
+          git config --global user.name "sans-script/GitHub-Actions-Bot"
+          git commit -m "Updated README" -a || echo "No changes to commit"
           git push
