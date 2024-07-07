@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   schedule:
     # Runs at 12am IST
-    - cron: '40 18 * * *'
+    - cron: '30 18 * * *'
   workflow_dispatch:
 
 jobs:
@@ -35,16 +35,3 @@ jobs:
           SHOW_PROJECTS: false
           SHOW_UPDATED_DATE: false
           SECTION_NAME: badges
-
-      - name: Running Python Script
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git pull --rebase
-          python update_readme.py
-          
-      - name: Commit and Push changes
-        run: |
-          git add README.md
-          git diff --quiet || git commit -m "Update README with WakaTime stats"
-          git push
