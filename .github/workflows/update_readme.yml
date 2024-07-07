@@ -32,8 +32,8 @@ jobs:
       
       - name: Commit and push changes
         run: |
-          git config --local user.email "sans-script@github.com"
-          git config --local user.name "sans-script"
+          git config --local user.email "python3@github.com"
+          git config --local user.name "Python"
           git add README.md
-          git commit -m "Update README with stats"
+          git diff --quiet || git commit -m "Update README with stats"
           git push
