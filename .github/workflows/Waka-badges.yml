@@ -39,13 +39,16 @@ jobs:
       - name: Running Python Script
         run: |
           python update_readme.py
-          
-      - name: Pushing
+
+      - name: Configure Git user
         run: |
-          git config --global user.name 'github-actions'
-          git config --global user.email 'github-actions@github.com'
-          git diff --quiet || git commit -a
-          git pull --no-rebase
-          git commit -a
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Commit and Push changes
+        run: |
+          git add README.md
+          git commit -m "Update README with WakaTime stats"
           git push
-          
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
