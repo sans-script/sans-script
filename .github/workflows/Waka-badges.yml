@@ -44,9 +44,8 @@ jobs:
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
+          git diff --quiet || git commit -a
           git pull --no-rebase
-          git commit -m "Fix badges layout"
-          git add README.md
-          git commit -m "Fix badges layout"
+          git commit -a
           git push
           
