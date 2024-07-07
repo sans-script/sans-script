@@ -2,7 +2,7 @@ name: Python Update README
 
 on:
   workflow_run:
-    workflows: ["Waka Readme"]  # Nome do primeiro workflow
+    workflows: ["Waka Readme"]
     types:
       - completed
   schedule:
@@ -28,7 +28,7 @@ jobs:
           
       - name: Git pull
         run: |
-          git pull origin main  # Atualiza o branch local com as alterações do repositório remoto
+          git pull origin main
           
       - name:  Run Python script
         run: |
