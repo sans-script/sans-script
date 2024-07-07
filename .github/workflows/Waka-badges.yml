@@ -38,15 +38,11 @@ jobs:
 
       - name: Running Python Script
         run: |
-          git diff --quiet || git commit -m "Update README with WakaTime stats"
-          git pull --no-rebase
-          python update_readme.py
-
-      - name: Configure Git user
-        run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-
+          git pull --rebase
+          python update_readme.py
+          
       - name: Commit and Push changes
         run: |
           git add README.md
