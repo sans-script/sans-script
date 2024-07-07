@@ -24,7 +24,7 @@ jobs:
           
       - name: Git pull
         run: |
-          git pull
+          git pull --rebase origin main
           
       - name:  Run Python script
         run: |
