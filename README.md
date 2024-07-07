@@ -18,6 +18,29 @@ I'm a junior front-end web developer. Currently, I'm pursuing a Bachelor's degre
 <br>
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               2 hrs 12 mins       █████████████░░░░░░░░░░░░   50.29 % 
+JavaScript               1 hr 31 mins        █████████░░░░░░░░░░░░░░░░   34.67 % 
+HTML                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+
+🔥 Editors: 
+VS Code                  4 hrs 24 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+material-ui              2 hrs 45 mins       ████████████████░░░░░░░░░   62.81 % 
+ReactProjects            1 hr 33 mins        █████████░░░░░░░░░░░░░░░░   35.24 % 
+sans-script              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+
+💻 Operating System: 
+WSL                      4 hrs 24 mins       █████████████████████████   100.00 % 
+```
+
+
 <!--END_SECTION:waka-->
 <img  src="https://github-readme-activity-graph.vercel.app/graph?username=sans-script&bg_color=0A0C10&color=36BCF7FF&line=36BCF7FF&point=006eff&area=true&hide_border=true&height=320"/>
 
