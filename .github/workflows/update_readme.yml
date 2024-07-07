@@ -22,18 +22,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install python-dateutil
 
-      - name: Git pull
-        run: |
-          git pull
-
       - name:  Run Python script
         run: |
           python update_readme.py
       
-      - name: Commit and push changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add README.md
-          git commit -m "Update README with WakaTime stats"
-          git push
