@@ -38,7 +38,7 @@ def update_up_time_section(file_path):
     up_time_section = re.search(r'<!--UP_TIME_START-->(.*?)<!--UP_TIME_END-->', content, re.DOTALL)
 
     if up_time_section:
-        updated_content = content[:up_time_section.start(1)] + f'\n```python\n{up_time_text}\n```\n\n' + content[up_time_section.end(1):]
+        updated_content = content[:up_time_section.start(1)] + f'\n```text\n{up_time_text}\n```\n' + content[up_time_section.end(1):]
 
         with open(file_path, 'w') as file:
             file.write(updated_content)
