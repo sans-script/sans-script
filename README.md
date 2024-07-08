@@ -19,7 +19,7 @@ I'm a junior front-end web developer. Currently, I'm pursuing a Bachelor's degre
 <br>
 
 <!--UP_TIME_START-->
-```text
+```python
 Up time: 18 years, 3 months and 14 days
 ```
 
