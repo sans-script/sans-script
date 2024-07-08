@@ -55,8 +55,6 @@ WSL                      11 hrs 52 mins      ███████████�
 
 <!--<img  src="https://github-readme-activity-graph.vercel.app/graph?username=sans-script&bg_color=0A0C10&color=36BCF7FF&line=36BCF7FF&point=006eff&area=true&hide_border=true&height=320"/>-->
 
-<br>
-
 <img width="100%" src="https://skillicons.dev/icons?i=html,css,js,python,tailwind,angular,react,nodejs,git,vscode,ubuntu,windows,codepen,github&theme=light&perline=16"/>
 
 <br>
