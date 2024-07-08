@@ -16,8 +16,6 @@ I'm a junior front-end web developer. Currently, I'm pursuing a Bachelor's degre
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-114.5%20thousand%20lines%20of%20code-blue)
 <!--END_SECTION:badges-->
 
-<br>
-
 <!--UP_TIME_START-->
 ```python
 Up time: 18 years, 3 months and 13 days
