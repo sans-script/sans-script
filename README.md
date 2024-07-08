@@ -25,31 +25,6 @@ Up time: 18 years, 3 months and 14 days
 <img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sans-script&theme=github_dark"/>
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 4 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   29.14 % 
-TypeScript               2 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-JavaScript               2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-YAML                     2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Python                   2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-
-🔥 Editors: 
-VS Code                  16 hrs 53 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-sans-script              9 hrs 10 mins       ██████████████░░░░░░░░░░░   54.27 % 
-material-ui              4 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   25.92 % 
-ReactProjects            3 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
-sans                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-Waka                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-
-💻 Operating System: 
-WSL                      16 hrs 53 mins      █████████████████████████   100.00 % 
-```
-
-
 <!--END_SECTION:waka-->
 
 <!--<img  src="https://github-readme-activity-graph.vercel.app/graph?username=sans-script&bg_color=0A0C10&color=36BCF7FF&line=36BCF7FF&point=006eff&area=true&hide_border=true&height=320"/>-->
