@@ -22,6 +22,7 @@ I'm a junior front-end web developer. Currently, I'm pursuing a Bachelor's degre
 ```python
 Up time: 18 years, 3 months and 14 days
 ```
+
 <!--UP_TIME_END-->
 
 <img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sans-script&theme=github_dark"/>
