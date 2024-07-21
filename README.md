@@ -29,25 +29,25 @@ Up time: 18 years, 3 months and 27 days
 
 ```text
 💬 Programming Languages: 
-TypeScript               33 hrs 49 mins      ██████████████████████░░░   88.58 % 
-Other                    1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-JSON                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-CSS                      36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-SCSS                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+TypeScript               35 hrs 8 mins       ██████████████████████░░░   87.10 % 
+SCSS                     1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+HTML                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+Other                    1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+CSS                      37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 
 🔥 Editors: 
-VS Code                  38 hrs 11 mins      █████████████████████████   100.00 % 
+VS Code                  40 hrs 21 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-valorant_agents          16 hrs 11 mins      ███████████░░░░░░░░░░░░░░   42.41 % 
-car_showcase             6 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-nestjs-class             4 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-react-native-app         2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-nextjs-template          2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+valorant_agents          17 hrs 55 mins      ███████████░░░░░░░░░░░░░░   44.44 % 
+car_showcase             6 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+nestjs-class             4 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+material-ui              4 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+react-native-app         2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
 
 💻 Operating System: 
-WSL                      33 hrs 40 mins      ██████████████████████░░░   88.17 % 
-Windows                  4 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+WSL                      37 hrs 24 mins      ███████████████████████░░   92.69 % 
+Windows                  2 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
 ```
 
 
