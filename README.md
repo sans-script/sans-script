@@ -29,26 +29,26 @@ Up time: 18 years, 4 months and 6 days
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 45 mins       ████████████████░░░░░░░░░   63.22 % 
-JSON                     1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Bash                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-JavaScript               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-Other                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+TypeScript               4 hrs 10 mins       ████████████░░░░░░░░░░░░░   47.71 % 
+JSON                     1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
+Bash                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+JavaScript               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+YAML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 16 mins      █████████████████████████   100.00 % 
+VS Code                  8 hrs 44 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-barba-brutal             5 hrs 14 mins       ███████████░░░░░░░░░░░░░░   42.70 % 
-artist_spotify           3 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   32.46 % 
-backend                  2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-barba-brutal-v2          25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-Unknown Project          21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+barba-brutal             5 hrs 14 mins       ███████████████░░░░░░░░░░   60.02 % 
+backend                  2 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
+material-ui              26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+barba-brutal-v2          25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+Unknown Project          21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
 
 💻 Operating System: 
-WSL                      11 hrs 24 mins      ███████████████████████░░   92.87 % 
-Windows                  33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-Linux                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+WSL                      7 hrs 51 mins       ██████████████████████░░░   89.98 % 
+Windows                  33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+Linux                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 ```
 
 
