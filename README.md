@@ -29,24 +29,23 @@ Up time: 18 years, 4 months and 16 days
 
 ```text
 💬 Programming Languages: 
-HTML                     4 hrs 52 mins       ███████████░░░░░░░░░░░░░░   43.21 % 
-TypeScript               2 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
-JavaScript               2 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
-SCSS                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+JavaScript               2 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   32.10 % 
+TypeScript               1 hr 51 mins        ███████░░░░░░░░░░░░░░░░░░   28.19 % 
+HTML                     1 hr 48 mins        ███████░░░░░░░░░░░░░░░░░░   27.55 % 
+SQL                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 17 mins      █████████████████████████   100.00 % 
+VS Code                  6 hrs 35 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-material-ui              8 hrs 26 mins       ███████████████████░░░░░░   74.75 % 
-Node                     2 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
-react-native-app         28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+material-ui              3 hrs 44 mins       ██████████████░░░░░░░░░░░   56.75 % 
+Node                     2 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   35.92 % 
+react-native-app         28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
 
 💻 Operating System: 
-Linux                    4 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   41.62 % 
-WSL                      3 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   33.13 % 
-Windows                  2 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
+WSL                      3 hrs 44 mins       ██████████████░░░░░░░░░░░   56.75 % 
+Windows                  2 hrs 51 mins       ███████████░░░░░░░░░░░░░░   43.25 % 
 ```
 
 
