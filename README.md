@@ -29,24 +29,24 @@ Up time: 18 years, 4 months and 21 days
 
 ```text
 💬 Programming Languages: 
-TypeScript               12 hrs 33 mins      ██████████████████░░░░░░░   71.46 % 
-JavaScript               2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-HTML                     1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-SQL                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-Bash                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+TypeScript               14 hrs 4 mins       ███████████████████░░░░░░   75.97 % 
+HTML                     2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+JavaScript               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Bash                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+SQL                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 34 mins      █████████████████████████   100.00 % 
+VS Code                  18 hrs 30 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-spotify-artist           9 hrs 50 mins       ██████████████░░░░░░░░░░░   56.04 % 
-material-ui              3 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
-Node                     2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-valorant-agents-showcase 1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+spotify-artist           9 hrs 50 mins       █████████████░░░░░░░░░░░░   53.19 % 
+material-ui              6 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   33.52 % 
+valorant-agents-showcase 1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+Node                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
 
 💻 Operating System: 
-WSL                      15 hrs 6 mins       ██████████████████████░░░   86.01 % 
-Windows                  2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+WSL                      17 hrs 37 mins      ████████████████████████░   95.19 % 
+Windows                  53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
 ```
 
 
