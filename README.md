@@ -11,9 +11,13 @@ I'm a junior front-end web developer. Currently, I'm pursuing a Bachelor's degre
 **I build and break stuff 🙃**
 
 <!--START_SECTION:badges-->
-![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-148%20hrs%201%20min-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-385.2%20thousand%20lines%20of%20code-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-385.8%20thousand%20lines%20of%20code-blue)
+
+
 <!--END_SECTION:badges-->
 
 <!--UP_TIME_START-->
