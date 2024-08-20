@@ -1,6 +1,6 @@
 # Hello World!!!
 
-<img src="https://github.com/sans-script.png" width="200px" align="right" >
+<img src="https://github.com/sans-script.png" width="150px" align="right" >
 
   <p align="left">
 I'm a junior front-end web developer. Currently, I'm pursuing a Bachelor's degree in Science and Technology at the Federal University of Maranhão.
@@ -12,7 +12,6 @@ I'm a junior front-end web developer. Currently, I'm pursuing a Bachelor's degre
 
 <!--START_SECTION:badges-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-156%20hrs%2056%20mins-blue)
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-386.2%20thousand%20lines%20of%20code-blue)
 <!--END_SECTION:badges-->
 
