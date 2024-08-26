@@ -12,15 +12,12 @@ I'm a junior front-end web developer. Currently, I'm pursuing a Bachelor's degre
 
 <!--START_SECTION:badges-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-170%20hrs%2013%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-399.1%20thousand%20lines%20of%20code-blue)
-
-
 <!--END_SECTION:badges-->
 
 <!--UP_TIME_START-->
 ```text
-Up time: 18 years, 5 months and 1 days
+Up time: 18 years, 5 months and 2 days
 ```
 <!--UP_TIME_END-->
 
