@@ -28,21 +28,21 @@ Up time: 18 years, 5 months and 2 days
 
 ```text
 💬 Programming Languages: 
-TypeScript               9 hrs 13 mins       █████████████████░░░░░░░░   69.53 % 
-HTML                     3 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
-SCSS                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+TypeScript               6 hrs 5 mins        ███████████████░░░░░░░░░░   61.09 % 
+HTML                     3 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   34.30 % 
+SCSS                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 15 mins      █████████████████████████   100.00 % 
+VS Code                  9 hrs 57 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-material-ui              8 hrs 22 mins       ████████████████░░░░░░░░░   63.13 % 
-spotify-artist           4 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   36.87 % 
+material-ui              8 hrs 22 mins       █████████████████████░░░░   83.97 % 
+spotify-artist           1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
 
 💻 Operating System: 
-WSL                      13 hrs 15 mins      █████████████████████████   100.00 % 
+WSL                      9 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 
