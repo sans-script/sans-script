@@ -28,23 +28,23 @@ Up time: 18 years, 5 months and 7 days
 
 ```text
 💬 Programming Languages: 
-TypeScript               8 hrs 27 mins       █████████████░░░░░░░░░░░░   50.38 % 
-HTML                     3 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
-SCSS                     1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-YAML                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-Other                    39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+TypeScript               9 hrs 46 mins       ███████████░░░░░░░░░░░░░░   44.55 % 
+HTML                     4 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
+SCSS                     4 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+YAML                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+Other                    39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 46 mins      █████████████████████████   100.00 % 
+VS Code                  21 hrs 55 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-material-ui              11 hrs 1 min        ████████████████░░░░░░░░░   65.73 % 
-spotify-artist           2 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-user-registration        2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-prototype                51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+material-ui              16 hrs 10 mins      ██████████████████░░░░░░░   73.78 % 
+spotify-artist           2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+user-registration        2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+prototype                51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
 
 💻 Operating System: 
-WSL                      16 hrs 46 mins      █████████████████████████   100.00 % 
+WSL                      21 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 
