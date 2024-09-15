@@ -17,7 +17,7 @@ I'm a front-end developer. Currently, I'm pursuing a Bachelor's degree in Scienc
 
 <!--UP_TIME_START-->
 ```text
-Up time: 18 years, 5 months and 21 days
+Up time: 18 years, 5 months and 22 days
 ```
 <!--UP_TIME_END-->
 
