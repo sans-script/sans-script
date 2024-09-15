@@ -52,7 +52,19 @@ WSL                      22 hrs 32 mins      ███████████�
 
 <!--<img  src="https://github-readme-activity-graph.vercel.app/graph?username=sans-script&bg_color=0A0C10&color=36BCF7FF&line=36BCF7FF&point=006eff&area=true&hide_border=true&height=320"/>-->
 
-<img width="100%" src="https://skillicons.dev/icons?i=html,css,js,python,tailwind,angular,react,nodejs,git,vscode,ubuntu,windows,codepen,github&theme=light&perline=16"/>
+<!-- Languages: HTML, CSS, Sass, JavaScript, TypeScript, Python, LaTeX
+
+Frameworks and Libraries: Angular, React, Next.js, Vite, Node.js, Tailwind CSS
+
+Build and Packaging Tools: NPM, Docker
+
+Version Control and Deployment Tools: Git, GitHub, Vercel
+
+Database: PostgreSQL
+
+Development Tools and Environments: VS Code, Ubuntu, Windows, CodePen, Figma -->
+
+<img width="100%" src="https://skillicons.dev/icons?i=html,css,sass,js,ts,python,latex,angular,react,nextjs,vite,nodejs,tailwind,npm,docker,git,github,vercel,postgres,vscode,ubuntu,windows,codepen,figma&theme=light&perline=25" alt="Skills Icons"/>
 
 <br>
 
