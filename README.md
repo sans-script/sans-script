@@ -28,24 +28,24 @@ Up time: 18 years, 6 months and 1 days
 
 ```text
 💬 Programming Languages: 
-TypeScript               11 hrs 54 mins      ███████████░░░░░░░░░░░░░░   44.30 % 
-JavaScript               9 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   34.89 % 
-Markdown                 1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-JSON                     1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-Bash                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+TypeScript               7 hrs 48 mins       ███████████░░░░░░░░░░░░░░   44.12 % 
+JavaScript               6 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   35.65 % 
+Markdown                 1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+JSON                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Git Config               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 
 🔥 Editors: 
-VS Code                  26 hrs 53 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 42 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-frontend                 12 hrs 31 mins      ████████████░░░░░░░░░░░░░   46.56 % 
-country-info-app         4 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-backend                  3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-redirectfy               2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-mvc-example              1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+frontend                 8 hrs 50 mins       ████████████░░░░░░░░░░░░░   49.92 % 
+backend                  2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+mvc-example              1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+country-info-app         1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+country-app              1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
 
 💻 Operating System: 
-WSL                      26 hrs 53 mins      █████████████████████████   100.00 % 
+WSL                      17 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 
