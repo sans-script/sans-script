@@ -28,21 +28,19 @@ Up time: 18 years, 6 months and 10 days
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 31 mins        ███████████████████████░░   91.87 % 
+JavaScript               1 hr 31 mins        ███████████████████████░░   91.92 % 
 Bash                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
 VS Code                  1 hr 39 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-frontend                 39 mins             ██████████░░░░░░░░░░░░░░░   39.50 % 
-backend                  32 mins             ████████░░░░░░░░░░░░░░░░░   33.04 % 
-country-app              26 mins             ███████░░░░░░░░░░░░░░░░░░   26.14 % 
+frontend                 39 mins             ██████████░░░░░░░░░░░░░░░   39.58 % 
+backend                  32 mins             ████████░░░░░░░░░░░░░░░░░   33.06 % 
+country-app              26 mins             ███████░░░░░░░░░░░░░░░░░░   26.16 % 
 mvc-app                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-material-ui              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
 WSL                      1 hr 39 mins        █████████████████████████   100.00 % 
