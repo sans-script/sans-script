@@ -28,22 +28,19 @@ Up time: 18 years, 7 months and 1 days
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 49 mins        █████████████░░░░░░░░░░░░   52.62 % 
-HTML                     1 hr 18 mins        █████████░░░░░░░░░░░░░░░░   37.97 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-SCSS                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+HTML                     54 mins             █████████████████████░░░░   83.43 % 
+Markdown                 10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 27 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 4 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-material-ui              2 hrs 24 mins       █████████████████░░░░░░░░   69.51 % 
-frontend                 53 mins             ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
-DevOps-Aulas             10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+frontend                 54 mins             █████████████████████░░░░   84.27 % 
+DevOps-Aulas             10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
 
 💻 Operating System: 
-WSL                      3 hrs 27 mins       █████████████████████████   100.00 % 
+WSL                      1 hr 4 mins         █████████████████████████   100.00 % 
 ```
 
 
