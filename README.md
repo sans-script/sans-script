@@ -28,19 +28,22 @@ Up time: 18 years, 7 months and 8 days
 
 ```text
 💬 Programming Languages: 
-HTML                     4 hrs 4 mins        ██████████████████████░░░   89.25 % 
-Markdown                 29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+HTML                     4 hrs 13 mins       █████████████████████░░░░   84.56 % 
+Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+TypeScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+SCSS                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 34 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 59 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-frontend                 4 hrs 4 mins        ██████████████████████░░░   89.31 % 
-DevOps-Aulas             29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+frontend                 4 hrs 4 mins        ████████████████████░░░░░   81.82 % 
+DevOps-Aulas             29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+material-ui              25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
 
 💻 Operating System: 
-WSL                      4 hrs 34 mins       █████████████████████████   100.00 % 
+WSL                      4 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 
