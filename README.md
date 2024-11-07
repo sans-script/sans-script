@@ -28,23 +28,23 @@ Up time: 18 years, 7 months and 14 days
 
 ```text
 💬 Programming Languages: 
-TeX                      6 hrs 50 mins       ███████████████████████░░   91.78 % 
-TypeScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-HTML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-SCSS                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+TeX                      6 hrs 50 mins       ████████████████████░░░░░   80.52 % 
+TypeScript               1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+HTML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Git Config               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+SCSS                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 27 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 30 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LaTex                    6 hrs 26 mins       ██████████████████████░░░   86.41 % 
-lecture-notes            28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-material-ui              26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
-chatbot-client           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+LaTex                    6 hrs 26 mins       ███████████████████░░░░░░   75.82 % 
+chatbot-client           1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+lecture-notes            28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+material-ui              26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
 
 💻 Operating System: 
-WSL                      7 hrs 27 mins       █████████████████████████   100.00 % 
+WSL                      8 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 
