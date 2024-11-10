@@ -27,22 +27,21 @@ Up time: 18 years, 7 months and 17 days
 
 ```text
 💬 Programming Languages: 
-TeX                      6 hrs 48 mins       ████████████████░░░░░░░░░   64.38 % 
-TypeScript               2 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
-Git Config               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-HTML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+TeX                      5 hrs 20 mins       ███████████████░░░░░░░░░░   59.04 % 
+TypeScript               2 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   29.92 % 
+Git Config               36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+HTML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 34 mins      █████████████████████████   100.00 % 
+VS Code                  9 hrs 3 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LaTex                    6 hrs 24 mins       ███████████████░░░░░░░░░░   60.59 % 
-chatbot-client           3 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   34.89 % 
-lecture-notes            28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+LaTex                    5 hrs 21 mins       ███████████████░░░░░░░░░░   59.23 % 
+chatbot-client           3 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   40.77 % 
 
 💻 Operating System: 
-WSL                      10 hrs 34 mins      █████████████████████████   100.00 % 
+WSL                      9 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 
