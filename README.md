@@ -28,21 +28,20 @@ Up time: 18 years, 7 months and 18 days
 
 ```text
 💬 Programming Languages: 
-TeX                      5 hrs 20 mins       ███████████████░░░░░░░░░░   59.04 % 
-TypeScript               2 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   29.92 % 
-Git Config               36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-HTML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+TypeScript               2 hrs 42 mins       ██████████████████░░░░░░░   73.39 % 
+Git Config               36 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+HTML                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 3 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 41 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LaTex                    5 hrs 21 mins       ███████████████░░░░░░░░░░   59.23 % 
-chatbot-client           3 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   40.77 % 
+chatbot-client           3 hrs 41 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      9 hrs 3 mins        █████████████████████████   100.00 % 
+WSL                      3 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 
