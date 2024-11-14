@@ -28,21 +28,21 @@ Up time: 18 years, 7 months and 21 days
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 58 mins       █████████████████░░░░░░░░   68.73 % 
-HTML                     43 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-Git Config               36 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+TypeScript               2 hrs 30 mins       █████████████████░░░░░░░░   66.80 % 
+HTML                     44 mins             █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+Git Config               28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 20 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 45 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-chatbot-client           4 hrs 15 mins       █████████████████████████   98.20 % 
-material-ui              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+chatbot-client           3 hrs 40 mins       ████████████████████████░   97.92 % 
+material-ui              4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 💻 Operating System: 
-WSL                      4 hrs 20 mins       █████████████████████████   100.00 % 
+WSL                      3 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 
