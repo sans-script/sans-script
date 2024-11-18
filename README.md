@@ -28,7 +28,7 @@ Up time: 18 years, 7 months and 25 days
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 15 mins        ██████████████░░░░░░░░░░░   56.61 % 
+TypeScript               1 hr 15 mins        ██████████████░░░░░░░░░░░   56.60 % 
 HTML                     37 mins             ███████░░░░░░░░░░░░░░░░░░   28.32 % 
 JSON                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
 Image (svg)              4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
