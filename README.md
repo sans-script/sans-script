@@ -28,19 +28,23 @@ Up time: 18 years, 7 months and 28 days
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 2 mins         ████████████████░░░░░░░░░   66.00 % 
-JSON                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-HTML                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Image (svg)              4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+CSS                      1 hr 45 mins        ████████████░░░░░░░░░░░░░   49.27 % 
+HTML                     46 mins             █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
+TypeScript               41 mins             █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+JSON                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+Image (svg)              4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 
 🔥 Editors: 
-VS Code                  1 hr 35 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 33 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-chatbot-client           1 hr 35 mins        █████████████████████████   100.00 % 
+portfolio                2 hrs 15 mins       ████████████████░░░░░░░░░   63.56 % 
+chatbot-client           1 hr 6 mins         ████████░░░░░░░░░░░░░░░░░   31.11 % 
+portfolioAci             11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
 
 💻 Operating System: 
-WSL                      1 hr 35 mins        █████████████████████████   100.00 % 
+WSL                      3 hrs 22 mins       ████████████████████████░   94.66 % 
+Windows                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
 ```
 
 
