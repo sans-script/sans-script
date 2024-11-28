@@ -28,25 +28,23 @@ Up time: 18 years, 8 months and 4 days
 
 ```text
 💬 Programming Languages: 
-HTML                     2 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   32.42 % 
-CSS                      1 hr 45 mins        ███████░░░░░░░░░░░░░░░░░░   27.88 % 
-TypeScript               1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-TeX                      33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-SCSS                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+HTML                     1 hr 21 mins        ████████░░░░░░░░░░░░░░░░░   33.91 % 
+TypeScript               1 hr 18 mins        ████████░░░░░░░░░░░░░░░░░   32.67 % 
+TeX                      33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+SCSS                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+JavaScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 18 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 59 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DevOps-Aulas             3 hrs 3 mins        ████████████░░░░░░░░░░░░░   48.39 % 
-portfolio                2 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   35.87 % 
-LaTex                    33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-telasdevops              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-portfolioAci             11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+DevOps-Aulas             3 hrs 3 mins        ███████████████████░░░░░░   76.57 % 
+LaTex                    33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+telasdevops              14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+chatbot-client           7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 
 💻 Operating System: 
-WSL                      6 hrs 7 mins        ████████████████████████░   96.99 % 
-Windows                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+WSL                      3 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 
