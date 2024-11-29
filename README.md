@@ -28,23 +28,23 @@ Up time: 18 years, 8 months and 5 days
 
 ```text
 💬 Programming Languages: 
-HTML                     1 hr 21 mins        ████████░░░░░░░░░░░░░░░░░   33.91 % 
-TypeScript               1 hr 18 mins        ████████░░░░░░░░░░░░░░░░░   32.67 % 
-TeX                      33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-SCSS                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-JavaScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+TypeScript               2 hrs 17 mins       ███████████░░░░░░░░░░░░░░   45.23 % 
+HTML                     1 hr 26 mins        ███████░░░░░░░░░░░░░░░░░░   28.49 % 
+TeX                      33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+SCSS                     33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+JavaScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 59 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 4 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DevOps-Aulas             3 hrs 3 mins        ███████████████████░░░░░░   76.57 % 
-LaTex                    33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-telasdevops              14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-chatbot-client           7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+DevOps-Aulas             3 hrs 3 mins        ███████████████░░░░░░░░░░   60.21 % 
+chatbot-client           1 hr 12 mins        ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+LaTex                    33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+telasdevops              14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 
 💻 Operating System: 
-WSL                      3 hrs 59 mins       █████████████████████████   100.00 % 
+WSL                      5 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 
