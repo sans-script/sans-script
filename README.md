@@ -27,21 +27,24 @@ Up time: 18 years, 8 months and 7 days
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 9 mins        ██████████████░░░░░░░░░░░   57.09 % 
-HTML                     1 hr 6 mins         ███████░░░░░░░░░░░░░░░░░░   29.40 % 
-SCSS                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-JavaScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+TypeScript               3 hrs               █████████████░░░░░░░░░░░░   53.12 % 
+HTML                     1 hr 43 mins        ████████░░░░░░░░░░░░░░░░░   30.46 % 
+SCSS                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+JavaScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 46 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 39 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DevOps-Aulas             2 hrs 32 mins       █████████████████░░░░░░░░   67.53 % 
-chatbot-client           1 hr 13 mins        ████████░░░░░░░░░░░░░░░░░   32.47 % 
+chatbot-client           2 hrs 35 mins       ███████████░░░░░░░░░░░░░░   45.85 % 
+DevOps-Aulas             2 hrs 32 mins       ███████████░░░░░░░░░░░░░░   44.96 % 
+chatbot-api              16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+react-native-app-1       14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
 
 💻 Operating System: 
-WSL                      3 hrs 46 mins       █████████████████████████   100.00 % 
+WSL                      5 hrs 25 mins       ████████████████████████░   95.77 % 
+Windows                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
 ```
 
 
