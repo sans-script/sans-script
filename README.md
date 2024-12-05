@@ -17,7 +17,7 @@ I'm a front-end developer. Currently, I'm pursuing a Bachelor's degree in Scienc
 
 <!--UP_TIME_START-->
 ```text
-Up time: 18 years, 8 months and 9 days
+Up time: 18 years, 8 months and 10 days
 ```
 <!--UP_TIME_END-->
 
@@ -74,8 +74,6 @@ Development Tools and Environments: VS Code, Ubuntu, Windows, CodePen, Figma -->
 <img width="400px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=ap0b5ngrzs5bzl771j7gx64dz&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=1eff00&bar_color_cover=false" align="right" >
 
 <p align="left">If there's any music playing on my Spotify, it will show up here. This means I'm working on something really cool, or just taking a shower.</p>
-  
-<br>
 
 **Work Experience**
 
@@ -85,6 +83,11 @@ Development Tools and Environments: VS Code, Ubuntu, Windows, CodePen, Figma -->
 [**DevOps**](https://devops.tec.br/) • Full time \
 Feb • Currently \
 Languages & Technologies: `Angular17` `Tailwindcss` `TypeScript` `Node.js`
+
+<!--MODEL_RESPONSE_START-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&multiline=true&width=800&lines="Embrace+the+uncharted+waters+of+innovation";–+Grace+Hopper,+1960)](https://git.io/typing-svg)
+
+<!--MODEL_RESPONSE_END-->
 
 <!-- <img width="100%" src="https://raw.githubusercontent.com/sans-script/sans-script/output/snake.svg"/> -->
 
