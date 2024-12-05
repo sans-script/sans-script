@@ -85,7 +85,7 @@ Feb • Currently \
 Languages & Technologies: `Angular17` `Tailwindcss` `TypeScript` `Node.js`
 
 <!--MODEL_RESPONSE_START-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&multiline=true&width=800&lines="Embrace+the+uncharted+waters+of+innovation";–+Grace+Hopper,+1960)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&multiline=true&width=780&lines="Embrace+the+unpredictable+byte,+for+in+its+chaos+lies+innovation.";–+Vint+Cerf,+2024)](https://git.io/typing-svg)
 
 <!--MODEL_RESPONSE_END-->
 
