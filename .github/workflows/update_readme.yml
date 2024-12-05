@@ -2,8 +2,7 @@ name: Python Update README.md
 
 on:
   schedule:
-    # Runs at 12am IST, which is 18:35 UTC
-    - cron: '35 18 * * *'
+    - cron: '0 3 * * *'
   workflow_dispatch:
   push:
     branches:
