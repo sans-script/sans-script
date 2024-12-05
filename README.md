@@ -87,7 +87,7 @@ Languages & Technologies: `Angular17` `Tailwindcss` `TypeScript` `Node.js`
 <br>
 
 <!--MODEL_RESPONSE_START-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&multiline=true&width=780&lines="Embrace+the+unexpected,+for+within+it+lies+uncharted+potential.";–+John+Backus,+1990)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&multiline=true&width=780&lines="The+future+is+built+by+those+who+dare+to+imagine+it+and+then+execute+it+with+relentless+passion.";–+Elon+Musk,+2024)](https://git.io/typing-svg)
 
 <!--MODEL_RESPONSE_END-->
 
