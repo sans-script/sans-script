@@ -3,11 +3,9 @@ import os
 from datetime import datetime
 from dateutil.relativedelta import relativedelta
 import google.generativeai as genai
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 import random
 
-
-# Local
 # Load environment variables from .env file
 # load_dotenv()
 # Configure the Gemini API
@@ -15,7 +13,6 @@ import random
 
 # Configure the Gemini API using the environment variable directly
 genai.configure(api_key=os.environ["GEMINI_API_KEY"])
-
 # Model configuration
 generation_config = {
     "temperature": 1,
@@ -24,7 +21,6 @@ generation_config = {
     "max_output_tokens": 8192,
     "response_mime_type": "text/plain",
 }
-
 model = genai.GenerativeModel(
     model_name="gemini-1.5-flash",
     generation_config=generation_config,
@@ -117,8 +113,6 @@ prompt = (
 # Send the prompt to the model
 response = chat_session.send_message(prompt)
 
-print(response.text)
-
 def update_badges_section(file_path):
     with open(file_path, 'r') as file:
         content = file.read()
@@ -160,10 +154,6 @@ def update_up_time_section(file_path):
         with open(file_path, 'w') as file:
             file.write(updated_content)
             print("Up Time Section Done")
-
-import re
-
-
 
 def update_model_response(file_path):
     with open(file_path, 'r') as file:

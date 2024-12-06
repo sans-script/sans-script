@@ -98,14 +98,12 @@ prompt = (
     "The 'lines' parameter should contain the phrase, with words separated by '+' to ensure proper URL encoding. "
     "Make sure the 'multiline' attribute is used to split the text into separate lines within the SVG, making it more readable in a README or similar document. "
     "Always adjust the 'width' parameter dynamically to fit the entire length of the phrase, ensuring no part of it is cut off, and make sure the value is never less than 750.\n\n"
-    "The 'color' parameter can be adjusted to set the text color to one that is clearly visible on either dark or light backgrounds, ensuring good contrast and readability. "
-    "Choose a color that fits well with the Dracula theme of VSCode.\n\n"
     "Ensure that the text and the author citation are placed on separate lines within the 'lines' parameter to keep the formatting clear and readable. "
     "Make sure to enclose the phrase in double quotes for proper display.\n\n"
     "For example:\n"
-    "[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=12&pause=1000&color=F7F7F7&multiline=true&width=435&lines=The+five+boxing+wizards+jump+quickly;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)\n\n"
+    "[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&multiline=true&width=435&lines=The+five+boxing+wizards+jump+quickly;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)\n\n"
     "Ensure the phrase is formatted as follows:\n\n"
-    "[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=12&pause=1000&color=THE_TEXT_COLOR&multiline=true&width=YOUR_WIDTH&lines=\"Your+motivational+phrase+here\";–+Author+Name,+Year)](https://git.io/typing-svg)\n\n"
+    "[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&multiline=true&width=YOUR_WIDTH&lines=\"Your+motivational+phrase+here\";–+Author+Name,+Year)](https://git.io/typing-svg)\n\n"
     "Your response should only include the Markdown link with the formatted phrase."
 )
 
@@ -116,5 +114,5 @@ response = chat_session.send_message(prompt)
 print(response.text)
 
 # Save the quote to a file for future reference
-with open("motivational_quotes.md", "a") as file:
+with open("RESPONSE.md", "a") as file:
     file.write(f"{response.text}\n")
