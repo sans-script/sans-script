@@ -28,23 +28,22 @@ Up time: 18 years, 8 months and 15 days
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 1 min         ████████████████░░░░░░░░░   62.44 % 
-Markdown                 1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-CSS                      41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Python                   3 hrs 58 mins       ██████████████████░░░░░░░   73.71 % 
+Markdown                 1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Image (svg)              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 27 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 23 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sans-script              5 hrs 26 mins       █████████████████████░░░░   84.36 % 
-Unknown Project          1 hr                ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+sans-script              5 hrs 23 mins       █████████████████████████   99.95 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-WSL                      3 hrs 59 mins       ███████████████░░░░░░░░░░   61.94 % 
-Windows                  1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
-Linux                    1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+WSL                      3 hrs 59 mins       ███████████████████░░░░░░   74.22 % 
+Windows                  1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
 ```
 
 
