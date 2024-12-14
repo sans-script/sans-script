@@ -28,22 +28,21 @@ Up time: 18 years, 8 months and 20 days
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 37 mins        █████████████████░░░░░░░░   69.35 % 
-Markdown                 28 mins             █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
-YAML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-Image (svg)              4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Python                   1 hr 33 mins        ██████████████████░░░░░░░   73.10 % 
+Markdown                 27 mins             █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
+YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 20 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 7 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sans-script              2 hrs 18 mins       █████████████████████████   98.51 % 
-DevOps-Aulas             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+sans-script              2 hrs 5 mins        █████████████████████████   98.36 % 
+DevOps-Aulas             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 
 💻 Operating System: 
-Windows                  1 hr 23 mins        ███████████████░░░░░░░░░░   59.34 % 
-WSL                      57 mins             ██████████░░░░░░░░░░░░░░░   40.66 % 
+Windows                  1 hr 23 mins        ████████████████░░░░░░░░░   65.04 % 
+WSL                      44 mins             █████████░░░░░░░░░░░░░░░░   34.96 % 
 ```
 
 
