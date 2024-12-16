@@ -28,16 +28,21 @@ Up time: 18 years, 8 months and 22 days
 
 ```text
 💬 Programming Languages: 
-HTML                     2 mins              █████████████████████████   100.00 % 
+CSS                      48 mins             ████████████████░░░░░░░░░   64.54 % 
+HTML                     24 mins             ████████░░░░░░░░░░░░░░░░░   33.23 % 
+PHP                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+VS Code                  1 hr 15 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DevOps-Aulas             2 mins              █████████████████████████   100.00 % 
+frontend                 1 hr 12 mins        ████████████████████████░   96.40 % 
+DevOps-Aulas             2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+sistema-rastreador       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 💻 Operating System: 
-WSL                      2 mins              █████████████████████████   100.00 % 
+WSL                      1 hr 15 mins        █████████████████████████   100.00 % 
 ```
 
 
