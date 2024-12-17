@@ -28,21 +28,23 @@ Up time: 18 years, 8 months and 23 days
 
 ```text
 💬 Programming Languages: 
-CSS                      48 mins             ████████████████░░░░░░░░░   64.54 % 
-HTML                     24 mins             ████████░░░░░░░░░░░░░░░░░   33.23 % 
-PHP                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+HTML                     1 hr 14 mins        █████████████░░░░░░░░░░░░   50.91 % 
+CSS                      48 mins             ████████░░░░░░░░░░░░░░░░░   33.27 % 
+TypeScript               21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+PHP                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  1 hr 15 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 26 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-frontend                 1 hr 12 mins        ████████████████████████░   96.40 % 
-DevOps-Aulas             2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-sistema-rastreador       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+frontend                 1 hr 12 mins        ████████████░░░░░░░░░░░░░   49.34 % 
+chatbot-client           1 hr 11 mins        ████████████░░░░░░░░░░░░░   48.81 % 
+DevOps-Aulas             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+sistema-rastreador       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 💻 Operating System: 
-WSL                      1 hr 15 mins        █████████████████████████   100.00 % 
+WSL                      2 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 
