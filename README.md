@@ -17,7 +17,7 @@ I'm a front-end developer. Currently, I'm pursuing a Bachelor's degree in Scienc
 
 <!--UP_TIME_START-->
 ```text
-Up time: 18 years, 8 months and 23 days
+Up time: 18 years, 8 months and 24 days
 ```
 <!--UP_TIME_END-->
 
@@ -84,7 +84,7 @@ Languages & Technologies: `Angular17` `Tailwindcss` `TypeScript` `Node.js`
 <br>
 
 <!--MODEL_RESPONSE_START-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&multiline=true&width=780&lines="Embrace+the+unpredictable+flow%2C+for+within+it+lies+the+seed+of+innovation.";–+Hal+Abelson,+2024)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&multiline=true&width=780&lines="Embrace+the+unexpected%2C+for+in+it+lies+the+seed+of+innovation.";–+James+Gosling,+2024)](https://git.io/typing-svg)
 
 <!--MODEL_RESPONSE_END-->
 
