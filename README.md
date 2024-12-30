@@ -28,19 +28,23 @@ Up time: 18 years, 9 months and 6 days
 
 ```text
 💬 Programming Languages: 
-TeX                      4 mins              ████████████░░░░░░░░░░░░░   48.28 % 
-TypeScript               2 mins              ████████░░░░░░░░░░░░░░░░░   32.61 % 
-Python                   1 min               █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
+JavaScript               1 hr 55 mins        ███████████████████░░░░░░   76.36 % 
+CSS                      20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+TeX                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
+VS Code                  2 hrs 30 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-backup                   5 mins              █████████████████░░░░░░░░   67.39 % 
-chatbot-client           2 mins              ████████░░░░░░░░░░░░░░░░░   32.61 % 
+my-latex-markdown-render 2 hrs 22 mins       ████████████████████████░   94.30 % 
+backup                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+chatbot-client           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+country-info-app         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-WSL                      8 mins              █████████████████████████   100.00 % 
+WSL                      2 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 
