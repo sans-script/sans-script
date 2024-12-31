@@ -28,23 +28,24 @@ Up time: 18 years, 9 months and 7 days
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 55 mins        ███████████████████░░░░░░   76.36 % 
-CSS                      20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-TeX                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-TypeScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+JavaScript               7 hrs 19 mins       ██████████████████████░░░   86.23 % 
+CSS                      39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+TypeScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+TeX                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 30 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 30 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-my-latex-markdown-render 2 hrs 22 mins       ████████████████████████░   94.30 % 
-backup                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-chatbot-client           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-country-info-app         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+my-latex-markdown-render 8 hrs 18 mins       ████████████████████████░   97.69 % 
+backup                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+render                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+chatbot-client           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+country-info-app         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-WSL                      2 hrs 30 mins       █████████████████████████   100.00 % 
+WSL                      8 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 
