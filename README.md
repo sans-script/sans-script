@@ -28,23 +28,23 @@ Up time: 18 years, 9 months and 9 days
 
 ```text
 💬 Programming Languages: 
-JavaScript               15 hrs 18 mins      ███████████████████████░░   92.83 % 
-CSS                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-TypeScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-TeX                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+JavaScript               19 hrs 28 mins      ███████████████████████░░   92.76 % 
+CSS                      59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+TypeScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+TeX                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 29 mins      █████████████████████████   100.00 % 
+VS Code                  20 hrs 59 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-my-latex-markdown-render 16 hrs 18 mins      █████████████████████████   98.93 % 
-backup                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-render                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+my-latex-markdown-render 20 hrs 48 mins      █████████████████████████   99.16 % 
+backup                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+render                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 country-info-app         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-WSL                      16 hrs 29 mins      █████████████████████████   100.00 % 
+WSL                      20 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 
