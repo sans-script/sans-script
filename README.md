@@ -83,7 +83,7 @@ Languages & Technologies: `Angular17` `Tailwindcss` `TypeScript` `Node.js`
 <br>
 
 <!--MODEL_RESPONSE_START-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&multiline=true&width=800&lines="Weave+the+web+of+possibility,+one+link+at+a+time.";–+Tim+Berners-Lee,+2024)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&multiline=true&width=800&lines="Embrace+the+uncertain,+for+within+it+lies+the+seed+of+innovation.";–+Sergey+Brin,+2024)](https://git.io/typing-svg)
 
 <!--MODEL_RESPONSE_END-->
 
