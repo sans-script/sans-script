@@ -27,23 +27,23 @@ Up time: 18 years, 9 months and 16 days
 
 ```text
 💬 Programming Languages: 
-JavaScript               9 hrs 49 mins       ███████████████████████░░   93.99 % 
-CSS                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+JavaScript               5 hrs 38 mins       ████████████████████████░   95.11 % 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 27 mins      █████████████████████████   100.00 % 
+VS Code                  5 hrs 56 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-my-latex-markdown-render 9 hrs 24 mins       ██████████████████████░░░   90.00 % 
-markhub-backend          42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-Unknown Project          20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+my-latex-markdown-render 4 hrs 53 mins       █████████████████████░░░░   82.38 % 
+markhub-backend          42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Unknown Project          20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
 
 💻 Operating System: 
-WSL                      10 hrs 6 mins       ████████████████████████░   96.73 % 
-Windows                  20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+WSL                      5 hrs 35 mins       ████████████████████████░   94.24 % 
+Windows                  20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
 ```
 
 
