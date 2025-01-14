@@ -28,18 +28,16 @@ Up time: 18 years, 9 months and 21 days
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 4 mins         █████████████████████████   100.00 % 
+JavaScript               2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 4 mins         █████████████████████████   100.00 % 
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-my-latex-markdown-render 43 mins             █████████████████░░░░░░░░   68.21 % 
-Unknown Project          20 mins             ████████░░░░░░░░░░░░░░░░░   31.79 % 
+my-latex-markdown-render 2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      43 mins             █████████████████░░░░░░░░   68.21 % 
-Windows                  20 mins             ████████░░░░░░░░░░░░░░░░░   31.79 % 
+WSL                      2 mins              █████████████████████████   100.00 % 
 ```
 
 
