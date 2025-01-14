@@ -77,7 +77,7 @@ Languages & Technologies: `Angular17` `Tailwindcss` `TypeScript` `Node.js`
 <br>
 
 <!--MODEL_RESPONSE_START-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&multiline=true&width=780&lines="Embrace+the+unseen+path%2C+for+it+holds+the+greatest+rewards.";–+Ken+Thompson,+2024)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&multiline=true&width=780&lines="Innovate+without+limit,+create+with+purpose.";–+Ada+Lovelace,+1843)](https://git.io/typing-svg)
 
 <!--MODEL_RESPONSE_END-->
 
