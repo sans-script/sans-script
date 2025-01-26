@@ -28,17 +28,23 @@ Up time: 18 years, 10 months and 2 days
 
 ```text
 💬 Programming Languages: 
-HTML                     1 hr 34 mins        █████████████████████████   100.00 % 
+JavaScript               3 hrs 54 mins       ████████████████░░░░░░░░░   64.11 % 
+HTML                     2 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   33.23 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-VS Code                  1 hr 34 mins        █████████████████████████   100.00 % 
+VS Code                  6 hrs 6 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Wave                     1 hr 30 mins        ████████████████████████░   95.98 % 
-Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+my-latex-markdown-render 4 hrs 4 mins        █████████████████░░░░░░░░   66.77 % 
+Wave                     1 hr 57 mins        ████████░░░░░░░░░░░░░░░░░   32.19 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 💻 Operating System: 
-Windows                  1 hr 34 mins        █████████████████████████   100.00 % 
+WSL                      4 hrs 4 mins        █████████████████░░░░░░░░   66.77 % 
+Windows                  2 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   33.23 % 
 ```
 
 
