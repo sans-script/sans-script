@@ -11,8 +11,11 @@ I'm a front-end developer. Currently, I'm pursuing a Bachelor's degree in Scienc
 **I build and break stuff 🙃**
 
 <!--START_SECTION:badges-->
-![Code Time](http://img.shields.io/badge/Code%20Time-383%20hrs%2048%20mins-blue)
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-652.4%20thousand%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-382%20hrs%2050%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-652.8%20thousand%20lines%20of%20code-blue)
+
+
 <!--END_SECTION:badges-->
 
 <!--UP_TIME_START-->
