@@ -12,10 +12,7 @@ I'm a front-end developer. Currently, I'm pursuing a Bachelor's degree in Scienc
 
 <!--START_SECTION:badges-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-387%20hrs%2055%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-656.0%20thousand%20lines%20of%20code-blue)
-
-
 <!--END_SECTION:badges-->
 
 <!--UP_TIME_START-->
@@ -89,7 +86,7 @@ Languages & Technologies: `Angular17` `Tailwindcss` `TypeScript` `Node.js`
 <br>
 
 <!--MODEL_RESPONSE_START-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&multiline=true&width=780&lines="Embrace+the+unpredictable,+for+within+it+lies+unexpected+growth.";–+Rosalind+Picard,+2024)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&multiline=true&width=800&lines="Elegance+is+not+a+luxury%2C+it%27s+a+necessity+in+a+complex+world.";–+Brian+Kernighan,+2024)](https://git.io/typing-svg)
 
 <!--MODEL_RESPONSE_END-->
 
