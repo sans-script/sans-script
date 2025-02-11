@@ -31,25 +31,25 @@ Up time: 18 years, 10 months and 18 days
 
 ```text
 💬 Programming Languages: 
-TeX                      11 hrs 11 mins      ████████████████░░░░░░░░░   64.92 % 
-JavaScript               2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-Python                   2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-Markdown                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+TeX                      11 hrs 17 mins      ████████████████░░░░░░░░░   65.12 % 
+JavaScript               2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Python                   2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Markdown                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 15 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 20 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Chemistry                7 hrs 15 mins       ███████████░░░░░░░░░░░░░░   42.03 % 
-LaTex                    4 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   26.36 % 
-alura                    2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-Tars                     2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Unknown Project          23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Chemistry                7 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   41.80 % 
+LaTex                    4 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   26.77 % 
+alura                    2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+Tars                     2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+Unknown Project          23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 
 💻 Operating System: 
-WSL                      14 hrs 36 mins      █████████████████████░░░░   84.64 % 
-Windows                  2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+WSL                      14 hrs 41 mins      █████████████████████░░░░   84.73 % 
+Windows                  2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
 ```
 
 
