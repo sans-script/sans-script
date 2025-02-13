@@ -86,7 +86,7 @@ Languages & Technologies: `Angular17` `Tailwindcss` `TypeScript` `Node.js`
 <br>
 
 <!--MODEL_RESPONSE_START-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&multiline=true&width=800&lines="Embrace+the+uncertain+horizon%2C+for+it+holds+the+seeds+of+innovation.";–+Margaret+Hamilton,+1969)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&multiline=true&width=780&lines="Embrace+the+uncertain,+lead+with+courage,+and+define+your+own+success.";–+Sheryl+Sandberg,+2024)](https://git.io/typing-svg)
 
 <!--MODEL_RESPONSE_END-->
 
