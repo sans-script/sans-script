@@ -1,6 +1,6 @@
 # Hello World!!!
 
-<img src="https://github.com/sans-script.png" width="170px" align="right" >
+<img src="https://github.com/sans-script.png" width="150px" align="right" >
 <br>
   <p align="left">
 I'm a front-end developer. Currently, I'm pursuing a Bachelor's degree in Science and Technology at the Federal University of Maranhão.
