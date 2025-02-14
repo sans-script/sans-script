@@ -3,7 +3,7 @@
 <img src="https://github.com/sans-script.png" width="130px" align="right" >
 <br>
   <p align="left">
-I'm a front-end developer. Currently, I'm pursuing a Bachelor's degree in Science and Technology at the Federal University of Maranhão.
+I'm a Frontend Developer. Currently, I'm pursuing a Bachelor's degree in Science and Technology at the Federal University of Maranhão.
   </p>
 
 **A passionate front-end web developer from Brazil**
