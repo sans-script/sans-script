@@ -86,8 +86,6 @@ Development Tools and Environments: VS Code, Ubuntu, Windows, CodePen, Figma -->
 Feb • Currently \
 Languages & Technologies: `Angular17` `Tailwindcss` `TypeScript` `Node.js`
 
-<br>
-
 <img width="100%" src="https://raw.githubusercontent.com/sans-script/sans-script/output/github-contribution-grid-snake-dark.svg"/> 
 
 <!--MODEL_RESPONSE_START-->
