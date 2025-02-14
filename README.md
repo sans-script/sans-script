@@ -1,6 +1,6 @@
 # Hello World!!!
 
-<img src="https://github.com/sans-script.png" width="150px" align="right" >
+<img src="https://github.com/sans-script.png" width="130px" align="right" >
 <br>
   <p align="left">
 I'm a front-end developer. Currently, I'm pursuing a Bachelor's degree in Science and Technology at the Federal University of Maranhão.
@@ -11,7 +11,7 @@ I'm a front-end developer. Currently, I'm pursuing a Bachelor's degree in Scienc
 **I build and break stuff 🙃**
 
 <p>
-  <!--START_SECTION:badges-->
+<!--START_SECTION:badges-->
 <img src="http://img.shields.io/badge/Code%20Time-398%20hrs%2025%20mins-blue" alt="Code Time">
 <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-656.6%20thousand%20lines%20of%20code-blue" alt="Lines of code">
 <!--END_SECTION:badges-->
