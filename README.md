@@ -12,7 +12,6 @@ I'm a Frontend Developer. Currently, I'm pursuing a Bachelor's degree in Science
 
 <p>
 <!--START_SECTION:badges-->
-  
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-658.1%20thousand%20lines%20of%20code-blue)
 <!--END_SECTION:badges-->
   <a href="https://github.com/sponsors/sans-script"><img src="https://badgen.net/badge/GitHub/Sponsor?icon=github" alt="Sponsor"></a>
@@ -88,7 +87,7 @@ Languages & Technologies: `Angular17` `Tailwindcss` `TypeScript` `Node.js`
 <img width="100%" src="https://raw.githubusercontent.com/sans-script/sans-script/output/github-contribution-grid-snake-dark.svg"/> 
 
 <!--MODEL_RESPONSE_START-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&multiline=true&width=800&lines="Embrace+the+unknown,+for+within+it+lies+the+seed+of+innovation.";–+Geoffrey+Hinton,+2024)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&multiline=true&width=800&lines="Embrace+the+uncertain+path%2C+for+it+leads+to+unforeseen+growth.";–+John+McCarthy,+2024)](https://git.io/typing-svg)
 
 <!--MODEL_RESPONSE_END-->
 
