@@ -12,6 +12,7 @@ I'm a Frontend Developer. Currently, I'm pursuing a Bachelor's degree in Science
 
 <p>
 <!--START_SECTION:badges-->
+  
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-658.1%20thousand%20lines%20of%20code-blue)
 <!--END_SECTION:badges-->
   <a href="https://github.com/sponsors/sans-script"><img src="https://badgen.net/badge/GitHub/Sponsor?icon=github" alt="Sponsor"></a>
