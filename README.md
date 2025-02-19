@@ -8,7 +8,7 @@ I'm a Frontend Developer currently pursuing a Bachelor's degree in Science and T
 
 **A passionate front-end web developer from Brazil 🇧🇷**
 
-_Building and breaking stuff since 2019_
+_Building and breaking stuff since 2019._
 
 <p>
 <!--START_SECTION:badges-->
