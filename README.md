@@ -32,24 +32,24 @@ Up time: 18 years, 10 months and 30 days
 
 ```text
 💬 Programming Languages: 
-TeX                      22 hrs 13 mins      ███████████████████░░░░░░   75.54 % 
-JavaScript               5 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-Markdown                 1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-JSON                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-Python                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+TeX                      17 hrs 42 mins      ██████████████████░░░░░░░   71.10 % 
+JavaScript               5 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
+Markdown                 1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+JSON                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Python                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 45 mins      ███████████████████░░░░░░   77.33 % 
-Cursor                   6 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
+VS Code                  18 hrs 13 mins      ██████████████████░░░░░░░   73.21 % 
+Cursor                   6 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   26.79 % 
 
 🐱‍💻 Projects: 
-LaTex                    23 hrs 24 mins      ████████████████████░░░░░   79.56 % 
-alura                    4 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-mathdeli2dollar          40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-sans-script              32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+LaTex                    18 hrs 52 mins      ███████████████████░░░░░░   75.84 % 
+alura                    4 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
+mathdeli2dollar          40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+sans-script              32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 💻 Operating System: 
-WSL                      29 hrs 25 mins      █████████████████████████   100.00 % 
+WSL                      24 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 
