@@ -32,23 +32,23 @@ Up time: 18 years, 11 months and 1 days
 
 ```text
 💬 Programming Languages: 
-TeX                      16 hrs 4 mins       ██████████████████░░░░░░░   70.63 % 
-JavaScript               5 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
-Markdown                 1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-JSON                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+TeX                      9 hrs 27 mins       ███████████████░░░░░░░░░░   58.86 % 
+JavaScript               5 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   31.42 % 
+Markdown                 1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 10 mins      █████████████████░░░░░░░░   66.62 % 
-Cursor                   7 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   33.38 % 
+VS Code                  8 hrs 27 mins       █████████████░░░░░░░░░░░░   52.68 % 
+Cursor                   7 hrs 35 mins       ████████████░░░░░░░░░░░░░   47.32 % 
 
 🐱‍💻 Projects: 
-LaTex                    17 hrs 15 mins      ███████████████████░░░░░░   75.84 % 
-alura                    4 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
-mathdeli2dollar          40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+LaTex                    10 hrs 38 mins      █████████████████░░░░░░░░   66.26 % 
+alura                    4 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   29.53 % 
+mathdeli2dollar          40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 
 💻 Operating System: 
-WSL                      22 hrs 45 mins      █████████████████████████   100.00 % 
+WSL                      16 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 
