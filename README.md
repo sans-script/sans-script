@@ -86,7 +86,7 @@ Languages & Technologies: `Angular17` `Tailwindcss` `TypeScript` `Node.js`
 <img width="100%" src="https://raw.githubusercontent.com/sans-script/sans-script/output/github-contribution-grid-snake-dark.svg"/> 
 
 <!--MODEL_RESPONSE_START-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&multiline=true&width=780&lines="Impossible+is+just+a+word,+used+by+small+men+who+find+it+easier+to+live+in+the+world+they've+been+given+than+to+explore+the+power+they+have+to+change+it.";–+Elon+Musk,+2024)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&multiline=true&width=800&lines="Weave+the+web+of+possibility%2C+one+link+at+a+time.";–+Tim+Berners-Lee,+2024)](https://git.io/typing-svg)
 
 <!--MODEL_RESPONSE_END-->
 
