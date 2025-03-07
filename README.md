@@ -32,24 +32,24 @@ Up time: 18 years, 11 months and 11 days
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   34.35 % 
-HTML                     2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
-Markdown                 2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-CSS                      1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Text                     1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Python                   4 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   29.58 % 
+HTML                     4 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   26.45 % 
+Markdown                 2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+CSS                      1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+Text                     1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 22 mins      █████████████████████████   100.00 % 
+VS Code                  16 hrs 42 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-getvideo                 9 hrs 25 mins       ████████████████░░░░░░░░░   65.52 % 
-Desafio 2 - Trilhas      3 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
-Desafio-2-Trilhas-2B     1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-Desafio                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+getvideo                 9 hrs 25 mins       ██████████████░░░░░░░░░░░   56.42 % 
+Desafio 2 - Trilhas      3 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
+Desafio-2-Trilhas-2B     3 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
+Desafio                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 💻 Operating System: 
-Windows                  9 hrs 7 mins        ████████████████░░░░░░░░░   63.43 % 
-WSL                      5 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   36.57 % 
+Windows                  9 hrs 7 mins        ██████████████░░░░░░░░░░░   54.62 % 
+WSL                      7 hrs 34 mins       ███████████░░░░░░░░░░░░░░   45.38 % 
 ```
 
 
