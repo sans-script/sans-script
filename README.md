@@ -32,24 +32,25 @@ Up time: 18 years, 11 months and 13 days
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   29.36 % 
-HTML                     4 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   27.00 % 
-Markdown                 2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-CSS                      1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-Text                     1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+Python                   5 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   32.84 % 
+HTML                     4 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
+Markdown                 2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+CSS                      1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+Text                     1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 49 mins      █████████████████████████   100.00 % 
+VS Code                  18 hrs 3 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-getvideo                 9 hrs 25 mins       ██████████████░░░░░░░░░░░   56.00 % 
-Desafio-2-Trilhas-2B     3 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
-Desafio 2 - Trilhas      3 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
-Desafio                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+getvideo                 9 hrs 25 mins       █████████████░░░░░░░░░░░░   52.19 % 
+Desafio-2-Trilhas-2B     3 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+Desafio 2 - Trilhas      3 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+LaTex                    1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+Desafio                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 💻 Operating System: 
-Windows                  9 hrs 7 mins        ██████████████░░░░░░░░░░░   54.21 % 
-WSL                      7 hrs 42 mins       ███████████░░░░░░░░░░░░░░   45.79 % 
+Windows                  9 hrs 7 mins        █████████████░░░░░░░░░░░░   50.52 % 
+WSL                      8 hrs 56 mins       ████████████░░░░░░░░░░░░░   49.48 % 
 ```
 
 
