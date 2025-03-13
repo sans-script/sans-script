@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 18 years, 11 months and 16 days
+Up time: 18 years, 11 months and 17 days
 ```
 <!--UP_TIME_END-->
 
@@ -90,7 +90,7 @@ Languages & Technologies: `Angular17` `Tailwindcss` `TypeScript` `Node.js`
 <img width="100%" src="https://raw.githubusercontent.com/sans-script/sans-script/output/github-contribution-grid-snake-dark.svg"/> 
 
 <!--MODEL_RESPONSE_START-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&multiline=true&width=800&lines="Elegance+is+not+a+luxury%2C+it+is+a+necessity+for+understanding.";–+Edsger+Dijkstra,+1970)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&multiline=true&width=800&lines="Embrace+the+unexpected+complexity%2C+for+within+it+lies+the+seed+of+innovation.";–+Hal+Abelson,+2024)](https://git.io/typing-svg)
 
 <!--MODEL_RESPONSE_END-->
 
