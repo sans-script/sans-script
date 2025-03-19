@@ -88,7 +88,7 @@ Languages & Technologies: `Angular17` `Tailwindcss` `TypeScript` `Node.js`
 <img width="100%" src="https://raw.githubusercontent.com/sans-script/sans-script/output/github-contribution-grid-snake-dark.svg"/> 
 
 <!--MODEL_RESPONSE_START-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&multiline=true&width=780&lines="Embrace+the+unforeseen,+for+in+its+chaos+lies+innovation.";–+John+Backus,+1990)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&multiline=true&width=780&lines="Elegance+is+not+a+matter+of+superfluous+detail%2C+but+of+essential+clarity.";–+Edsger+Dijkstra,+1970)](https://git.io/typing-svg)
 
 <!--MODEL_RESPONSE_END-->
 
