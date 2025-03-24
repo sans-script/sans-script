@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 18 years, 11 months and 27 days
+Up time: 19 years, 0 months and 0 days
 ```
 <!--UP_TIME_END-->
 
@@ -89,7 +89,7 @@ Languages & Technologies: `Angular17` `Tailwindcss` `TypeScript` `Node.js`
 <img width="100%" src="https://raw.githubusercontent.com/sans-script/sans-script/output/github-contribution-grid-snake-dark.svg"/> 
 
 <!--MODEL_RESPONSE_START-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&multiline=true&width=780&lines="Embrace+the+uncertain+future,+for+it+holds+the+seeds+of+innovation.";–+Vint+Cerf,+2024)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&multiline=true&width=780&lines="Embrace+the+unknown,+for+within+it+lies+the+seed+of+innovation.";–+Peter+Norvig,+2024)](https://git.io/typing-svg)
 
 <!--MODEL_RESPONSE_END-->
 
