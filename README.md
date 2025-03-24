@@ -6,7 +6,7 @@
 I'm a Frontend Developer currently pursuing a Bachelor's degree in Science and Technology at the Federal University of Maranhão.
   </p>
 
-**A passionate front-end web developer from Brazil 🇧🇷**
+**A passionate Frontend Developer from Brazil 🇧🇷**
 
 _Building and breaking stuff since 2019._
 
