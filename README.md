@@ -99,7 +99,7 @@ Languages & Technologies: `Angular17` `Tailwindcss` `TypeScript` `Node.js`
 <small>
 🛈 The content above is generated daily using AI.
 AI can make mistakes. Check important info.
-Powered By Google Gemini
+Powered By Google Gemini.
 </small>
 </div>
 
