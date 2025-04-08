@@ -22,9 +22,16 @@ jobs:
           sudo apt update && sudo apt install -y ngrok
           ngrok config add-authtoken ${{ secrets.NGROK_AUTH_TOKEN }}
           nohup ngrok tcp 22 --log stdout > ngrok.log 2>&1 &
-          sleep 10
-          echo "🔗 Looking for ngrok tunnel..."
-          cat ngrok.log | grep -o 'tcp://[0-9a-zA-Z.:]*' | head -n 1
+
+          echo "🔗 Waiting for ngrok tunnel to be ready..."
+          for i in {1..20}; do
+            sleep 1
+            NGROK_URL=$(grep -o 'tcp://[0-9a-zA-Z.:]*' ngrok.log | head -n 1)
+            if [[ $NGROK_URL == tcp://* ]]; then
+              echo "🔗 Ngrok tunnel ready: $NGROK_URL"
+              break
+            fi
+          done
       - name: Self-destruct warning timer
         run: |
           echo '
