@@ -11,9 +11,9 @@ jobs:
           mkdir -p ~/.ssh
           echo "${{ secrets.SSH_PUBLIC_KEY }}" >> ~/.ssh/authorized_keys
           sudo service ssh start
-          sleep 3600  # Manter o job vivo por 1 hora
+          sleep 3600 
 
-      - name: Start ngrok tunnel (opcional)
+      - name: Start ngrok tunnel
         run: |
           curl -s https://ngrok-agent.s3.amazonaws.com/ngrok.asc | sudo tee /etc/apt/trusted.gpg.d/ngrok.asc >/dev/null
           echo "deb https://ngrok-agent.s3.amazonaws.com buster main" | sudo tee /etc/apt/sources.list.d/ngrok.list
