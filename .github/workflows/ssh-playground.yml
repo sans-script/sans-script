@@ -15,6 +15,7 @@ jobs:
           echo "${{ secrets.SSH_PUBLIC_KEY }}" >> ~/.ssh/authorized_keys
           chmod 600 ~/.ssh/authorized_keys
           sudo service ssh start
+
       - name: Install and start ngrok tunnel
         run: |
           curl -s https://ngrok-agent.s3.amazonaws.com/ngrok.asc | sudo tee /etc/apt/trusted.gpg.d/ngrok.asc >/dev/null
@@ -32,6 +33,14 @@ jobs:
               break
             fi
           done
+
+          if [ -z "$NGROK_URL" ]; then
+            echo "❌ Ngrok tunnel not found in time!" >&2
+            echo "📜 ngrok.log output:"
+            cat ngrok.log
+            exit 1
+          fi
+
       - name: Self-destruct warning timer
         run: |
           echo '
@@ -41,5 +50,6 @@ jobs:
           ' > ~/destruct-warning.sh
           chmod +x ~/destruct-warning.sh
           nohup ~/destruct-warning.sh >/dev/null 2>&1 &
+
       - name: Keep runner alive
         run: sleep 3600
