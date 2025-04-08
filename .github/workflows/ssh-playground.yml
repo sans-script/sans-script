@@ -1,5 +1,6 @@
 on:
   workflow_dispatch:
+
 jobs:
   ssh-access:
     runs-on: ubuntu-latest
@@ -10,13 +11,19 @@ jobs:
           sudo apt-get install -y openssh-server
           mkdir -p ~/.ssh
           echo "${{ secrets.SSH_PUBLIC_KEY }}" >> ~/.ssh/authorized_keys
+          chmod 600 ~/.ssh/authorized_keys
           sudo service ssh start
-          sleep 3600 
+          echo "Servidor SSH iniciado!"
 
       - name: Start ngrok tunnel
         run: |
           curl -s https://ngrok-agent.s3.amazonaws.com/ngrok.asc | sudo tee /etc/apt/trusted.gpg.d/ngrok.asc >/dev/null
           echo "deb https://ngrok-agent.s3.amazonaws.com buster main" | sudo tee /etc/apt/sources.list.d/ngrok.list
-          sudo apt update && sudo apt install ngrok
-          ngrok authtoken ${{ secrets.NGROK_AUTH_TOKEN }}
-          ngrok tcp 22 &
+          sudo apt update && sudo apt install -y ngrok
+          ngrok config add-authtoken ${{ secrets.NGROK_AUTH_TOKEN }}
+          ngrok tcp 22 > ngrok.log &
+          sleep 5
+          grep --color=never 'tcp://' ngrok.log || echo "ngrok ainda iniciando..."
+
+      - name: Keep alive
+        run: sleep 3600
