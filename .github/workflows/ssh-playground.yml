@@ -25,5 +25,14 @@ jobs:
           sleep 10
           echo "🔗 Looking for ngrok tunnel..."
           cat ngrok.log | grep -o 'tcp://[0-9a-zA-Z.:]*' | head -n 1
+      - name: Self-destruct warning timer
+        run: |
+          echo '
+          #!/bin/bash
+          sleep 120
+          wall "⚠ WARNING: Only 5 minutes left before this VM self-destructs!"
+          ' > ~/destruct-warning.sh
+          chmod +x ~/destruct-warning.sh
+          nohup ~/destruct-warning.sh >/dev/null 2>&1 &
       - name: Keep runner alive
         run: sleep 3600
