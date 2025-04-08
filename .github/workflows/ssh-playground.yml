@@ -1,6 +1,8 @@
 name: SSH Playground Environment
+
 on:
   workflow_dispatch:
+
 jobs:
   ssh-access:
     runs-on: ubuntu-latest
@@ -8,7 +10,7 @@ jobs:
       - name: Set up SSH Server
         run: |
           sudo apt-get update
-          sudo apt-get install -y openssh-server
+          sudo apt-get install -y openssh-server bsdutils
           mkdir -p ~/.ssh
           echo "${{ secrets.SSH_PUBLIC_KEY }}" >> ~/.ssh/authorized_keys
           chmod 600 ~/.ssh/authorized_keys
@@ -24,6 +26,16 @@ jobs:
           sleep 10
           echo "🔗 Looking for ngrok tunnel..."
           cat ngrok.log | grep -o 'tcp://[0-9a-zA-Z.:]*' | head -n 1
+
+      - name: Self-destruct warning timer
+        run: |
+          echo '
+          #!/bin/bash
+          sleep 330
+          wall "⚠️ WARNING: Only 5 minutes left before this VM self-destructs!"
+          ' > ~/destruct-warning.sh
+          chmod +x ~/destruct-warning.sh
+          nohup ~/destruct-warning.sh >/dev/null 2>&1 &
 
       - name: Keep runner alive
         run: sleep 3600
