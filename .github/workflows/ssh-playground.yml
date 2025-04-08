@@ -1,6 +1,6 @@
+name: SSH Playground Environment
 on:
   workflow_dispatch:
-
 jobs:
   ssh-access:
     runs-on: ubuntu-latest
