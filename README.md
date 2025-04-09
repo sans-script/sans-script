@@ -32,26 +32,26 @@ Up time: 19 years, 0 months and 16 days
 
 ```text
 💬 Programming Languages: 
-JavaScript               4 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   34.46 % 
-HTML                     3 hrs               █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
-JSON                     1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-YAML                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-Python                   44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+JavaScript               4 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   32.44 % 
+HTML                     3 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
+JSON                     1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+Bash                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+YAML                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 34 mins      █████████████████████████   99.40 % 
-Cursor                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+VS Code                  14 hrs 26 mins      █████████████████████████   99.43 % 
+Cursor                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🐱‍💻 Projects: 
-Desafio-3-Trilhas-2B     8 hrs 38 mins       ████████████████░░░░░░░░░   63.24 % 
-Unknown Project          2 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
-Wave                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-FFT-Image-Analysis       34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-sans                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Desafio-3-Trilhas-2B     8 hrs 38 mins       ███████████████░░░░░░░░░░   59.52 % 
+Unknown Project          2 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+Wave                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+FFT-Image-Analysis       34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+sans-script              32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 
 💻 Operating System: 
-WSL                      10 hrs 4 mins       ██████████████████░░░░░░░   73.74 % 
-Windows                  3 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   26.26 % 
+WSL                      10 hrs 48 mins      ███████████████████░░░░░░   74.40 % 
+Windows                  3 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
 ```
 
 
