@@ -32,26 +32,26 @@ Up time: 19 years, 0 months and 17 days
 
 ```text
 💬 Programming Languages: 
-JavaScript               4 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   32.44 % 
-HTML                     3 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
-JSON                     1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Bash                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-YAML                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+JavaScript               2 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   28.77 % 
+HTML                     2 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+Bash                     1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+JSON                     1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+YAML                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 26 mins      █████████████████████████   99.43 % 
-Cursor                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+VS Code                  10 hrs 2 mins       █████████████████████████   99.37 % 
+Cursor                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 🐱‍💻 Projects: 
-Desafio-3-Trilhas-2B     8 hrs 38 mins       ███████████████░░░░░░░░░░   59.52 % 
-Unknown Project          2 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-Wave                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-FFT-Image-Analysis       34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-sans-script              32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+Desafio-3-Trilhas-2B     6 hrs 2 mins        ███████████████░░░░░░░░░░   59.83 % 
+Unknown Project          2 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
+sans-script              32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+sans                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+LaTex                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 
 💻 Operating System: 
-WSL                      10 hrs 48 mins      ███████████████████░░░░░░   74.40 % 
-Windows                  3 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
+WSL                      7 hrs 23 mins       ██████████████████░░░░░░░   73.12 % 
+Windows                  2 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   26.88 % 
 ```
 
 
