@@ -68,14 +68,6 @@ jobs:
           ' > ~/destruct-warning.sh
           chmod +x ~/destruct-warning.sh
           nohup ~/destruct-warning.sh >/dev/null 2>&1 &
-
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Running setup.sh
-        run: |
-          chmod +x ./setup.sh
-          ./setup.sh
           
       - name: Keep runner alive
         run: sleep 3600
