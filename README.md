@@ -32,26 +32,25 @@ Up time: 19 years, 0 months and 21 days
 
 ```text
 💬 Programming Languages: 
-JavaScript               3 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   37.97 % 
-Bash                     2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   21.68 % 
-YAML                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-Markdown                 37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-SSH Config               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+JavaScript               3 hrs 36 mins       █████████████░░░░░░░░░░░░   51.63 % 
+Bash                     2 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   31.12 % 
+Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+HTML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 57 mins       █████████████████████████   99.37 % 
-Cursor                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+VS Code                  6 hrs 58 mins       █████████████████████████   99.96 % 
+Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Projects: 
-Desafio-3-Trilhas-2B     6 hrs 40 mins       █████████████████░░░░░░░░   66.65 % 
-Unknown Project          1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
-sans-script              32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-sans                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-LaTex                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Desafio-3-Trilhas-2B     5 hrs 21 mins       ███████████████████░░░░░░   76.71 % 
+Unknown Project          1 hr                ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+sans-script              32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+Python Notebooks         4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 
 💻 Operating System: 
-WSL                      7 hrs 57 mins       ████████████████████░░░░░   79.44 % 
-Windows                  2 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
+WSL                      6 hrs 11 mins       ██████████████████████░░░   88.62 % 
+Windows                  47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
 ```
 
 
