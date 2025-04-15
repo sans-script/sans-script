@@ -35,25 +35,24 @@ Up time: 19 years, 0 months and 22 days
 
 ```text
 💬 Programming Languages: 
-JavaScript               3 hrs 36 mins       █████████████░░░░░░░░░░░░   51.63 % 
-Bash                     2 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   31.12 % 
-Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-HTML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+JavaScript               3 hrs 36 mins       ███████████████░░░░░░░░░░   58.05 % 
+Bash                     1 hr 34 mins        ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
+Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+HTML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 58 mins       █████████████████████████   99.96 % 
+VS Code                  6 hrs 12 mins       █████████████████████████   99.96 % 
 Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Projects: 
-Desafio-3-Trilhas-2B     5 hrs 21 mins       ███████████████████░░░░░░   76.71 % 
-Unknown Project          1 hr                ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-sans-script              32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-Python Notebooks         4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Desafio-3-Trilhas-2B     5 hrs 21 mins       ██████████████████████░░░   86.26 % 
+sans-script              32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Unknown Project          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 
 💻 Operating System: 
-WSL                      6 hrs 11 mins       ██████████████████████░░░   88.62 % 
-Windows                  47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+WSL                      6 hrs 4 mins        ████████████████████████░   97.94 % 
+Windows                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 ```
 
 
