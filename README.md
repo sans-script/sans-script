@@ -35,24 +35,21 @@ Up time: 19 years, 0 months and 23 days
 
 ```text
 💬 Programming Languages: 
-JavaScript               3 hrs 36 mins       ███████████████░░░░░░░░░░   58.05 % 
-Bash                     1 hr 34 mins        ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
-Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-HTML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+JavaScript               3 hrs 36 mins       █████████████████░░░░░░░░   67.30 % 
+Bash                     54 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+HTML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 12 mins       █████████████████████████   99.96 % 
-Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+VS Code                  5 hrs 21 mins       █████████████████████████   99.95 % 
+Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-Desafio-3-Trilhas-2B     5 hrs 21 mins       ██████████████████████░░░   86.26 % 
-sans-script              32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-Unknown Project          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Desafio-3-Trilhas-2B     5 hrs 21 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      6 hrs 4 mins        ████████████████████████░   97.94 % 
-Windows                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+WSL                      5 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 
