@@ -32,21 +32,17 @@ Up time: 19 years, 0 months and 26 days
 
 ```text
 💬 Programming Languages: 
-Markdown                 27 mins             ████████████████████████░   94.07 % 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Python                   9 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  28 mins             █████████████████████████   99.47 % 
-Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+VS Code                  9 mins              █████████████████████████   98.43 % 
+Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 🐱‍💻 Projects: 
-Desafio-3-Trilhas-2B     28 mins             █████████████████████████   100.00 % 
+Numpy                    9 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      28 mins             █████████████████████████   100.00 % 
+Windows                  9 mins              █████████████████████████   100.00 % 
 ```
 
 
