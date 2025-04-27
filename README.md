@@ -32,26 +32,21 @@ Up time: 19 years, 1 months and 3 days
 
 ```text
 💬 Programming Languages: 
-JavaScript               3 hrs 5 mins        ██████████████████░░░░░░░   73.10 % 
-Markdown                 28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-HTML                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+JavaScript               3 hrs 4 mins        ████████████████████░░░░░   79.55 % 
+Markdown                 24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+HTML                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 13 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 52 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-alura                    3 hrs 27 mins       ████████████████████░░░░░   81.99 % 
-Desafio-4-Trilhas-2B     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Unknown Project          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-Workspace                7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-Desafio-3-Trilhas-2B     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+alura                    3 hrs 27 mins       ██████████████████████░░░   89.35 % 
+Desafio-4-Trilhas-2B     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
 
 💻 Operating System: 
-WSL                      4 hrs 4 mins        ████████████████████████░   96.34 % 
-Android                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-Windows                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+WSL                      3 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 
