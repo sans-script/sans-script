@@ -32,21 +32,21 @@ Up time: 19 years, 1 months and 5 days
 
 ```text
 💬 Programming Languages: 
-JavaScript               3 hrs 4 mins        ████████████████████░░░░░   79.55 % 
-Markdown                 24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-HTML                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+TeX                      31 mins             ██████████████░░░░░░░░░░░   55.65 % 
+Markdown                 24 mins             ███████████░░░░░░░░░░░░░░   44.20 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 52 mins       █████████████████████████   100.00 % 
+VS Code                  56 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-alura                    3 hrs 27 mins       ██████████████████████░░░   89.35 % 
-Desafio-4-Trilhas-2B     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+LaTex                    31 mins             ██████████████░░░░░░░░░░░   55.77 % 
+Desafio-4-Trilhas-2B     24 mins             ███████████░░░░░░░░░░░░░░   44.20 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-WSL                      3 hrs 52 mins       █████████████████████████   100.00 % 
+WSL                      56 mins             █████████████████████████   99.97 % 
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 
