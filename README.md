@@ -32,8 +32,8 @@ Up time: 19 years, 1 months and 11 days
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 4 mins         █████████████░░░░░░░░░░░░   52.21 % 
-TeX                      31 mins             ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
+Python                   1 hr 4 mins         █████████████░░░░░░░░░░░░   52.22 % 
+TeX                      31 mins             ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
 JavaScript               25 mins             █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
 Objective-C              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
