@@ -32,23 +32,21 @@ Up time: 19 years, 1 months and 12 days
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 4 mins         █████████████░░░░░░░░░░░░   52.22 % 
-TeX                      31 mins             ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
-JavaScript               25 mins             █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
-Objective-C              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Python                   1 hr 4 mins         █████████████████░░░░░░░░   69.89 % 
+JavaScript               25 mins             ███████░░░░░░░░░░░░░░░░░░   27.97 % 
+Objective-C              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 3 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 32 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 19 mins        ████████████████░░░░░░░░░   64.55 % 
-LaTex                    31 mins             ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
-API Teste                12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Unknown Project          1 hr 19 mins        ██████████████████████░░░   86.39 % 
+API Teste                12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
 
 💻 Operating System: 
-Windows                  1 hr 32 mins        ███████████████████░░░░░░   74.72 % 
-WSL                      31 mins             ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
+Windows                  1 hr 32 mins        █████████████████████████   100.00 % 
 ```
 
 
