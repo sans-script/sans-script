@@ -35,21 +35,20 @@ Up time: 19 years, 1 months and 13 days
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 4 mins         █████████████████░░░░░░░░   69.89 % 
-JavaScript               25 mins             ███████░░░░░░░░░░░░░░░░░░   27.97 % 
-Objective-C              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Python                   33 mins             ██████████████░░░░░░░░░░░   54.69 % 
+JavaScript               25 mins             ███████████░░░░░░░░░░░░░░   42.36 % 
+Objective-C              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🔥 Editors: 
-VS Code                  1 hr 32 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr                █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 19 mins        ██████████████████████░░░   86.39 % 
-API Teste                12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+Unknown Project          48 mins             ████████████████████░░░░░   79.38 % 
+API Teste                12 mins             █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
 
 💻 Operating System: 
-Windows                  1 hr 32 mins        █████████████████████████   100.00 % 
+Windows                  1 hr                █████████████████████████   100.00 % 
 ```
 
 
