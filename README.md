@@ -35,21 +35,16 @@ Up time: 19 years, 1 months and 15 days
 
 ```text
 💬 Programming Languages: 
-JavaScript               25 mins             ████████████████████░░░░░   79.33 % 
-Batchfile                5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Batchfile                5 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  27 mins             █████████████████████░░░░   83.36 % 
-Cursor                   5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+Cursor                   5 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          20 mins             ███████████████░░░░░░░░░░   61.26 % 
-API Teste                12 mins             ██████████░░░░░░░░░░░░░░░   38.74 % 
+Unknown Project          5 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  32 mins             █████████████████████████   100.00 % 
+Windows                  5 mins              █████████████████████████   100.00 % 
 ```
 
 
