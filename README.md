@@ -35,20 +35,23 @@ Up time: 19 years, 2 months and 2 days
 
 ```text
 💬 Programming Languages: 
-HTML                     6 hrs 7 mins        ███████████████░░░░░░░░░░   61.60 % 
-JavaScript               2 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
-CSS                      43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-Text                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+HTML                     5 hrs 50 mins       ██████████████░░░░░░░░░░░   54.37 % 
+JavaScript               2 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+Python                   1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+CSS                      43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+Text                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 56 mins       █████████████████████████   100.00 % 
+VS Code                  10 hrs 45 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Desafio-4-Trilhas-2B     9 hrs 56 mins       █████████████████████████   100.00 % 
+Desafio-4-Trilhas-2B     9 hrs 35 mins       ██████████████████████░░░   89.22 % 
+Python                   1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 💻 Operating System: 
-WSL                      9 hrs 56 mins       █████████████████████████   100.00 % 
+WSL                      9 hrs 35 mins       ██████████████████████░░░   89.22 % 
+Windows                  1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
 ```
 
 
