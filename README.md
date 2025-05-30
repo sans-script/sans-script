@@ -35,24 +35,23 @@ Up time: 19 years, 2 months and 6 days
 
 ```text
 💬 Programming Languages: 
-HTML                     2 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   39.11 % 
-JavaScript               1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
-Python                   1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Text                     43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-CSS                      34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+Python                   1 hr 9 mins         ███████████████████████░░   93.50 % 
+HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 11 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 14 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Desafio-4-Trilhas-2B     5 hrs 56 mins       █████████████████████░░░░   82.80 % 
-Python                   1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-formacao-typescript-proje4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Python                   1 hr 6 mins         ██████████████████████░░░   89.84 % 
+formacao-typescript-proje4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Unknown Project          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 
 💻 Operating System: 
-WSL                      6 hrs 1 min         █████████████████████░░░░   83.86 % 
-Windows                  1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Windows                  1 hr 9 mins         ███████████████████████░░   93.80 % 
+WSL                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
 ```
 
 
