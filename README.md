@@ -88,7 +88,7 @@ Languages & Technologies: `Angular17` `Tailwindcss` `TypeScript` `Node.js`
 <img width="100%" src="https://raw.githubusercontent.com/sans-script/sans-script/output/github-contribution-grid-snake-dark.svg"/> 
 
 <!--MODEL_RESPONSE_START-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&multiline=true&width=800&lines="Information+is+the+lifeblood+of+innovation,+let+it+flow+freely.";– Claude Shannon, 1948)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&multiline=true&width=780&lines="Elegantly+simple,+beautifully+efficient";–+Brian+Kernighan,+2024)](https://git.io/typing-svg)
 
 <!--MODEL_RESPONSE_END-->
 
