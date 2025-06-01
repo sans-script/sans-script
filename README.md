@@ -32,23 +32,23 @@ Up time: 19 years, 2 months and 8 days
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 9 mins         ███████████████████████░░   93.50 % 
-HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Python                   1 hr 9 mins         ███████████████████████░░   91.24 % 
+HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 🔥 Editors: 
-VS Code                  1 hr 14 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 15 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Python                   1 hr 6 mins         ██████████████████████░░░   89.84 % 
-formacao-typescript-proje4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-Unknown Project          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Python                   1 hr 6 mins         ██████████████████████░░░   87.67 % 
+Unknown Project          4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+formacao-typescript-proje4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
 
 💻 Operating System: 
-Windows                  1 hr 9 mins         ███████████████████████░░   93.80 % 
-WSL                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Windows                  1 hr 11 mins        ███████████████████████░░   93.95 % 
+WSL                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
 ```
 
 
