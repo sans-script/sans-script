@@ -32,23 +32,22 @@ Up time: 19 years, 2 months and 10 days
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 9 mins         ███████████████████████░░   91.24 % 
-HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+HTML                     2 mins              ███████████░░░░░░░░░░░░░░   44.89 % 
+Markdown                 1 min               ███████░░░░░░░░░░░░░░░░░░   28.44 % 
+JavaScript               0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+TypeScript               0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-VS Code                  1 hr 15 mins        █████████████████████████   100.00 % 
+VS Code                  6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Python                   1 hr 6 mins         ██████████████████████░░░   87.67 % 
-Unknown Project          4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-formacao-typescript-proje4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+formacao-typescript-proje4 mins              ██████████████████░░░░░░░   71.43 % 
+Unknown Project          1 min               ███████░░░░░░░░░░░░░░░░░░   28.57 % 
 
 💻 Operating System: 
-Windows                  1 hr 11 mins        ███████████████████████░░   93.95 % 
-WSL                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+WSL                      4 mins              ██████████████████░░░░░░░   71.43 % 
+Windows                  1 min               ███████░░░░░░░░░░░░░░░░░░   28.57 % 
 ```
 
 
