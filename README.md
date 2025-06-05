@@ -32,22 +32,17 @@ Up time: 19 years, 2 months and 12 days
 
 ```text
 💬 Programming Languages: 
-HTML                     2 mins              ███████████░░░░░░░░░░░░░░   44.89 % 
-Markdown                 1 min               ███████░░░░░░░░░░░░░░░░░░   28.44 % 
-JavaScript               0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-TypeScript               0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Markdown                 1 min               █████████████████████████   99.57 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+VS Code                  1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-formacao-typescript-proje4 mins              ██████████████████░░░░░░░   71.43 % 
-Unknown Project          1 min               ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Unknown Project          1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      4 mins              ██████████████████░░░░░░░   71.43 % 
-Windows                  1 min               ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Windows                  1 min               █████████████████████████   100.00 % 
 ```
 
 
