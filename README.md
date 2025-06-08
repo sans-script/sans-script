@@ -32,17 +32,16 @@ Up time: 19 years, 2 months and 15 days
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 min               █████████████████████████   99.57 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
