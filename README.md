@@ -35,16 +35,20 @@ Up time: 19 years, 2 months and 16 days
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+PowerShell               57 mins             █████████████████████░░░░   82.69 % 
+JSON                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 9 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Oh My Windows            1 hr 4 mins         ███████████████████████░░   92.92 % 
+Unknown Project          4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 9 mins         █████████████████████████   100.00 % 
 ```
 
 
