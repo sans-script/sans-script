@@ -32,20 +32,21 @@ Up time: 19 years, 2 months and 18 days
 
 ```text
 💬 Programming Languages: 
-PowerShell               57 mins             █████████████████████░░░░   82.69 % 
-JSON                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+PowerShell               1 hr 18 mins        ███████████████░░░░░░░░░░   58.76 % 
+Markdown                 29 mins             █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
+JSON                     25 mins             █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-VS Code                  1 hr 9 mins         █████████████████████████   100.00 % 
+VS Code                  2 hrs 13 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Oh My Windows            1 hr 4 mins         ███████████████████████░░   92.92 % 
-Unknown Project          4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+Oh My Windows            1 hr 40 mins        ███████████████████░░░░░░   75.22 % 
+ohmywindow               28 mins             █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
 
 💻 Operating System: 
-Windows                  1 hr 9 mins         █████████████████████████   100.00 % 
+Windows                  2 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 
