@@ -35,25 +35,24 @@ Up time: 19 years, 2 months and 23 days
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 10 mins       ███████████░░░░░░░░░░░░░░   44.62 % 
-PowerShell               1 hr 18 mins        ███████░░░░░░░░░░░░░░░░░░   26.84 % 
-Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-JSON                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-CSS                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+TypeScript               2 hrs 11 mins       ███████████████░░░░░░░░░░   58.44 % 
+Markdown                 28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+PowerShell               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+JSON                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+CSS                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 51 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 45 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-health-units-locator     2 hrs 32 mins       █████████████░░░░░░░░░░░░   52.37 % 
-Oh My Windows            1 hr 40 mins        █████████░░░░░░░░░░░░░░░░   34.36 % 
-ohmywindow               28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-server                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+health-units-locator     2 hrs 34 mins       █████████████████░░░░░░░░   68.48 % 
+Oh My Windows            36 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+ohmywindow               28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+server                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 
 💻 Operating System: 
-WSL                      2 hrs 32 mins       █████████████░░░░░░░░░░░░   52.37 % 
-Windows                  2 hrs 19 mins       ████████████░░░░░░░░░░░░░   47.63 % 
+WSL                      2 hrs 34 mins       █████████████████░░░░░░░░   68.48 % 
+Windows                  1 hr 11 mins        ████████░░░░░░░░░░░░░░░░░   31.52 % 
 ```
 
 
