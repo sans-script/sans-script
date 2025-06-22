@@ -32,23 +32,22 @@ Up time: 19 years, 2 months and 29 days
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 54 mins       ███████████████████████░░   91.20 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-TeX                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+TypeScript               3 hrs 49 mins       ███████████████████████░░   91.03 % 
+Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+TeX                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 17 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 12 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-resizable-layout         3 hrs 50 mins       ██████████████████████░░░   89.75 % 
-vscode-layout            17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-LaTex                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-health-units-locator     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+resizable-layout         3 hrs 50 mins       ███████████████████████░░   91.41 % 
+vscode-layout            17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+LaTex                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 
 💻 Operating System: 
-WSL                      4 hrs 17 mins       █████████████████████████   100.00 % 
+WSL                      4 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 
