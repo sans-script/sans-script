@@ -35,25 +35,24 @@ Up time: 19 years, 3 months and 1 days
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 49 mins       ████████████████░░░░░░░░░   62.54 % 
-HTML                     1 hr 44 mins        ███████░░░░░░░░░░░░░░░░░░   28.54 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-INI                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-TeX                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+HTML                     1 hr 44 mins        ████████████████░░░░░░░░░   65.75 % 
+Other                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+C++                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+INI                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 7 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 39 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-resizable-layout         3 hrs 50 mins       ████████████████░░░░░░░░░   62.79 % 
-Unknown Project          1 hr 45 mins        ███████░░░░░░░░░░░░░░░░░░   28.58 % 
-vscode-layout            17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-Captive-Portal-ESP32     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-LaTex                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Unknown Project          1 hr 46 mins        █████████████████░░░░░░░░   66.84 % 
+wifi_captive_portal      38 mins             ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+Captive-Portal-ESP32     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+LaTex                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 💻 Operating System: 
-WSL                      4 hrs 12 mins       █████████████████░░░░░░░░   68.69 % 
-Windows                  1 hr 55 mins        ████████░░░░░░░░░░░░░░░░░   31.31 % 
+Windows                  2 hrs 34 mins       ████████████████████████░   97.06 % 
+WSL                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 
 
