@@ -35,22 +35,24 @@ Up time: 19 years, 3 months and 3 days
 
 ```text
 💬 Programming Languages: 
-HTML                     1 hr 44 mins        █████████████████░░░░░░░░   67.74 % 
-Other                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-C++                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-INI                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+HTML                     1 hr 44 mins        ████████████████░░░░░░░░░   64.29 % 
+Other                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+C++                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+INI                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 34 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 43 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 46 mins        █████████████████░░░░░░░░   68.87 % 
-wifi_captive_portal      38 mins             ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
-Captive-Portal-ESP32     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+Unknown Project          1 hr 46 mins        ████████████████░░░░░░░░░   65.36 % 
+wifi_captive_portal      38 mins             ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
+Captive-Portal-ESP32     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+health-units-locator     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
 
 💻 Operating System: 
-Windows                  2 hrs 34 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 34 mins       ████████████████████████░   94.91 % 
+WSL                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
 ```
 
 
