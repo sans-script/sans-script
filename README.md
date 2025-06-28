@@ -35,24 +35,24 @@ Up time: 19 years, 3 months and 4 days
 
 ```text
 💬 Programming Languages: 
-HTML                     1 hr 44 mins        ████████████████░░░░░░░░░   64.29 % 
-Other                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-C++                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-INI                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+HTML                     1 hr 44 mins        ████████████████░░░░░░░░░   62.24 % 
+Other                    16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+C++                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+INI                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 43 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 48 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 46 mins        ████████████████░░░░░░░░░   65.36 % 
-wifi_captive_portal      38 mins             ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
-Captive-Portal-ESP32     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-health-units-locator     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+Unknown Project          1 hr 52 mins        █████████████████░░░░░░░░   66.47 % 
+wifi_captive_portal      38 mins             ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
+Captive-Portal-ESP32     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+health-units-locator     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
 
 💻 Operating System: 
-Windows                  2 hrs 34 mins       ████████████████████████░   94.91 % 
-WSL                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+Windows                  2 hrs 40 mins       ████████████████████████░   95.07 % 
+WSL                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
 ```
 
 
