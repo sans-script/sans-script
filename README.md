@@ -90,7 +90,7 @@ Languages & Technologies: `Angular17` `Tailwindcss` `TypeScript` `Node.js`
 <img width="100%" src="https://raw.githubusercontent.com/sans-script/sans-script/output/github-contribution-grid-snake-dark.svg"/> 
 
 <!--MODEL_RESPONSE_START-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&multiline=true&width=780&lines="Embrace+the+uncharted+path%2C+for+it+holds+the+seeds+of+unforeseen+growth.";–+Robert+Kahn,+2024)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&multiline=true&width=780&lines="Embrace+the+unpredictable,+for+within+it+lies+the+seed+of+innovation.";–+John+Backus,+1965)](https://git.io/typing-svg)
 
 <!--MODEL_RESPONSE_END-->
 
