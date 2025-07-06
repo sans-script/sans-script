@@ -19,22 +19,11 @@ jobs:
           chmod 600 ~/.ssh/authorized_keys
           sudo service ssh start
 
-      - name: Install development tools
+      - name: Configure Git identity
         run: |
-          echo "🔧 Installing development tools..."
-          sudo apt-get install -y \
-            python3 python3-pip \
-            nodejs npm \
-            git \
-            moby-engine moby-cli docker-compose \
-            neofetch htop curl wget unzip zip \
-            build-essential
-
-          # Upgrade Node.js using 'n'
-          sudo npm install -g n
-          sudo n stable
-
-          echo "✅ Development tools installed!"
+          git config --global user.name "sans-script"
+          git config --global user.email "alexhere.user@gmail.com"
+          git config --global init.defaultBranch main
 
       - name: Install and start ngrok tunnel
         run: |
@@ -63,6 +52,14 @@ jobs:
             cat ngrok.log
             exit 1
           fi
+
+      - name: Show SSH access command
+        run: |
+          echo "🔑 Use this command to connect to your VM:"
+          PORT=$(echo "${{ env.ngrok_url }}" | cut -d: -f3)
+          HOST=$(echo "${{ env.ngrok_url }}" | cut -d: -f2 | cut -d/ -f3)
+          echo "ssh -o StrictHostKeyChecking=no -p $PORT ubuntu@$HOST"
+          echo "💡 Password login is disabled. Public key only."
 
       - name: Self-destruct warning timer
         run: |
