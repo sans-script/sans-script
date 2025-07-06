@@ -52,15 +52,7 @@ jobs:
             cat ngrok.log
             exit 1
           fi
-
-      - name: Show SSH access command
-        run: |
-          echo "🔑 Use this command to connect to your VM:"
-          PORT=$(echo "${{ env.ngrok_url }}" | cut -d: -f3)
-          HOST=$(echo "${{ env.ngrok_url }}" | cut -d: -f2 | cut -d/ -f3)
-          echo "ssh -o StrictHostKeyChecking=no -p $PORT ubuntu@$HOST"
-          echo "💡 Password login is disabled. Public key only."
-
+          
       - name: Self-destruct warning timer
         run: |
           echo '#!/bin/bash
