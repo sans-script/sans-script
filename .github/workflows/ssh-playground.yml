@@ -6,6 +6,8 @@ on:
 jobs:
   ssh-access:
     runs-on: ubuntu-latest
+    timeout-minutes: 360  # 6 hours
+
     steps:
       - name: Set up SSH Server
         run: |
@@ -13,61 +15,75 @@ jobs:
           sudo apt-get install -y openssh-server
           mkdir -p ~/.ssh
           echo "${{ secrets.SSH_PUBLIC_KEY }}" >> ~/.ssh/authorized_keys
+          chmod 700 ~/.ssh
           chmod 600 ~/.ssh/authorized_keys
           sudo service ssh start
 
+      - name: Install development tools
+        run: |
+          echo "🔧 Installing development tools..."
+          sudo apt-get install -y \
+            python3 python3-pip \
+            nodejs npm \
+            git \
+            docker.io docker-compose \
+            neofetch htop curl wget unzip zip \
+            build-essential
+
+          # Upgrade Node.js using 'n'
+          sudo npm install -g n
+          sudo n stable
+
+          echo "✅ Development tools installed!"
+
       - name: Install and start ngrok tunnel
         run: |
+          echo "🌐 Installing and starting ngrok..."
           curl -s https://ngrok-agent.s3.amazonaws.com/ngrok.asc | sudo tee /etc/apt/trusted.gpg.d/ngrok.asc >/dev/null
           echo "deb https://ngrok-agent.s3.amazonaws.com buster main" | sudo tee /etc/apt/sources.list.d/ngrok.list
           sudo apt update && sudo apt install -y ngrok
+
           ngrok config add-authtoken ${{ secrets.NGROK_AUTH_TOKEN }}
           nohup ngrok tcp 22 --log stdout > ngrok.log 2>&1 &
 
           echo "🔗 Waiting for ngrok tunnel to be ready..."
-          for i in {1..20}; do
+          for i in {1..60}; do
             sleep 1
             NGROK_URL=$(grep -oE 'tcp://[0-9a-zA-Z.]+:[0-9]+' ngrok.log | head -n 1)
             if [[ $NGROK_URL == tcp://* ]]; then
               echo "🔗 Ngrok tunnel ready: $NGROK_URL"
+              echo "ngrok_url=$NGROK_URL" >> $GITHUB_ENV
               break
             fi
           done
 
           if [ -z "$NGROK_URL" ]; then
-            echo "❌ Ngrok tunnel not found in time!" >&2
+            echo "❌ Failed to get ngrok URL." >&2
             echo "📜 ngrok.log output:"
             cat ngrok.log
             exit 1
           fi
 
+      - name: Print SSH access instructions
+        run: |
+          echo "🔑 Use this command to connect to your VM:"
+          echo "ssh -o StrictHostKeyChecking=no -p ${NGROK_URL##*:} ubuntu@${NGROK_URL#tcp://}"
+          echo ""
+          echo "💡 Password login is disabled. Public key only."
+
       - name: Self-destruct warning timer
         run: |
-          echo '
-          #!/bin/bash
-          sleep 3300
-      
+          echo '#!/bin/bash
+          sleep 21000  # ~5h50min
           wall "
-               ██╗    ██╗ █████╗ ██████╗ ███╗   ██╗██╗███╗   ██╗ ██████╗ 
-               ██║    ██║██╔══██╗██╔══██╗████╗  ██║██║████╗  ██║██╔════╝ 
-               ██║ █╗ ██║███████║██████╔╝██╔██╗ ██║██║██╔██╗ ██║██║  ███╗
-               ██║███╗██║██╔══██║██╔══██╗██║╚██╗██║██║██║╚██╗██║██║   ██║
-               ╚███╔███╔╝██║  ██║██║  ██║██║ ╚████║██║██║ ╚████║╚██████╔╝
-                ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═══╝ ╚═════╝ 
-                   Only 5 minutes left before this VM self-destructs!
+          ⚠️ THIS VM WILL SHUT DOWN IN 10 MINUTES!
+          💾 Save your work!
           "
-      
-          for i in {10..1}; do
-            wall "
-            💣 SELF-DESTRUCTION IN: $i SECONDS 💣
-            "
-            sleep 1
-          done
-      
-          wall "💥 BOOM! This VM has self-destructed."
-          ' > ~/destruct-warning.sh
-          chmod +x ~/destruct-warning.sh
-          nohup ~/destruct-warning.sh >/dev/null 2>&1 &
-          
+          sleep 600
+          wall "💥 TIME IS UP! The VM is shutting down."
+          ' > ~/selfdestruct.sh
+          chmod +x ~/selfdestruct.sh
+          nohup ~/selfdestruct.sh >/dev/null 2>&1 &
+
       - name: Keep runner alive
-        run: sleep 3600
+        run: sleep 21600  # 6 hours
