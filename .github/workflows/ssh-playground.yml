@@ -64,13 +64,6 @@ jobs:
             exit 1
           fi
 
-      - name: Print SSH access instructions
-        run: |
-          echo "🔑 Use this command to connect to your VM:"
-          echo "ssh -o StrictHostKeyChecking=no -p ${ngrok_url##*:} ubuntu@${ngrok_url#tcp://}"
-          echo ""
-          echo "💡 Password login is disabled. Public key only."
-
       - name: Self-destruct warning timer
         run: |
           echo '#!/bin/bash
