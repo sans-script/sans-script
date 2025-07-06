@@ -11,7 +11,6 @@ export RUNZSH=no
 export CHSH=no
 sh -c "$(wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"
 
-# Garante que o .zshrc foi criado
 [ -f "$HOME/.zshrc" ] || cp "$HOME/.oh-my-zsh/templates/zshrc.zsh-template" "$HOME/.zshrc"
 
 # Install Spaceship Prompt
