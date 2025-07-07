@@ -12,11 +12,8 @@ _Building and breaking stuff since 2019._
 
 <p>
 <!--START_SECTION:badges-->
-![Code Time](http://img.shields.io/badge/Code%20Time-562%20hrs%2038%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-701.2%20thousand%20lines%20of%20code-blue)
-
-
+<img src="http://img.shields.io/badge/Code%20Time-562%20hrs%2038%20mins-blue" alt="http://img.shields.io/badge/Code%20Time-562%20hrs%2038%20mins-blue" />
+<img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-701.2%20thousand%20lines%20of%20code-blue" alt="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-701.2%20thousand%20lines%20of%20code-blue" />
 <!--END_SECTION:badges-->
   <a href="https://github.com/sponsors/sans-script"><img src="https://badgen.net/badge/GitHub/Sponsor?icon=github" alt="Sponsor"></a>
   <a href="https://www.paypal.com/donate/?business=alexhere.user@gmail.com"><img src="https://badgen.net/badge/Donate%20via/PayPal?icon=paypal" alt="Donate via PayPal"></a>
@@ -93,7 +90,7 @@ Languages & Technologies: `Angular17` `Tailwindcss` `TypeScript` `Node.js`
 <img width="100%" src="https://raw.githubusercontent.com/sans-script/sans-script/output/github-contribution-grid-snake-dark.svg"/> 
 
 <!--MODEL_RESPONSE_START-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&multiline=true&width=780&lines="Embrace+the+uncertain+path%2C+for+it+leads+to+unimagined+horizons.";–+Sergey+Brin,+2024)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&multiline=true&width=780&lines="Embrace+the+unexpected,+for+it+is+in+the+unforeseen+that+true+innovation+blooms";–+Yukihiro+Matsumoto,+2024)](https://git.io/typing-svg)
 
 <!--MODEL_RESPONSE_END-->
 
