@@ -82,7 +82,7 @@ Development Tools and Environments: VS Code, Ubuntu, Windows, CodePen, Figma -->
 
 [<img align="left" height="94px" width="94px" alt="DevOps" src="https://github.com/sans-script/sans-script/assets/84801905/54f71c6f-bbe8-4b4f-a80d-63641bfba28f" />](https://devops.tec.br/)
 
-**Frontend Developer (Jr)** \
+**Frontend Developer** \
 [**DevOps**](https://devops.tec.br/) • Full time \
 Feb 2024 • Currently \
 Languages & Technologies: `Angular17` `Tailwindcss` `TypeScript` `Node.js`
