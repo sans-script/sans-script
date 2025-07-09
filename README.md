@@ -32,24 +32,22 @@ Up time: 19 years, 3 months and 15 days
 
 ```text
 💬 Programming Languages: 
-C                        5 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   34.24 % 
-C++                      3 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
-HTML                     2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
-Markdown                 1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-Objective-C              55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+C                        4 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   39.10 % 
+HTML                     2 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   26.58 % 
+Objective-C              54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+TypeScript               41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+C++                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 57 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 11 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-wifi_captive_portal      14 hrs 33 mins      █████████████████████░░░░   85.80 % 
-expo_app                 1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-Desafio5-Trilhas         34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-the-lus-project-new      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+wifi_captive_portal      9 hrs 23 mins       █████████████████████░░░░   83.93 % 
+expo_app                 1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
 
 💻 Operating System: 
-Windows                  15 hrs 7 mins       ██████████████████████░░░   89.19 % 
-WSL                      1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Windows                  9 hrs 23 mins       █████████████████████░░░░   83.93 % 
+WSL                      1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
 ```
 
 
