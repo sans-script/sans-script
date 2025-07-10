@@ -35,22 +35,25 @@ Up time: 19 years, 3 months and 16 days
 
 ```text
 💬 Programming Languages: 
-C                        4 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   39.10 % 
-HTML                     2 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   26.58 % 
-Objective-C              54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-TypeScript               41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-C++                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+TypeScript               3 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   27.54 % 
+C                        3 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
+HTML                     2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+Objective-C              54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+C++                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 11 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 6 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-wifi_captive_portal      9 hrs 23 mins       █████████████████████░░░░   83.93 % 
-expo_app                 1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+wifi_captive_portal      7 hrs 56 mins       ███████████████░░░░░░░░░░   60.64 % 
+resizable-layout         3 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
+expo_app                 1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Python                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Windows                  9 hrs 23 mins       █████████████████████░░░░   83.93 % 
-WSL                      1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+Windows                  8 hrs 6 mins        ███████████████░░░░░░░░░░   61.84 % 
+WSL                      5 hrs               ██████████░░░░░░░░░░░░░░░   38.16 % 
 ```
 
 
