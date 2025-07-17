@@ -35,24 +35,24 @@ Up time: 19 years, 3 months and 23 days
 
 ```text
 💬 Programming Languages: 
-TypeScript               9 hrs 3 mins        █████████████████░░░░░░░░   69.06 % 
-CSS                      3 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   27.99 % 
-Python                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+TypeScript               6 hrs 26 mins       ███████████████░░░░░░░░░░   61.49 % 
+CSS                      3 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   33.34 % 
+JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+C                        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 6 mins       █████████████████████████   100.00 % 
+VS Code                  10 hrs 29 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-resizable-layout         12 hrs 53 mins      █████████████████████████   98.33 % 
-Python                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-wifi_captive_portal      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+resizable-layout         10 hrs 1 min        ████████████████████████░   95.62 % 
+expo_app                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+wifi_captive_portal      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 💻 Operating System: 
-WSL                      12 hrs 53 mins      █████████████████████████   98.33 % 
-Windows                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+WSL                      10 hrs 25 mins      █████████████████████████   99.41 % 
+Windows                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 ```
 
 
