@@ -35,24 +35,25 @@ Up time: 19 years, 3 months and 25 days
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 44 mins       ████████████░░░░░░░░░░░░░   49.62 % 
-CSS                      2 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   36.21 % 
-JSON                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-Python                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+TypeScript               3 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   40.11 % 
+CSS                      2 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   31.67 % 
+Python                   1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+JSON                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+Text                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 32 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 37 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-resizable-layout         6 hrs 33 mins       ██████████████████████░░░   86.93 % 
-Chemistry                33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-expo_app                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+resizable-layout         6 hrs 14 mins       ██████████████████░░░░░░░   72.51 % 
+face_recognition_project 1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Chemistry                33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+expo_app                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 💻 Operating System: 
-WSL                      6 hrs 56 mins       ███████████████████████░░   92.20 % 
-Windows                  35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+WSL                      6 hrs 38 mins       ███████████████████░░░░░░   77.12 % 
+Windows                  1 hr 58 mins        ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
 ```
 
 
