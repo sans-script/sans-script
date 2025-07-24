@@ -32,25 +32,25 @@ Up time: 19 years, 4 months and 0 days
 
 ```text
 💬 Programming Languages: 
-TeX                      3 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   35.98 % 
-Python                   2 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
-TypeScript               1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-JSON                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-CSS                      44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+TeX                      3 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   35.02 % 
+Python                   2 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   31.75 % 
+TypeScript               1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+CSS                      44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 43 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 57 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LaTex                    3 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   35.96 % 
-zenos.web                2 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   26.04 % 
-face_recognition_project 1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-Tars                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-Chemistry                33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+LaTex                    3 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   34.99 % 
+zenos.web                2 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
+face_recognition_project 1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+PTMV                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Tars                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
 
 💻 Operating System: 
-WSL                      5 hrs 48 mins       █████████████████░░░░░░░░   66.55 % 
-Windows                  2 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   33.45 % 
+WSL                      5 hrs 24 mins       ███████████████░░░░░░░░░░   60.33 % 
+Windows                  3 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   39.67 % 
 ```
 
 
