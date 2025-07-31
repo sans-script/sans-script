@@ -31,26 +31,26 @@ Up time: 19 years, 4 months and 7 days
 
 ```text
 💬 Programming Languages: 
-TypeScript               11 hrs 21 mins      ████████████████░░░░░░░░░   65.74 % 
-Python                   2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-CSS                      1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-TeX                      1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+TypeScript               10 hrs 26 mins      ████████████████████░░░░░   78.00 % 
+Python                   1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+CSS                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 13 mins      █████████████████████████   99.71 % 
-Cursor                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+VS Code                  13 hrs 20 mins      █████████████████████████   99.63 % 
+Cursor                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🐱‍💻 Projects: 
-zenos.web                10 hrs 14 mins      ███████████████░░░░░░░░░░   59.30 % 
-sistema-gestao-agricola  1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-saneagest                1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-ByteBank                 1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-LaTex                    1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+zenos.web                7 hrs 58 mins       ███████████████░░░░░░░░░░   59.58 % 
+sistema-gestao-agricola  1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+saneagest                1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+ByteBank                 1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+sourcecode-to-pdf        28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 
 💻 Operating System: 
-WSL                      15 hrs 16 mins      ██████████████████████░░░   88.42 % 
-Windows                  2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+WSL                      12 hrs 14 mins      ███████████████████████░░   91.39 % 
+Windows                  1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
 ```
 
 
