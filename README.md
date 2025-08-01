@@ -35,26 +35,26 @@ Up time: 19 years, 4 months and 8 days
 
 ```text
 💬 Programming Languages: 
-TypeScript               10 hrs 26 mins      ████████████████████░░░░░   78.00 % 
-Python                   1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-CSS                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+TypeScript               10 hrs 27 mins      ████████████████████░░░░░   78.03 % 
+Python                   1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+CSS                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 20 mins      █████████████████████████   99.63 % 
+VS Code                  13 hrs 21 mins      █████████████████████████   99.63 % 
 Cursor                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🐱‍💻 Projects: 
-zenos.web                7 hrs 58 mins       ███████████████░░░░░░░░░░   59.58 % 
-sistema-gestao-agricola  1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-saneagest                1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-ByteBank                 1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+zenos.web                7 hrs 58 mins       ███████████████░░░░░░░░░░   59.50 % 
+sistema-gestao-agricola  1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+saneagest                1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+ByteBank                 1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
 sourcecode-to-pdf        28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 
 💻 Operating System: 
-WSL                      12 hrs 14 mins      ███████████████████████░░   91.39 % 
-Windows                  1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+WSL                      12 hrs 15 mins      ███████████████████████░░   91.40 % 
+Windows                  1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
 ```
 
 
