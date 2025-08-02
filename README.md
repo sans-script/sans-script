@@ -32,26 +32,26 @@ Up time: 19 years, 4 months and 9 days
 
 ```text
 💬 Programming Languages: 
-TypeScript               10 hrs 27 mins      ████████████████████░░░░░   78.03 % 
-Python                   1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-CSS                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+TypeScript               11 hrs 2 mins       ███████████████████░░░░░░   74.15 % 
+Python                   1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+CSS                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 21 mins      █████████████████████████   99.63 % 
-Cursor                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+VS Code                  14 hrs 50 mins      █████████████████████████   99.67 % 
+Cursor                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🐱‍💻 Projects: 
-zenos.web                7 hrs 58 mins       ███████████████░░░░░░░░░░   59.50 % 
-sistema-gestao-agricola  1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-saneagest                1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-ByteBank                 1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-sourcecode-to-pdf        28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+dyad                     6 hrs 18 mins       ███████████░░░░░░░░░░░░░░   42.35 % 
+zenos.web                3 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
+sistema-gestao-agricola  1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+saneagest                1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+ByteBank                 1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
 
 💻 Operating System: 
-WSL                      12 hrs 15 mins      ███████████████████████░░   91.40 % 
-Windows                  1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+WSL                      9 hrs 20 mins       ████████████████░░░░░░░░░   62.71 % 
+Windows                  5 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   37.29 % 
 ```
 
 
