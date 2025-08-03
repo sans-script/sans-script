@@ -35,26 +35,25 @@ Up time: 19 years, 4 months and 10 days
 
 ```text
 💬 Programming Languages: 
-TypeScript               11 hrs 2 mins       ███████████████████░░░░░░   74.15 % 
-Python                   1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-CSS                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+TypeScript               13 hrs 40 mins      █████████████████░░░░░░░░   68.99 % 
+Python                   1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+CSS                      1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+JSON                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+Markdown                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 50 mins      █████████████████████████   99.67 % 
-Cursor                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+VS Code                  19 hrs 49 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dyad                     6 hrs 18 mins       ███████████░░░░░░░░░░░░░░   42.35 % 
-zenos.web                3 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
-sistema-gestao-agricola  1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-saneagest                1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-ByteBank                 1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+dyad                     10 hrs 8 mins       █████████████░░░░░░░░░░░░   51.14 % 
+saneagest                4 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
+resizable-layout         2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+ByteBank                 1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+zenos.web                37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 
 💻 Operating System: 
-WSL                      9 hrs 20 mins       ████████████████░░░░░░░░░   62.71 % 
-Windows                  5 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   37.29 % 
+WSL                      10 hrs 29 mins      █████████████░░░░░░░░░░░░   52.93 % 
+Windows                  9 hrs 20 mins       ████████████░░░░░░░░░░░░░   47.07 % 
 ```
 
 
