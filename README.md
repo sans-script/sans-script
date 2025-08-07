@@ -35,25 +35,25 @@ Up time: 19 years, 4 months and 14 days
 
 ```text
 💬 Programming Languages: 
-TypeScript               24 hrs 30 mins      ███████████████████░░░░░░   74.33 % 
-JSON                     2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-CSS                      1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-JavaScript               1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-Markdown                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+TypeScript               24 hrs 13 mins      ███████████████████░░░░░░   74.11 % 
+JSON                     2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+CSS                      1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+JavaScript               1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+Markdown                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 
 🔥 Editors: 
-VS Code                  32 hrs 57 mins      █████████████████████████   100.00 % 
+VS Code                  32 hrs 41 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-builder                  17 hrs 16 mins      █████████████░░░░░░░░░░░░   52.39 % 
-dyad                     10 hrs 9 mins       ████████░░░░░░░░░░░░░░░░░   30.84 % 
-saneagest                2 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-resizable-layout         2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+builder                  17 hrs 16 mins      █████████████░░░░░░░░░░░░   52.83 % 
+dyad                     10 hrs 9 mins       ████████░░░░░░░░░░░░░░░░░   31.10 % 
+saneagest                2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+resizable-layout         2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
 soluns.web               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 💻 Operating System: 
-Windows                  25 hrs 17 mins      ███████████████████░░░░░░   76.70 % 
-WSL                      7 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
+Windows                  25 hrs 17 mins      ███████████████████░░░░░░   77.34 % 
+WSL                      7 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
 ```
 
 
