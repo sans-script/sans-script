@@ -25,7 +25,7 @@ Up time: 19 years, 4 months and 16 days
 ```
 <!--UP_TIME_END-->
 
-<img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sans-script&theme=github_dark"/>
+<!--<img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sans-script&theme=github_dark"/>-->
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
