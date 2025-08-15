@@ -32,24 +32,24 @@ Up time: 19 years, 4 months and 22 days
 
 ```text
 💬 Programming Languages: 
-JavaScript               4 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   34.96 % 
-Python                   3 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
-Docker                   1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-Text                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-Bash                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+JavaScript               4 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   39.52 % 
+Python                   1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+Docker                   1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+TypeScript               56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Bash                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 41 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 31 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-builder                  7 hrs 17 mins       ██████████████░░░░░░░░░░░   57.48 % 
-getvideo                 3 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
-sempre_esteja_um_passo_a_1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-xterm-electron-sample    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-Unknown Project          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+builder                  7 hrs 24 mins       ████████████████░░░░░░░░░   64.32 % 
+getvideo                 3 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   26.51 % 
+xterm-electron-sample    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+react-form               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Cozinha principal        9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 💻 Operating System: 
-Windows                  12 hrs 41 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 
