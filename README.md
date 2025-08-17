@@ -32,24 +32,24 @@ Up time: 19 years, 4 months and 24 days
 
 ```text
 💬 Programming Languages: 
-JavaScript               4 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   34.85 % 
-HTML                     2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-Python                   1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Docker                   1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-TypeScript               56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+JavaScript               4 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   29.50 % 
+CSS                      3 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+HTML                     3 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
+Python                   1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Markdown                 52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 55 mins      █████████████████████████   100.00 % 
+VS Code                  16 hrs 47 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-builder                  9 hrs 2 mins        ████████████████░░░░░░░░░   64.88 % 
-getvideo                 3 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
-curriculum               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-xterm-electron-sample    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-react-form               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+curriculum               6 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   38.22 % 
+builder                  5 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   35.28 % 
+getvideo                 3 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+xterm-electron-sample    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+react-form               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 
 💻 Operating System: 
-Windows                  13 hrs 55 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 
