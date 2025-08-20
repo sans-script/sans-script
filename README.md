@@ -32,24 +32,24 @@ Up time: 19 years, 4 months and 27 days
 
 ```text
 💬 Programming Languages: 
-CSS                      3 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   31.67 % 
-JavaScript               3 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   28.90 % 
-HTML                     3 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   27.05 % 
-Markdown                 50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-TypeScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+CSS                      3 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   38.09 % 
+HTML                     3 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   32.54 % 
+JavaScript               1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+Markdown                 50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+TypeScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 31 mins      █████████████████████████   100.00 % 
+VS Code                  9 hrs 34 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-curriculum               7 hrs               ███████████████░░░░░░░░░░   60.86 % 
-builder                  3 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   30.97 % 
-react-form               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-Unknown Project          20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-Cozinha principal        9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+curriculum               7 hrs               ██████████████████░░░░░░░   73.20 % 
+builder                  1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+react-form               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+Unknown Project          20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Cozinha principal        9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 💻 Operating System: 
-Windows                  11 hrs 31 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 
