@@ -35,24 +35,24 @@ Up time: 19 years, 4 months and 29 days
 
 ```text
 💬 Programming Languages: 
-CSS                      4 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   35.27 % 
-HTML                     3 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   29.74 % 
-JavaScript               2 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
-Markdown                 51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-TypeScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+CSS                      4 hrs               █████████░░░░░░░░░░░░░░░░   36.38 % 
+HTML                     3 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   30.51 % 
+JavaScript               2 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
+Markdown                 51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 28 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 1 min        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-curriculum               8 hrs 23 mins       ██████████████████░░░░░░░   73.24 % 
-builder                  1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-curriculum-vite-react    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-react-form               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-Unknown Project          20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+curriculum               8 hrs 23 mins       ███████████████████░░░░░░   76.17 % 
+builder                  1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+curriculum-vite-react    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+Unknown Project          20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+vite_project             11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 
 💻 Operating System: 
-Windows                  11 hrs 28 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 
