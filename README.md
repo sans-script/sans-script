@@ -32,24 +32,23 @@ Up time: 19 years, 4 months and 30 days
 
 ```text
 💬 Programming Languages: 
-CSS                      4 hrs               █████████░░░░░░░░░░░░░░░░   36.38 % 
-HTML                     3 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   30.51 % 
-JavaScript               2 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
-Markdown                 51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+CSS                      4 hrs               ████████████░░░░░░░░░░░░░   46.46 % 
+JavaScript               2 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   26.75 % 
+HTML                     1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Markdown                 41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 1 min        █████████████████████████   100.00 % 
+VS Code                  8 hrs 37 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-curriculum               8 hrs 23 mins       ███████████████████░░░░░░   76.17 % 
-builder                  1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-curriculum-vite-react    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-Unknown Project          20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-vite_project             11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+curriculum               7 hrs 37 mins       ██████████████████████░░░   88.34 % 
+curriculum-vite-react    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+Unknown Project          20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+vite_project             11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 
 💻 Operating System: 
-Windows                  11 hrs 1 min        █████████████████████████   100.00 % 
+Windows                  8 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 
