@@ -32,22 +32,22 @@ Up time: 19 years, 5 months and 2 days
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 48 mins        █████████████████░░░░░░░░   66.78 % 
-CSS                      23 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-HTML                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-TypeScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+JavaScript               1 hr 12 mins        ██████████████░░░░░░░░░░░   57.42 % 
+CSS                      23 mins             █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+HTML                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+TypeScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 42 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 6 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-curriculum               2 hrs 2 mins        ███████████████████░░░░░░   75.40 % 
-curriculum-vite-react    28 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
-vite_project             11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+curriculum               1 hr 26 mins        █████████████████░░░░░░░░   68.46 % 
+curriculum-vite-react    28 mins             ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
+vite_project             11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
 
 💻 Operating System: 
-Windows                  2 hrs 42 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 
