@@ -32,16 +32,16 @@ Up time: 19 years, 5 months and 5 days
 
 ```text
 💬 Programming Languages: 
-JavaScript               0 secs              █████████████████████████   100.00 % 
+C++                      7 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  7 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-curriculum               0 secs              █████████████████████████   100.00 % 
+SegDigitalDisplay        7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Windows                  7 mins              █████████████████████████   100.00 % 
 ```
 
 
