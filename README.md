@@ -32,19 +32,20 @@ Up time: 19 years, 5 months and 12 days
 
 ```text
 💬 Programming Languages: 
-C++                      7 mins              █████████████████████░░░░   82.68 % 
-JavaScript               1 min               ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Python                   13 mins             ██████████████████████░░░   89.47 % 
+JavaScript               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
+VS Code                  14 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SegDigitalDisplay        7 mins              █████████████████████░░░░   82.68 % 
-lovelace-landingpage     1 min               ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Tars                     13 mins             ██████████████████████░░░   89.96 % 
+lovelace-landingpage     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
 
 💻 Operating System: 
-Windows                  8 mins              █████████████████████████   100.00 % 
+Windows                  14 mins             █████████████████████████   100.00 % 
 ```
 
 
