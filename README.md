@@ -32,22 +32,23 @@ Up time: 19 years, 5 months and 14 days
 
 ```text
 💬 Programming Languages: 
-Python                   13 mins             █████████████░░░░░░░░░░░░   52.96 % 
-JSON                     10 mins             ██████████░░░░░░░░░░░░░░░   40.81 % 
-JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+JavaScript               1 hr 19 mins        ██████████████████░░░░░░░   71.73 % 
+Python                   13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 🔥 Editors: 
-VS Code                  24 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 51 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Tars                     13 mins             █████████████░░░░░░░░░░░░   53.25 % 
-Unknown Project          10 mins             ██████████░░░░░░░░░░░░░░░   40.81 % 
-lovelace-landingpage     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+lovelace_landingpage     1 hr 26 mins        ███████████████████░░░░░░   77.71 % 
+Tars                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+Unknown Project          10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+lovelace-landingpage     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 
 💻 Operating System: 
-Windows                  24 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 51 mins        █████████████████████████   100.00 % 
 ```
 
 
