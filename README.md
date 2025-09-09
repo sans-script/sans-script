@@ -32,22 +32,24 @@ Up time: 19 years, 5 months and 16 days
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 18 mins        ██████████████████░░░░░░░   70.29 % 
-Python                   13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+TypeScript               1 hr 38 mins        ██████████░░░░░░░░░░░░░░░   38.20 % 
+JavaScript               1 hr 26 mins        ████████░░░░░░░░░░░░░░░░░   33.67 % 
+Python                   26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+CSS                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
 
 🔥 Editors: 
-VS Code                  1 hr 51 mins        █████████████████████████   100.00 % 
+VS Code                  4 hrs 18 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lovelace_landingpage     1 hr 26 mins        ███████████████████░░░░░░   77.55 % 
-Tars                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Unknown Project          10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+lovelace-improved        2 hrs 5 mins        ████████████░░░░░░░░░░░░░   48.68 % 
+lovelace_landingpage     1 hr 26 mins        ████████░░░░░░░░░░░░░░░░░   33.45 % 
+DELTARUNE_-_Chapter_2_-_A21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+Tars                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+Unknown Project          10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 
 💻 Operating System: 
-Windows                  1 hr 51 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 
