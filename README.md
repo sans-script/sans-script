@@ -32,24 +32,24 @@ Up time: 19 years, 5 months and 17 days
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 38 mins        ██████████░░░░░░░░░░░░░░░   38.20 % 
-JavaScript               1 hr 26 mins        ████████░░░░░░░░░░░░░░░░░   33.67 % 
-Python                   26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-CSS                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+TypeScript               2 hrs 36 mins       ████████████░░░░░░░░░░░░░   49.53 % 
+JavaScript               1 hr 26 mins        ███████░░░░░░░░░░░░░░░░░░   27.49 % 
+Python                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+CSS                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 18 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 16 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lovelace-improved        2 hrs 5 mins        ████████████░░░░░░░░░░░░░   48.68 % 
-lovelace_landingpage     1 hr 26 mins        ████████░░░░░░░░░░░░░░░░░   33.45 % 
-DELTARUNE_-_Chapter_2_-_A21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-Tars                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-Unknown Project          10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+lovelace-improved        2 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   39.75 % 
+lovelace_landingpage     1 hr 26 mins        ███████░░░░░░░░░░░░░░░░░░   27.32 % 
+lovelace                 58 mins             █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+DELTARUNE_-_Chapter_2_-_A21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+Tars                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 
 💻 Operating System: 
-Windows                  4 hrs 18 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 
