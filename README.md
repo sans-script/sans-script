@@ -32,24 +32,24 @@ Up time: 19 years, 5 months and 21 days
 
 ```text
 💬 Programming Languages: 
-TypeScript               6 hrs 11 mins       █████████████████░░░░░░░░   68.70 % 
-JavaScript               1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-CSS                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-Python                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+TypeScript               6 hrs 12 mins       ████████████████████░░░░░   81.82 % 
+Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+CSS                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+JavaScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Python                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 
 🔥 Editors: 
-VS Code                  9 hrs               █████████████████████████   100.00 % 
+VS Code                  7 hrs 35 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-azure-shine-main         3 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   35.76 % 
-lovelace-improved        2 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
-lovelace                 1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-lovelace_landingpage     1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-DELTARUNE_-_Chapter_2_-_A21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+azure-shine-main         3 hrs 13 mins       ███████████░░░░░░░░░░░░░░   42.44 % 
+lovelace-improved        2 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   27.73 % 
+lovelace                 1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
+DELTARUNE_-_Chapter_2_-_A21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+neumann-insight-pulse-mai19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
 
 💻 Operating System: 
-Windows                  9 hrs               █████████████████████████   100.00 % 
+Windows                  7 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 
