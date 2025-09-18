@@ -32,23 +32,23 @@ Up time: 19 years, 5 months and 25 days
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 39 mins       ██████████████████████░░░   88.47 % 
-Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-JavaScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-TSConfig                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+TypeScript               4 hrs 32 mins       ██████████████████████░░░   86.74 % 
+Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+JavaScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+TSConfig                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 24 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 13 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-azure-shine-main         3 hrs 19 mins       █████████████░░░░░░░░░░░░   52.03 % 
-lovelace                 2 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   32.37 % 
-elevate-neumann-landing  38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-neumann-insight-pulse-mai21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+azure-shine-main         3 hrs 19 mins       ████████████████░░░░░░░░░   63.70 % 
+lovelace                 53 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+elevate-neumann-landing  38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+neumann-insight-pulse-mai21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
 
 💻 Operating System: 
-Windows                  6 hrs 24 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 
