@@ -28,29 +28,6 @@ Up time: 19 years, 5 months and 30 days
 <!--<img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sans-script&theme=github_dark"/>-->
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               1 hr 10 mins        ██████████████████████░░░   87.93 % 
-JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-Git                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-
-🔥 Editors: 
-VS Code                  1 hr 19 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-elevate-neumann-landing  42 mins             █████████████░░░░░░░░░░░░   52.96 % 
-lovelace                 29 mins             █████████░░░░░░░░░░░░░░░░   36.89 % 
-azure-shine-main         6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-neumann-insight-pulse-mai1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-
-💻 Operating System: 
-Windows                  1 hr 19 mins        █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
 
