@@ -28,6 +28,22 @@ Up time: 19 years, 6 months and 0 days
 <!--<img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sans-script&theme=github_dark"/>-->
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               3 mins              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  3 mins              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+elevate-neumann-landing  3 mins              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  3 mins              █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 
