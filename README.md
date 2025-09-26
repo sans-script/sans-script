@@ -32,16 +32,18 @@ Up time: 19 years, 6 months and 1 days
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 mins              █████████████████████████   100.00 % 
+Python                   12 mins             █████████████░░░░░░░░░░░░   53.91 % 
+Other                    10 mins             ████████████░░░░░░░░░░░░░   46.09 % 
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+VS Code                  22 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-elevate-neumann-landing  3 mins              █████████████████████████   100.00 % 
+Unknown Project          22 mins             ████████████████████████░   97.09 % 
+elevate-neumann-landing  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+Windows                  22 mins             █████████████████████████   100.00 % 
 ```
 
 
