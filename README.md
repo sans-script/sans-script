@@ -32,18 +32,21 @@ Up time: 19 years, 6 months and 1 days
 
 ```text
 💬 Programming Languages: 
-Python                   12 mins             █████████████░░░░░░░░░░░░   53.91 % 
-Other                    10 mins             ████████████░░░░░░░░░░░░░   46.09 % 
+JSON                     43 mins             ████████████░░░░░░░░░░░░░   49.97 % 
+Python                   19 mins             ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
+Markdown                 13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+Other                    10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
 
 🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 27 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          22 mins             ████████████████████████░   97.09 % 
-elevate-neumann-landing  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Unknown Project          1 hr 19 mins        ███████████████████████░░   91.20 % 
+Docling                  7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+elevate-neumann-landing  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 💻 Operating System: 
-Windows                  22 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 27 mins        █████████████████████████   100.00 % 
 ```
 
 
