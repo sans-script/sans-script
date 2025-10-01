@@ -32,21 +32,23 @@ Up time: 19 years, 6 months and 1 days
 
 ```text
 💬 Programming Languages: 
-JSON                     43 mins             ████████████░░░░░░░░░░░░░   49.97 % 
-Python                   19 mins             ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
-Markdown                 13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-Other                    10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+JSON                     43 mins             ████████████░░░░░░░░░░░░░   47.72 % 
+Python                   20 mins             █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
+Markdown                 13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+Other                    10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 
 🔥 Editors: 
-VS Code                  1 hr 27 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 31 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 19 mins        ███████████████████████░░   91.20 % 
-Docling                  7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-elevate-neumann-landing  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Unknown Project          1 hr 19 mins        ██████████████████████░░░   87.09 % 
+Docling                  7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+elevate-neumann-landing  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+neumann-insight-pulse-mai1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 💻 Operating System: 
-Windows                  1 hr 27 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 31 mins        █████████████████████████   100.00 % 
 ```
 
 
