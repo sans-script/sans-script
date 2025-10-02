@@ -32,23 +32,24 @@ Up time: 19 years, 6 months and 1 days
 
 ```text
 💬 Programming Languages: 
-JSON                     43 mins             ████████████░░░░░░░░░░░░░   47.72 % 
-Python                   20 mins             █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
-Markdown                 13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-Other                    10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+TypeScript               2 hrs 44 mins       ████████████████░░░░░░░░░   65.99 % 
+JSON                     44 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+HTML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 
 🔥 Editors: 
-VS Code                  1 hr 31 mins        █████████████████████████   100.00 % 
+VS Code                  4 hrs 9 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 19 mins        ██████████████████████░░░   87.09 % 
-Docling                  7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-elevate-neumann-landing  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-neumann-insight-pulse-mai1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+blueprint-v.1.0.0        1 hr 59 mins        ████████████░░░░░░░░░░░░░   47.82 % 
+Unknown Project          57 mins             ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
+neumann-v1.0.0           47 mins             █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+Docling                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+neumann-insight-pulse-mai7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 
 💻 Operating System: 
-Windows                  1 hr 31 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 
