@@ -28,30 +28,6 @@ Up time: 19 years, 6 months and 1 days
 <!--<img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sans-script&theme=github_dark"/>-->
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               2 hrs 44 mins       ████████████████░░░░░░░░░   65.99 % 
-JSON                     44 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
-HTML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 9 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-blueprint-v.1.0.0        1 hr 59 mins        ████████████░░░░░░░░░░░░░   47.82 % 
-Unknown Project          57 mins             ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
-neumann-v1.0.0           47 mins             █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
-Docling                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-neumann-insight-pulse-mai7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-
-💻 Operating System: 
-Windows                  4 hrs 9 mins        █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
 
