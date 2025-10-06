@@ -32,24 +32,24 @@ Up time: 19 years, 6 months and 1 days
 
 ```text
 💬 Programming Languages: 
-TypeScript               6 hrs 34 mins       ██████████████████░░░░░░░   71.47 % 
-HTML                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-JSON                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-C++                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+TypeScript               7 hrs 40 mins       █████████████████████░░░░   83.21 % 
+HTML                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+C++                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+CSS                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Git                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 11 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 13 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-blueprint-v.1.0.0        4 hrs 40 mins       █████████████░░░░░░░░░░░░   50.78 % 
-neumann-v1.0.0           1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-neumann-platform-v1.0.0  1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-Unknown Project          57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-prototype-v1.0.0         35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+blueprint-v.1.0.0        4 hrs 40 mins       █████████████░░░░░░░░░░░░   50.57 % 
+neumann-platform-v1.0.0  2 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
+neumann-v1.0.0           1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+prototype-v1.0.0         35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+neumann-insight-pulse-mai7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 💻 Operating System: 
-Windows                  9 hrs 11 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 
