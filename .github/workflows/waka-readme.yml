@@ -24,5 +24,6 @@ jobs:
           SHOW_DAYS_OF_WEEK: false
           SHOW_TIMEZONE: false
           SHOW_UPDATED_DATE: false
+          SHOW_PROJECTS: false
 
           
