@@ -32,17 +32,16 @@ Up time: 19 years, 6 months and 16 days
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 57 mins       ███████████████████░░░░░░   77.68 % 
-HTML                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-C++                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-Git                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+TypeScript               2 hrs 18 mins       ██████████████████████░░░   87.37 % 
+JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+HTML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 23 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 38 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 23 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 
