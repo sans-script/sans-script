@@ -1,0 +1,40 @@
+name: Python Update README.md
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      
+      - name: Set up Python and Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install python-dotenv google-generativeai python-dateutil
+          
+      - name: Git pull
+        run: |
+          git pull
+      
+      - name: Run Python script and update README.md
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python update_readme.py
+      - name: Commit
+        run: |-
+          git add .
+          git diff
+          git config --global user.email "alexhere.user@gmail.com"
+          git config --global user.name "sans-script"
+          git commit -m "Update README.md" -a || echo "No changes to commit"
+          git push

@@ -1,0 +1,71 @@
+name: SSH Playground Environment
+
+on:
+  workflow_dispatch:
+
+jobs:
+  ssh-access:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360  # 6 hours
+
+    steps:
+      - name: Set up SSH Server
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y openssh-server
+          mkdir -p ~/.ssh
+          echo "${{ secrets.SSH_PUBLIC_KEY }}" >> ~/.ssh/authorized_keys
+          chmod 700 ~/.ssh
+          chmod 600 ~/.ssh/authorized_keys
+          sudo service ssh start
+
+      - name: Configure Git identity
+        run: |
+          git config --global user.name "sans-script"
+          git config --global user.email "alexhere.user@gmail.com"
+          git config --global init.defaultBranch main
+
+      - name: Install and start ngrok tunnel
+        run: |
+          echo "🌐 Installing and starting ngrok..."
+          curl -s https://ngrok-agent.s3.amazonaws.com/ngrok.asc | sudo tee /etc/apt/trusted.gpg.d/ngrok.asc >/dev/null
+          echo "deb https://ngrok-agent.s3.amazonaws.com buster main" | sudo tee /etc/apt/sources.list.d/ngrok.list
+          sudo apt update && sudo apt install -y ngrok
+
+          ngrok config add-authtoken ${{ secrets.NGROK_AUTH_TOKEN }}
+          nohup ngrok tcp 22 --log stdout > ngrok.log 2>&1 &
+
+          echo "🔗 Waiting for ngrok tunnel to be ready..."
+          for i in {1..60}; do
+            sleep 1
+            NGROK_URL=$(grep -oE 'tcp://[0-9a-zA-Z.]+:[0-9]+' ngrok.log | head -n 1)
+            if [[ $NGROK_URL == tcp://* ]]; then
+              echo "🔗 Ngrok tunnel ready: $NGROK_URL"
+              echo "ngrok_url=$NGROK_URL" >> $GITHUB_ENV
+              break
+            fi
+          done
+
+          if [ -z "$NGROK_URL" ]; then
+            echo "❌ Failed to get ngrok URL." >&2
+            echo "📜 ngrok.log output:"
+            cat ngrok.log
+            exit 1
+          fi
+          
+      - name: Self-destruct warning timer
+        run: |
+          echo '#!/bin/bash
+          sleep 21000  # ~5h50min
+          wall "
+          ⚠️ THIS VM WILL SHUT DOWN IN 10 MINUTES!
+          💾 Save your work!
+          "
+          sleep 600
+          wall "💥 TIME IS UP! The VM is shutting down."
+          ' > ~/selfdestruct.sh
+          chmod +x ~/selfdestruct.sh
+          nohup ~/selfdestruct.sh >/dev/null 2>&1 &
+
+      - name: Keep runner alive
+        run: sleep 21600  # 6 hours
