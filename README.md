@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 19 years, 7 months and 0 days
+Up time: 19 years, 7 months and 1 days
 ```
 <!--UP_TIME_END-->
 
@@ -78,7 +78,7 @@ Languages & Technologies: `Angular17` `Tailwindcss` `TypeScript` `Node.js`
 <img width="100%" src="https://raw.githubusercontent.com/sans-script/sans-script/output/github-contribution-grid-snake-dark.svg"/> 
 
 <!--MODEL_RESPONSE_START-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&multiline=true&width=950&lines="Clarity+of+thought+is+the+precursor+to+correctness.+Write+not+just+for+machines,+but+for+minds.";–+Edsger+Dijkstra,+1972)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&multiline=true&width=1160&lines="Innovation+is+not+just+about+new+technology,+it's+about+solving+human+problems+at+scale.";–+Bill+Gates,+2024)](https://git.io/typing-svg)
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
