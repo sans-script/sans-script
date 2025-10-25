@@ -78,7 +78,7 @@ Languages & Technologies: `Angular17` `Tailwindcss` `TypeScript` `Node.js`
 <img width="100%" src="https://raw.githubusercontent.com/sans-script/sans-script/output/github-contribution-grid-snake-dark.svg"/> 
 
 <!--MODEL_RESPONSE_START-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&multiline=true&width=1160&lines="Innovation+is+not+just+about+new+technology,+it's+about+solving+human+problems+at+scale.";–+Bill+Gates,+2024)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&multiline=true&width=1005&lines="Connect+the+dots,+empower+every+voice.+The+web's+potential+is+a+tapestry+woven+by+all.";–+Tim+Berners-Lee,+2024)](https://git.io/typing-svg)
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
