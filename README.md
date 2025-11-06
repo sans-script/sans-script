@@ -32,13 +32,13 @@ Up time: 19 years, 7 months and 13 days
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   39 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  39 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  39 mins             █████████████████████████   100.00 % 
 ```
 
 
