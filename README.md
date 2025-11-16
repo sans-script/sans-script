@@ -88,7 +88,7 @@ Languages & Technologies: `Angular17` `Tailwindcss` `TypeScript` `Node.js`
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
 <small>
 🛈 The content above is generated daily using AI.
-AI can make mistakes. Check important info.
+AI and I can make mistakes. Check important info.
 Powered By Google Gemini.
 </small>
 </div>
