@@ -102,8 +102,16 @@ def get_wakatime_data(file_path):
         if waka_section:
             waka_content = waka_section.group(1)
             
-            # Extract languages with percentages
+            # Extract languages with percentages and time
             languages = re.findall(r'([\w\s+#]+?)\s+(\d+\s+(?:hrs?|mins?).*?)\s+([\d.]+)\s*%', waka_content)
+            
+            # Calculate total time
+            total_time_match = re.search(r'(\d+)\s+(hrs?|mins?)', waka_content)
+            total_minutes = 0
+            if total_time_match:
+                value = int(total_time_match.group(1))
+                unit = total_time_match.group(2)
+                total_minutes = value * 60 if 'hr' in unit else value
             
             # Extract editors
             editors = re.findall(r'🔥 Editors:.*?(\w+(?:\s+\w+)*)\s+\d+\s+(?:hrs?|mins?)', waka_content, re.DOTALL)
@@ -114,12 +122,13 @@ def get_wakatime_data(file_path):
             return {
                 'languages': languages[:3] if languages else [],  # Top 3 languages
                 'editor': editors[0].strip() if editors else 'VS Code',
-                'os': os_match[0].strip() if os_match else 'WSL'
+                'os': os_match[0].strip() if os_match else 'WSL',
+                'total_minutes': total_minutes
             }
     except Exception as e:
         print(f"Could not extract WakaTime data: {e}")
     
-    return {'languages': [], 'editor': 'VS Code', 'os': 'WSL'}
+    return {'languages': [], 'editor': 'VS Code', 'os': 'WSL', 'total_minutes': 0}
 
 # Get real data
 github_activity = get_github_activity()
@@ -128,6 +137,18 @@ wakatime_data = get_wakatime_data('README.md')
 # Build context from real data
 languages_text = ", ".join([lang[0].strip() for lang in wakatime_data['languages']]) if wakatime_data['languages'] else "Angular, TypeScript, HTML"
 repos_text = ", ".join([repo.split('/')[-1] for repo in github_activity['repos']]) if github_activity['repos'] else ""
+total_minutes = wakatime_data.get('total_minutes', 0)
+
+# Determine activity level based on coding time
+if total_minutes < 60:  # Less than 1 hour
+    activity_level = "light"
+    activity_prefix = "Quick coding session with"
+elif total_minutes < 180:  # Less than 3 hours
+    activity_level = "moderate"
+    activity_prefix = "Working with"
+else:  # 3+ hours
+    activity_level = "active"
+    activity_prefix = "Deep diving into"
 
 # Add context based on activity
 if repos_text and github_activity['commits_count'] > 0:
@@ -167,17 +188,23 @@ Generate a compact "Dev Status Report" for a Frontend Developer's GitHub README 
 
 Real data from this week:
 - Programming languages used: {languages_text}
+- Total coding time: {total_minutes} minutes (Activity level: {activity_level})
 - Editor: {wakatime_data['editor']}
 - OS: {wakatime_data['os']}{activity_context}{commits_info}
 
-CRITICAL: Focus ONLY on the actual languages used ({languages_text}). Do NOT make assumptions about what repositories contain or what work was done beyond what the languages indicate.
+CRITICAL INSTRUCTIONS:
+1. Focus ONLY on the actual languages used: {languages_text}
+2. Be HONEST about activity level - only {total_minutes} minutes of coding this week
+3. If time is low (<60 mins), describe it as "quick session", "brief work", or "light coding"
+4. DO NOT exaggerate or invent extensive work when time is minimal
+5. Do NOT make assumptions about what repositories contain
 
 Format your response EXACTLY like this (3-4 lines total):
 
 ### 🎯 Current Focus
-**This week:** [Describe work based strictly on the languages: {languages_text}. Be generic - don't assume repo contents] • Exploring {topic} • [1-2 relevant emoji]
+{activity_prefix} {languages_text} • Exploring {topic} • [1-2 relevant emoji]
 
-[One practical programming tip about {languages_text} - write it like a loading screen tip in an RPG game, just the sentence with no emoji or prefix]
+<div align="center"><strong>[One practical programming tip about {languages_text} - write it like a loading screen tip in an RPG game, just the sentence with no emoji or prefix]</strong></div>
 
 Requirements:
 - Only mention the actual languages from WakaTime: {languages_text}
@@ -190,9 +217,9 @@ Requirements:
 
 Example for "JavaScript, HTML":
 ### 🚀 Current Focus
-**This week:** Developing with JavaScript & HTML • Exploring Web performance • 🔥💡
+Developing with JavaScript & HTML • Exploring Web performance • 🔥💡
 
-Use defer or async attributes on script tags to prevent blocking HTML parsing and improve page load time.
+<div align="center"><strong>Use defer or async attributes on script tags to prevent blocking HTML parsing and improve page load time.</strong></div>
 """
 
 # Send the prompt to the model
