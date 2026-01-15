@@ -88,6 +88,7 @@ Quick coding session with JavaScript, HTML, VS Code • Exploring Component arch
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
 <small>
+<br>
 🛈 The content above is generated daily using AI.
 AI and I can make mistakes.
 Powered By Google Gemini.
