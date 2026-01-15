@@ -89,7 +89,7 @@ Leverage VS Code's built-in Emmet support to quickly generate complex HTML struc
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
 <small>
 🛈 The content above is generated daily using AI.
-AI and I can make mistakes. Check important info.
+AI and I can make mistakes.
 Powered By Google Gemini.
 </small>
 </div>
