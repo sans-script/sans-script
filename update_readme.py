@@ -128,8 +128,24 @@ wakatime_data = get_wakatime_data('README.md')
 # Build context from real data
 languages_text = ", ".join([lang[0].strip() for lang in wakatime_data['languages']]) if wakatime_data['languages'] else "Angular, TypeScript, HTML"
 repos_text = ", ".join([repo.split('/')[-1] for repo in github_activity['repos']]) if github_activity['repos'] else ""
-activity_context = f" Active repositories: {repos_text}." if repos_text else ""
-commits_info = f" Made {github_activity['commits_count']} commits recently." if github_activity['commits_count'] > 0 else ""
+
+# Add context based on activity
+if repos_text and github_activity['commits_count'] > 0:
+    activity_context = f" Active repositories: {repos_text}."
+    commits_info = f" Made {github_activity['commits_count']} commits recently."
+elif repos_text:
+    activity_context = f" Active repositories: {repos_text}."
+    commits_info = ""
+else:
+    # No repos detected - add contextual message
+    no_activity_messages = [
+        " Taking a break from public repos this week.",
+        " Focusing on local development.",
+        " Working on private projects.",
+        " Experimenting offline."
+    ]
+    activity_context = random.choice(no_activity_messages)
+    commits_info = ""
 
 tech_topics = [
     "TypeScript advanced patterns",
@@ -147,40 +163,61 @@ tech_topics = [
 topic = random.choice(tech_topics)
 
 prompt = f"""
-Generate a compact "Dev Status Report" for a Frontend Developer's GitHub README profile based on REAL data from their GitHub activity.
+Generate a compact "Dev Status Report" for a Frontend Developer's GitHub README profile based on REAL data.
 
 Real data from this week:
 - Programming languages used: {languages_text}
 - Editor: {wakatime_data['editor']}
 - OS: {wakatime_data['os']}{activity_context}{commits_info}
 
+CRITICAL: Focus ONLY on the actual languages used ({languages_text}). Do NOT make assumptions about what repositories contain or what work was done beyond what the languages indicate.
+
 Format your response EXACTLY like this (3-4 lines total):
 
-### 🚀 Current Focus
-**This week:** [Describe activity based on the languages/tools and repositories they actually worked on] • Exploring {topic} • [1-2 relevant emoji]
+### 🎯 Current Focus
+**This week:** [Describe work based strictly on the languages: {languages_text}. Be generic - don't assume repo contents] • Exploring {topic} • [1-2 relevant emoji]
 
-**Quick insight:** [One practical technical tip related to their actual work - something actionable and specific]
+[One practical programming tip about {languages_text} - write it like a loading screen tip in an RPG game, just the sentence with no emoji or prefix]
 
 Requirements:
-- Base the "This week" section on the REAL languages/tools/repos they used
+- Only mention the actual languages from WakaTime: {languages_text}
 - Keep it professional but friendly
-- Use 1-2 emoji that represent mood/status (🔥💡🎯⚡️🚀✨🎨🧪🔧etc)
-- The insight should be practical and related to their actual tech stack
-- Total length: 3-4 lines maximum
-- Make it sound natural, like a real developer writing it
-- Return ONLY the markdown text, nothing else
+- Use 1-2 emoji (🔥💡🎯⚡️🚀✨🎨🧪🔧)
+- Tip must relate directly to {languages_text}
+- Write the tip like an RPG loading screen hint - just the sentence, no prefix, no emoji
+- 3-4 lines maximum
+- Return ONLY the markdown text
 
-Example output:
+Example for "JavaScript, HTML":
 ### 🚀 Current Focus
-**This week:** Working with JavaScript & HTML across multiple projects
-### 🚀 Current Focus
-**This week:** Working with JavaScript & HTML • Exploring Component architecture • 🔥💡
+**This week:** Developing with JavaScript & HTML • Exploring Web performance • 🔥💡
 
-**Quick insight:** Using semantic HTML improves accessibility and SEO - always prefer <button> over <div> for clickable elements!
+Use defer or async attributes on script tags to prevent blocking HTML parsing and improve page load time.
 """
 
 # Send the prompt to the model
 response = chat_session.send_message(prompt)
+
+def add_repo_links(text, repos, username='sans-script'):
+    """Add GitHub links to repository names mentioned in the text"""
+    import re
+    for repo in repos:
+        repo_short = repo.split('/')[-1]  # Get just the repo name
+        
+        # Remove backticks around repo name first
+        text = re.sub(r'`' + re.escape(repo_short) + r'`', repo_short, text, flags=re.IGNORECASE)
+        
+        # Replace repo name with link (avoid already linked text)
+        pattern = r'(?<!\[)\b' + re.escape(repo_short) + r'\b(?!\])'
+        replacement = f'[{repo_short}](https://github.com/{repo})'
+        text = re.sub(pattern, replacement, text, flags=re.IGNORECASE, count=1)
+    
+    return text
+
+# Add links to repositories in the response
+response_text = response.text
+if github_activity['repos']:
+    response_text = add_repo_links(response_text, github_activity['repos'])
 
 def update_badges_section(file_path):
     with open(file_path, 'r') as file:
@@ -237,7 +274,7 @@ def update_model_response(file_path):
 
     if model_response_section:
         # Replace the content between the markers with the new response
-        updated_content = content[:model_response_section.start(1)] + f'\n{response.text}\n' + content[model_response_section.end(1):]
+        updated_content = content[:model_response_section.start(1)] + f'\n{response_text}\n' + content[model_response_section.end(1):]
 
         with open(file_path, 'w') as file:
             file.write(updated_content)

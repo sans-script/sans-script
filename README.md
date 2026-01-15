@@ -80,10 +80,10 @@ Languages & Technologies: `Angular17` `Tailwindcss` `TypeScript` `Node.js`
 <img width="100%" src="https://raw.githubusercontent.com/sans-script/sans-script/output/github-contribution-grid-snake-dark.svg"/> 
 
 <!--MODEL_RESPONSE_START-->
-### 🚀 Current Focus
-**This week:** Building out frontend components with JavaScript & HTML for `sans-script` and `curriculum` on WSL • Exploring RxJS operators for reactive patterns • ✨💡
+### 🎯 Current Focus
+**This week:** Developing interactive web experiences with JavaScript and structuring content with HTML, all within VS Code • Exploring RxJS operators • 🔥💡
 
-**Quick insight:** Leverage VS Code's Remote-WSL extension for a seamless dev experience – work directly in your Linux environment with all your favorite VS Code features.
+Leverage VS Code's built-in Emmet support to quickly generate complex HTML structures.
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
