@@ -81,9 +81,9 @@ Languages & Technologies: `Angular17` `Tailwindcss` `TypeScript` `Node.js`
 
 <!--MODEL_RESPONSE_START-->
 ### 🚀 Current Focus
-**This week:** Building out frontend components with JavaScript & HTML for `sans-script` and `curriculum` on WSL • Exploring RxJS operators for reactive patterns • ✨💡
+**This week:** Building with JavaScript & HTML on `curriculum` and `sans-script` projects • Exploring Accessibility best practices • ✨🛠️
 
-**Quick insight:** Leverage VS Code's Remote-WSL extension for a seamless dev experience – work directly in your Linux environment with all your favorite VS Code features.
+**Quick insight:** For robust accessibility, always ensure your custom JavaScript components correctly manage focus and keyboard interaction, especially for modal dialogs and dropdowns.
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
