@@ -1,5 +1,8 @@
 import re
 import os
+import subprocess
+import json
+import urllib.request
 from datetime import datetime
 from dateutil.relativedelta import relativedelta
 import google.generativeai as genai
@@ -31,84 +34,150 @@ chat_session = model.start_chat(
     history=[]
 )
 
-important_figures = [
-    "Alan Turing",
-    "Grace Hopper",
-    "Ada Lovelace",
-    "Donald Knuth",
-    "Tim Berners-Lee",
-    "Linus Torvalds",
-    "John von Neumann",
-    "Claude Shannon",
-    "Barbara Liskov",
-    "Dennis Ritchie",
-    "Ken Thompson",
-    "Margaret Hamilton",
-    "Vint Cerf",
-    "Robert Kahn",
-    "James Gosling",
-    "Guido van Rossum",
-    "Bjarne Stroustrup",
-    "Edsger Dijkstra",
-    "Douglas Engelbart",
-    "John McCarthy",
-    "Seymour Cray",
-    "Richard Stallman",
-    "Steve Jobs",
-    "Bill Gates",
-    "Elon Musk",
-    "Mark Zuckerberg",
-    "Marissa Mayer",
-    "Sheryl Sandberg",
-    "Radia Perlman",
-    "Jean Sammet",
-    "Elizabeth Feinler",
-    "Frances E. Allen",
-    "Mary Lou Jepsen",
-    "John Backus",
-    "Larry Page",
-    "Sergey Brin",
-    "Jeff Dean",
-    "Yukihiro Matsumoto",
-    "Niklaus Wirth",
-    "Brian Kernighan",
-    "Anders Hejlsberg",
-    "Tim Paterson",
-    "Adele Goldberg",
-    "Ivan Sutherland",
-    "Andrew Ng",
-    "Geoffrey Hinton",
-    "Yann LeCun",
-    "Fei-Fei Li",
-    "Chris Lattner",
-    "Hal Abelson",
-    "Alan Kay",
-    "Peter Norvig",
-    "Michael Stonebraker",
-    "Rosalind Picard",
-    "Cynthia Breazeal",
-    "Daphne Koller",
-    "Martine Rothblatt",
-    "Turing Award Recipients",
-    "Computer History Museum Honorees"
+def get_github_activity(username='sans-script'):
+    """Get recent GitHub activity from the GitHub API"""
+    try:
+        url = f'https://api.github.com/users/{username}/events?per_page=100'
+        req = urllib.request.Request(url)
+        
+        # Recommended headers from GitHub API docs
+        req.add_header('Accept', 'application/vnd.github+json')
+        req.add_header('X-GitHub-Api-Version', '2022-11-28')
+        req.add_header('User-Agent', 'sans-script-readme-updater')
+        
+        # Add token if available (increases rate limit and may show private events)
+        github_token = os.environ.get('GH_TOKEN') or os.environ.get('ACCESS_TOKEN')
+        if github_token:
+            req.add_header('Authorization', f'Bearer {github_token}')
+        
+        with urllib.request.urlopen(req, timeout=10) as response:
+            events = json.loads(response.read().decode())
+        
+        # Analyze recent activity (last 30 days, up to 300 events)
+        repos = set()
+        event_types = []
+        commits_count = 0
+        languages_in_commits = set()
+        
+        for event in events[:50]:  # Analyze last 50 events
+            event_type = event.get('type', '')
+            repo_name = event.get('repo', {}).get('name', '')
+            
+            # Collect all active repositories
+            if repo_name:
+                repos.add(repo_name)
+            
+            if event_type == 'PushEvent':
+                commits_count += len(event.get('payload', {}).get('commits', []))
+                event_types.append('coding')
+            elif event_type == 'PullRequestEvent':
+                event_types.append('PR')
+            elif event_type == 'IssuesEvent':
+                event_types.append('issue')
+            elif event_type == 'CreateEvent':
+                event_types.append('created')
+            elif event_type == 'WatchEvent':
+                event_types.append('starred')
+        
+        print(f"✓ GitHub activity: {len(repos)} repos, {commits_count} commits, {len(event_types)} events")
+        return {
+            'repos': list(repos)[:3],  # Top 3 active repos
+            'commits_count': commits_count,
+            'activity_types': list(set(event_types))
+        }
+    except urllib.error.HTTPError as e:
+        print(f"GitHub API HTTP Error {e.code}: {e.reason}")
+        return {'repos': [], 'commits_count': 0, 'activity_types': []}
+    except Exception as e:
+        print(f"Could not fetch GitHub activity: {e}")
+        return {'repos': [], 'commits_count': 0, 'activity_types': []}
+
+def get_wakatime_data(file_path):
+    """Extract real programming data from WakaTime section"""
+    try:
+        with open(file_path, 'r') as file:
+            content = file.read()
+        
+        waka_section = re.search(r'<!--START_SECTION:waka-->(.*?)<!--END_SECTION:waka-->', content, re.DOTALL)
+        if waka_section:
+            waka_content = waka_section.group(1)
+            
+            # Extract languages with percentages
+            languages = re.findall(r'([\w\s+#]+?)\s+(\d+\s+(?:hrs?|mins?).*?)\s+([\d.]+)\s*%', waka_content)
+            
+            # Extract editors
+            editors = re.findall(r'🔥 Editors:.*?(\w+(?:\s+\w+)*)\s+\d+\s+(?:hrs?|mins?)', waka_content, re.DOTALL)
+            
+            # Extract OS
+            os_match = re.findall(r'💻 Operating System:.*?(\w+)', waka_content, re.DOTALL)
+            
+            return {
+                'languages': languages[:3] if languages else [],  # Top 3 languages
+                'editor': editors[0].strip() if editors else 'VS Code',
+                'os': os_match[0].strip() if os_match else 'WSL'
+            }
+    except Exception as e:
+        print(f"Could not extract WakaTime data: {e}")
+    
+    return {'languages': [], 'editor': 'VS Code', 'os': 'WSL'}
+
+# Get real data
+github_activity = get_github_activity()
+wakatime_data = get_wakatime_data('README.md')
+
+# Build context from real data
+languages_text = ", ".join([lang[0].strip() for lang in wakatime_data['languages']]) if wakatime_data['languages'] else "Angular, TypeScript, HTML"
+repos_text = ", ".join([repo.split('/')[-1] for repo in github_activity['repos']]) if github_activity['repos'] else ""
+activity_context = f" Active repositories: {repos_text}." if repos_text else ""
+commits_info = f" Made {github_activity['commits_count']} commits recently." if github_activity['commits_count'] > 0 else ""
+
+tech_topics = [
+    "TypeScript advanced patterns",
+    "Angular performance optimization",
+    "RxJS operators",
+    "Component architecture",
+    "State management",
+    "Responsive design patterns",
+    "Accessibility best practices",
+    "Web performance",
+    "Testing strategies",
+    "Clean code principles"
 ]
 
-figure = random.choice(important_figures)
+topic = random.choice(tech_topics)
 
-prompt = (
-    f"Please create a totally new motivational or inspirational phrase by {figure} that I can use in a Markdown link with the typing SVG format, and include the author and year. "
-    "For the author citation, ensure that you only use a single dash (–) before the name, not a hyphen followed by a plus sign (-+), as this will not render correctly in the SVG.\n\n"
-    "The 'lines' parameter should contain the phrase, with words separated by '+' to ensure proper URL encoding. "
-    "Make sure the 'multiline' attribute is used to split the text into separate lines within the SVG, making it more readable in a README or similar document. "
-    "Always adjust the 'width' parameter dynamically to fit the entire length of the phrase, ensuring no part of it is cut off, and make sure the value is never less than 750.\n\n"
-    "Ensure that the text and the author citation are placed on separate lines within the 'lines' parameter to keep the formatting clear and readable. "
-    "Make sure to enclose the phrase in double quotes for proper display.\n\n"
-    "For example:\n"
-    "[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&multiline=true&width=435&lines=The+five+boxing+wizards+jump+quickly;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)\n\n"
-    "Ensure the phrase is formatted as follows:\n\n"
-    "[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=FFFFFF&multiline=true&width=YOUR_WIDTH&lines=\"Your+motivational+phrase+here\";–+Author+Name,+Year)](https://git.io/typing-svg)\n\n"
-    "Your response should only include the Markdown link with the formatted phrase."
-)
+prompt = f"""
+Generate a compact "Dev Status Report" for a Frontend Developer's GitHub README profile based on REAL data from their GitHub activity.
+
+Real data from this week:
+- Programming languages used: {languages_text}
+- Editor: {wakatime_data['editor']}
+- OS: {wakatime_data['os']}{activity_context}{commits_info}
+
+Format your response EXACTLY like this (3-4 lines total):
+
+### 🚀 Current Focus
+**This week:** [Describe activity based on the languages/tools and repositories they actually worked on] • Exploring {topic} • [1-2 relevant emoji]
+
+**Quick insight:** [One practical technical tip related to their actual work - something actionable and specific]
+
+Requirements:
+- Base the "This week" section on the REAL languages/tools/repos they used
+- Keep it professional but friendly
+- Use 1-2 emoji that represent mood/status (🔥💡🎯⚡️🚀✨🎨🧪🔧etc)
+- The insight should be practical and related to their actual tech stack
+- Total length: 3-4 lines maximum
+- Make it sound natural, like a real developer writing it
+- Return ONLY the markdown text, nothing else
+
+Example output:
+### 🚀 Current Focus
+**This week:** Working with JavaScript & HTML across multiple projects
+### 🚀 Current Focus
+**This week:** Working with JavaScript & HTML • Exploring Component architecture • 🔥💡
+
+**Quick insight:** Using semantic HTML improves accessibility and SEO - always prefer <button> over <div> for clickable elements!
+"""
 
 # Send the prompt to the model
 response = chat_session.send_message(prompt)

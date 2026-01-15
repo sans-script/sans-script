@@ -11,6 +11,8 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     
     steps:
       - name: Checkout repository
@@ -35,6 +37,6 @@ jobs:
           git add .
           git diff
           git config --global user.email "alexhere.user@gmail.com"
-          git config --global user.name "sans-script"
+          git config --global user.name "Alexandre Santos"
           git commit -m "Update README.md" -a || echo "No changes to commit"
           git push
