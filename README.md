@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 19 years, 9 months and 22 days
+Up time: 19 years, 9 months and 23 days
 ```
 <!--UP_TIME_END-->
 
@@ -81,9 +81,9 @@ Languages & Technologies: `Angular17` `Tailwindcss` `TypeScript` `Node.js`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Quick coding session with JavaScript, HTML, VS Code • Exploring Web performance • 💡✨
+Light coding session with JavaScript, HTML, VS Code • Brief explorations in web development • 💡✨
 
-<div align="center"><strong>Utilize VS Code's Emmet abbreviations for rapid HTML and CSS snippet generation.</strong></div>
+<div align="center"><strong>Familiarize yourself with VS Code's integrated debugger for efficient JavaScript troubleshooting.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
