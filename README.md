@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 19 years, 9 months and 25 days
+Up time: 19 years, 9 months and 26 days
 ```
 <!--UP_TIME_END-->
 
@@ -84,9 +84,9 @@ Languages & Technologies: `Angular17` `Tailwindcss` `TypeScript` `Node.js`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Briefly working with Markdown, Kotlin, JavaScript • Exploring efficient documentation & cross-platform patterns ✨💡
+Working with Markdown, Kotlin, JavaScript • Exploring clean code principles 💡✨
 
-<div align="center"><strong>When compiling Kotlin to JavaScript, explore the different module formats to optimize for your target environment and existing JS codebase.</strong></div>
+<div align="center"><strong>Embrace immutability in Kotlin to simplify concurrent programming and reduce unexpected state changes.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
