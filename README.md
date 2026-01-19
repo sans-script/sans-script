@@ -105,9 +105,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Working with Markdown, Kotlin, JavaScript • Exploring development practices • 💡🧪
+Briefly working with Markdown, Kotlin, JavaScript • Polishing documentation and small scripts ✨🔧
 
-<div align="center"><strong>Prefer const and let over var in JavaScript for better scope management and to avoid common hoisting issues.</strong></div>
+<div align="center"><strong>Always use `const` or `let` instead of `var` to manage variable scope and avoid common JavaScript hoisting issues.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
