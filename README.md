@@ -105,9 +105,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Working with Markdown, Kotlin, JavaScript • Exploring Clean code principles • 🎯✨
+Brief work with Markdown, Kotlin, JavaScript • Focusing on code refinement ✨💡
 
-<div align="center"><strong>Leverage Kotlin's data classes to quickly create classes for holding data, simplifying boilerplate code.</strong></div>
+<div align="center"><strong>Embrace Kotlin's data classes for concise data models and automatic `equals()`, `hashCode()`, and `toString()` generation.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
