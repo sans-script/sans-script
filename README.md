@@ -105,9 +105,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Working with Markdown, Kotlin, JavaScript • Exploring clean code principles 💡✨
+Working with Markdown, Kotlin, JavaScript • Exploring development practices • 💡🧪
 
-<div align="center"><strong>Embrace immutability in Kotlin to simplify concurrent programming and reduce unexpected state changes.</strong></div>
+<div align="center"><strong>Prefer const and let over var in JavaScript for better scope management and to avoid common hoisting issues.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
