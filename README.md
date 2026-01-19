@@ -105,9 +105,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Working with Markdown, Kotlin, JavaScript • Brief work on current projects • 🎯✨
+Working with Markdown, Kotlin, JavaScript • Exploring Clean code principles • 🎯✨
 
-<div align="center"><strong>Use `const` for variables that do not change and `let` for variables that can be reassigned to improve code clarity in JavaScript.</strong></div>
+<div align="center"><strong>Leverage Kotlin's data classes to quickly create classes for holding data, simplifying boilerplate code.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
