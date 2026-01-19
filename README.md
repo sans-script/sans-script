@@ -71,14 +71,35 @@ Development Tools and Environments: VS Code, Ubuntu, Windows, CodePen, Figma -->
 
 <p align="left">If there's any music playing on my Spotify, it will show up here. This means I'm working on something really cool, or just taking a shower.</p>
 
-**Work Experience**
+
+<details>
+<summary><strong>Work Experience</strong></summary>
+
+<br>
+
+<img align="left" height="94px" width="94px" alt="SEMIT" src="https://github.com/user-attachments/assets/d633a940-dbf4-4103-86ae-b6efd4860a0c2" />
+
+**Software Developer** \
+[**SEMIT – Municipal Department of Information and Technology**](https://www.saoluis.ma.gov.br/portal/secretarias/27/secretaria-municipal-de-informacao-e-tecnologia---semit/) • Internship \
+Jan 2026 • Currently \
+Languages & Technologies: `Node.js` `TypeScript` `Tailwindcss` `Python` `Docker`  
+
+
+[<img align="left" height="94px" width="94px" alt="DevOps" src="https://github.com/labs-lovelace.png" />](https://thelovelacecompany.vercel.app)
+
+**Co-Founder & CEO | Software Engineer** \
+[**Lovelace**](https://thelovelacecompany.vercel.app) • Full time \
+Jul 2025 • Currently \
+Languages & Technologies: `Node.js` `Next.js` `TypeScript` `Tailwind CSS` `Python`
+
 
 [<img align="left" height="94px" width="94px" alt="DevOps" src="https://github.com/sans-script/sans-script/assets/84801905/54f71c6f-bbe8-4b4f-a80d-63641bfba28f" />](https://devops.tec.br/)
 
 **Frontend Developer** \
 [**DevOps**](https://devops.tec.br/) • Full time \
 Feb 2024 • Currently \
-Languages & Technologies: `Angular17` `Tailwindcss` `TypeScript` `Node.js`
+Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS` 
+</details>
 
 <img width="100%" src="https://raw.githubusercontent.com/sans-script/sans-script/output/github-contribution-grid-snake-dark.svg"/> 
 
