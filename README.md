@@ -105,9 +105,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Working with Markdown, Kotlin, JavaScript • Brief coding session this week • 💡✨
+Working with Markdown, Kotlin, JavaScript • Brief work on current projects • 🎯✨
 
-<div align="center"><strong>Remember that JavaScript's '===' operator checks for both value and type equality, preventing unexpected type coercion.</strong></div>
+<div align="center"><strong>Use `const` for variables that do not change and `let` for variables that can be reassigned to improve code clarity in JavaScript.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
