@@ -101,7 +101,7 @@ Feb 2024 • Currently \
 Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS` 
 </details>
 
-<img width="100%" src="https://raw.githubusercontent.com/sans-script/sans-script/output/github-contribution-grid-snake.svg"/> 
+<img width="100%" src="https://raw.githubusercontent.com/sans-script/sans-script/output/github-contribution-grid-snake-dark.svg"/> 
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
