@@ -105,9 +105,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Working with Markdown, CSS, Kotlin • Brief sessions this week ✨💡
+Working with Markdown, CSS, Kotlin • Light coding sessions on content and styling • ✨💡
 
-<div align="center"><strong>Embrace Kotlin's null safety features by using the ? and !! operators judiciously to prevent NullPointerExceptions.</strong></div>
+<div align="center"><strong>Leverage CSS custom properties (variables) for consistent styling and easier theme management across your projects.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
