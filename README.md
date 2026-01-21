@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 19 years, 9 months and 27 days
+Up time: 19 years, 9 months and 28 days
 ```
 <!--UP_TIME_END-->
 
@@ -105,9 +105,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Working with Markdown, CSS, Kotlin • Briefly refining styles and exploring language features • 🎨✨
+Working with Markdown, CSS, Kotlin • Engaging in brief coding sessions ✨💡
 
-<div align="center"><strong>Utilize CSS custom properties for efficient theme management and consistent styling across your components.</strong></div>
+<div align="center"><strong>For cleaner Kotlin code, prefer `val` over `var` for immutable variables and utilize data classes for structured data.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
