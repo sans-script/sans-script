@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 19 years, 9 months and 29 days
+Up time: 19 years, 9 months and 30 days
 ```
 <!--UP_TIME_END-->
 
@@ -105,9 +105,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Working with Markdown, CSS, Kotlin • Brief work this week • 🎯✨
+Working with Markdown, CSS, Kotlin • Light coding sessions this week • 🎯✨
 
-<div align="center"><strong>Leverage Kotlin's data classes to quickly create POJOs with auto-generated boilerplate methods.</strong></div>
+<div align="center"><strong>Leverage Kotlin's explicit nullability to write safer and more predictable code.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
