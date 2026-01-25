@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 19 years, 10 months and 0 days
+Up time: 19 years, 10 months and 1 days
 ```
 <!--UP_TIME_END-->
 
@@ -105,9 +105,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Working with JavaScript, CSS, Kotlin • Brief work this week • 🎯✨
+Briefly working with JavaScript, CSS, Kotlin • Refining recent work 🎯✨
 
-<div align="center"><strong>Utilize CSS custom properties (variables) to manage design tokens efficiently and reduce repetition across your stylesheets.</strong></div>
+<div align="center"><strong>Remember to use val for immutable variables and var for mutable ones in Kotlin to enhance code safety.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
