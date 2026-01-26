@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 19 years, 10 months and 1 days
+Up time: 19 years, 10 months and 2 days
 ```
 <!--UP_TIME_END-->
 
@@ -105,9 +105,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Brief work with C++, JavaScript, CSS • Exploring efficient patterns • 💡✨
+Light coding in C++, JavaScript, CSS • Focusing on fundamentals • 🎯💡
 
-<div align="center"><strong>Leverage CSS custom properties (variables) to maintain consistency and simplify theme changes across your stylesheets.</strong></div>
+<div align="center"><strong>Embrace `const` correctness in C++ to improve code safety and express intent clearly.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
