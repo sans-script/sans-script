@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 19 years, 10 months and 2 days
+Up time: 19 years, 10 months and 3 days
 ```
 <!--UP_TIME_END-->
 
@@ -105,9 +105,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Brief work with C++, JavaScript, CSS this week ✨💡
+Working with C++, JavaScript, CSS • Brief work on various projects • 🎨💡
 
-<div align="center"><strong>When designing responsive layouts with CSS, favor flexbox or grid for efficient and maintainable component arrangement.</strong></div>
+<div align="center"><strong>Prefer const and let over var in JavaScript for better scope control and to prevent unintended variable reassignments.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
