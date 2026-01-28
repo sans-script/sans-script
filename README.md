@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 19 years, 10 months and 3 days
+Up time: 19 years, 10 months and 4 days
 ```
 <!--UP_TIME_END-->
 
@@ -105,9 +105,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Briefly working with JSON, C++, JavaScript • Tinkering with diverse technologies 💡🔧
+Working with JSON, C++, JavaScript • Brief coding session this week • 🎯💡
 
-<div align="center"><strong>Always validate JSON structures before parsing them in JavaScript to prevent runtime exceptions.</strong></div>
+<div align="center"><strong>Utilize `std::unique_ptr` for automatic memory management in C++ to prevent memory leaks.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
