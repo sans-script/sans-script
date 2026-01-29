@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 19 years, 10 months and 4 days
+Up time: 19 years, 10 months and 5 days
 ```
 <!--UP_TIME_END-->
 
@@ -105,9 +105,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Engaging in a quick session with JSON, C++, JavaScript • Brief work on various projects ✨💡
+Working with JSON, C++, JavaScript • Quick sessions focusing on language fundamentals • 💡🔧
 
-<div align="center"><strong>Always validate JSON data against a schema to ensure data integrity and prevent unexpected application behavior.</strong></div>
+<div align="center"><strong>Always declare variables with const or let to avoid unexpected scope issues and global pollution.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
