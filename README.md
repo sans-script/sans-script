@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 19 years, 10 months and 5 days
+Up time: 19 years, 10 months and 6 days
 ```
 <!--UP_TIME_END-->
 
@@ -105,9 +105,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Working with JSON, C++, Markdown • Brief work this week • 💡🔧
+Working with JSON, C++, Markdown • Brief work on projects • 💡🔧
 
-<div align="center"><strong>When working with JSON in C++, consider using a well-established library like nlohmann/json for reliable parsing and serialization.</strong></div>
+<div align="center"><strong>Keep your C++ code well-documented with Markdown, especially when defining structures for JSON data.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
