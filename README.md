@@ -19,6 +19,12 @@ _Building and breaking stuff since 2019._
   <a href="https://www.paypal.com/donate/?business=alexhere.user@gmail.com"><img src="https://badgen.net/badge/Donate%20via/PayPal?icon=paypal" alt="Donate via PayPal"></a> 
 </p>
 
+<!--UP_TIME_START-->
+```text
+Up time: 19 years, 10 months and 11 days
+```
+<!--UP_TIME_END-->
+
 ### 🏆 Google Developer Program  
 
 <p align="left">
@@ -29,12 +35,6 @@ _Building and breaking stuff since 2019._
 <img width="100" src="https://developers.google.com/static/profile/badges/activity/chrome-devtools/chrome-devtools-user/badge.svg" alt="Chrome DevTools User" title="Chrome DevTools User" style="vertical-align:middle"/>
 <img width="100" src="https://developers.google.com/static/profile/badges/nvidia-developer/badge.svg" alt="Google Cloud & NVIDIA Community Member" title="Google Cloud & NVIDIA Community Member" style="vertical-align:middle"/>
 </p>
-
-<!--UP_TIME_START-->
-```text
-Up time: 19 years, 10 months and 11 days
-```
-<!--UP_TIME_END-->
 
 <!--<img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sans-script&theme=github_dark"/>-->
 
@@ -75,8 +75,6 @@ Database: PostgreSQL
 Development Tools and Environments: VS Code, Ubuntu, Windows, CodePen, Figma -->
 
 <img width="100%" src="https://skillicons.dev/icons?i=html,css,sass,js,ts,python,latex,angular,react,nextjs,vite,nodejs,tailwind,npm,docker,git,github,vercel,postgres,vscode,ubuntu,windows,codepen,figma&theme=light&perline=12" alt="Skills Icons"/>
-
-### 🏆 Google Developer Program  
 
 <img width="400px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=ap0b5ngrzs5bzl771j7gx64dz&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=1eff00&bar_color_cover=false" align="right" >
 
