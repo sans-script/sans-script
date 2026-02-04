@@ -22,12 +22,12 @@ _Building and breaking stuff since 2019._
 ### 🏆 Google Developer Program  
 
 <p align="left">
-<img height="100 width="100" src="https://developers.google.com/static/profile/badges/profile/created-profile/created_profile.svg" alt="Joined the Google Developer Program" title="Joined the Google Developer Program" style="vertical-align:middle"/>
-<img height="100 width="100" src="https://developers.google.com/static/profile/badges/community/innovators/cloud/innovators_plus/badge.svg" alt="Innovators+ — Google Developer Program Premium Tier" title="Innovators+ — Google Developer Program Premium Tier" style="vertical-align:middle"/>
-<img height="100 width="100" src="https://developers.google.com/static/profile/badges/activity/android/install-android-studio/badge.svg" alt="Android Studio User" title="Android Studio User" style="vertical-align:middle"/>
-<img height="100 width="100" src="https://developers.google.com/static/profile/badges/activity/android/sdk-platform-tools/badge.svg" alt="Android SDK Platform Tools" title="Android SDK Platform Tools" style="vertical-align:middle"/>
-<img height="100 width="100" src="https://developers.google.com/static/profile/badges/activity/chrome-devtools/chrome-devtools-user/badge.svg" alt="Chrome DevTools User" title="Chrome DevTools User" style="vertical-align:middle"/>
-<img height="100 width="100" src="https://developers.google.com/static/profile/badges/nvidia-developer/badge.svg" alt="Google Cloud & NVIDIA Community Member" title="Google Cloud & NVIDIA Community Member" style="vertical-align:middle"/>
+<img width="100" src="https://developers.google.com/static/profile/badges/profile/created-profile/created_profile.svg" alt="Joined the Google Developer Program" title="Joined the Google Developer Program" style="vertical-align:middle"/>
+<img width="100" src="https://developers.google.com/static/profile/badges/community/innovators/cloud/innovators_plus/badge.svg" alt="Innovators+ — Google Developer Program Premium Tier" title="Innovators+ — Google Developer Program Premium Tier" style="vertical-align:middle"/>
+<img width="100" src="https://developers.google.com/static/profile/badges/activity/android/install-android-studio/badge.svg" alt="Android Studio User" title="Android Studio User" style="vertical-align:middle"/>
+<img width="100" src="https://developers.google.com/static/profile/badges/activity/android/sdk-platform-tools/badge.svg" alt="Android SDK Platform Tools" title="Android SDK Platform Tools" style="vertical-align:middle"/>
+<img width="100" src="https://developers.google.com/static/profile/badges/activity/chrome-devtools/chrome-devtools-user/badge.svg" alt="Chrome DevTools User" title="Chrome DevTools User" style="vertical-align:middle"/>
+<img width="100" src="https://developers.google.com/static/profile/badges/nvidia-developer/badge.svg" alt="Google Cloud & NVIDIA Community Member" title="Google Cloud & NVIDIA Community Member" style="vertical-align:middle"/>
 </p>
 
 <!--UP_TIME_START-->
