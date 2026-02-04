@@ -65,14 +65,27 @@ Development Tools and Environments: VS Code, Ubuntu, Windows, CodePen, Figma -->
 
 <img width="100%" src="https://skillicons.dev/icons?i=html,css,sass,js,ts,python,latex,angular,react,nextjs,vite,nodejs,tailwind,npm,docker,git,github,vercel,postgres,vscode,ubuntu,windows,codepen,figma&theme=light&perline=12" alt="Skills Icons"/>
 
-<br>
+### 🏆 Google Developer Program  
+
+<p align="left">
+<img height="48" width="48" src="https://developers.google.com/static/profile/badges/community/innovators/cloud/innovators_plus/badge.svg" alt="Innovators+ — Google Developer Program Premium Tier" title="Innovators+ — Google Developer Program Premium Tier" style="vertical-align:middle"/>
+<img height="48" width="44" src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" alt="Google Cloud Innovator" title="Google Cloud Innovator" style="vertical-align:middle"/>
+<img height="48" width="44" src="https://developers.google.com/static/profile/badges/community/innovators/cloud/ai_skills_quest_intermediate/badge.svg" alt="AI Skills Quest — Intermediate" title="AI Skills Quest — Intermediate" style="vertical-align:middle"/>
+<img height="48" width="48" src="https://developers.google.com/static/profile/badges/profile/created-profile/created_profile.svg" alt="Joined the Google Developer Program" title="Joined the Google Developer Program" style="vertical-align:middle"/>
+<img height="48" width="48" src="https://developers.google.com/static/profile/badges/activity/android/install-android-studio/badge.svg" alt="Android Studio User" title="Android Studio User" style="vertical-align:middle"/>
+<img height="48" width="48" src="https://developers.google.com/static/profile/badges/activity/android/sdk-platform-tools/badge.svg" alt="Android SDK Platform Tools" title="Android SDK Platform Tools" style="vertical-align:middle"/>
+<img height="48" width="48" src="https://developers.google.com/static/profile/badges/activity/chrome-devtools/chrome-devtools-user/badge.svg" alt="Chrome DevTools User" title="Chrome DevTools User" style="vertical-align:middle"/>
+<img height="48" width="48" src="https://developers.google.com/static/profile/badges/community/forums/user/cloud/badge.svg" alt="Google Cloud Forums User" title="Google Cloud Forums User" style="vertical-align:middle"/>
+<img height="48" width="48" src="https://developers.google.com/static/profile/badges/nvidia-developer/badge.svg" alt="Google Cloud & NVIDIA Community Member" title="Google Cloud & NVIDIA Community Member" style="vertical-align:middle"/>
+</p>
+
+
 
 <img width="400px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=ap0b5ngrzs5bzl771j7gx64dz&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=1eff00&bar_color_cover=false" align="right" >
 
 <p align="left">If there's any music playing on my Spotify, it will show up here. This means I'm working on something really cool, or just taking a shower.</p>
 
-
-<details>
+<!-- <details>
 <summary><strong>Work Experience</strong></summary>
 
 <br>
@@ -99,7 +112,7 @@ Languages & Technologies: `Node.js` `Next.js` `TypeScript` `Tailwind CSS` `Pytho
 [**DevOps**](https://devops.tec.br/) • Full time \
 Feb 2024 • Currently \
 Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS` 
-</details>
+</details> -->
 
 <img width="100%" src="https://raw.githubusercontent.com/sans-script/sans-script/output/github-contribution-grid-snake-dark.svg"/> 
 
