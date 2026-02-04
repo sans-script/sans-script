@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 19 years, 10 months and 10 days
+Up time: 19 years, 10 months and 11 days
 ```
 <!--UP_TIME_END-->
 
@@ -105,9 +105,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Actively developing with TypeScript, Markdown, and CSS • Exploring component-driven design • 🎯✨
+Engaging with TypeScript, Markdown, CSS • Refining component styling and documentation • ✨🎨
 
-<div align="center"><strong>Utilize CSS custom properties to manage design tokens effectively and simplify theme changes.</strong></div>
+<div align="center"><strong>Utilize CSS custom properties (variables) to manage design tokens efficiently and simplify theme switching.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
