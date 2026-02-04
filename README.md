@@ -10,20 +10,6 @@ I'm a Frontend Developer currently pursuing a Bachelor's degree in Science and T
 
 _Building and breaking stuff since 2019._
 
-### 🏆 Google Developer Program  
-
-<p align="left">
-<img height="48" width="48" src="https://developers.google.com/static/profile/badges/community/innovators/cloud/innovators_plus/badge.svg" alt="Innovators+ — Google Developer Program Premium Tier" title="Innovators+ — Google Developer Program Premium Tier" style="vertical-align:middle"/>
-<img height="48" width="44" src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" alt="Google Cloud Innovator" title="Google Cloud Innovator" style="vertical-align:middle"/>
-<img height="48" width="44" src="https://developers.google.com/static/profile/badges/community/innovators/cloud/ai_skills_quest_intermediate/badge.svg" alt="AI Skills Quest — Intermediate" title="AI Skills Quest — Intermediate" style="vertical-align:middle"/>
-<img height="48" width="48" src="https://developers.google.com/static/profile/badges/profile/created-profile/created_profile.svg" alt="Joined the Google Developer Program" title="Joined the Google Developer Program" style="vertical-align:middle"/>
-<img height="48" width="48" src="https://developers.google.com/static/profile/badges/activity/android/install-android-studio/badge.svg" alt="Android Studio User" title="Android Studio User" style="vertical-align:middle"/>
-<img height="48" width="48" src="https://developers.google.com/static/profile/badges/activity/android/sdk-platform-tools/badge.svg" alt="Android SDK Platform Tools" title="Android SDK Platform Tools" style="vertical-align:middle"/>
-<img height="48" width="48" src="https://developers.google.com/static/profile/badges/activity/chrome-devtools/chrome-devtools-user/badge.svg" alt="Chrome DevTools User" title="Chrome DevTools User" style="vertical-align:middle"/>
-<img height="48" width="48" src="https://developers.google.com/static/profile/badges/community/forums/user/cloud/badge.svg" alt="Google Cloud Forums User" title="Google Cloud Forums User" style="vertical-align:middle"/>
-<img height="48" width="48" src="https://developers.google.com/static/profile/badges/nvidia-developer/badge.svg" alt="Google Cloud & NVIDIA Community Member" title="Google Cloud & NVIDIA Community Member" style="vertical-align:middle"/>
-</p>
-
 <p>
 <!--START_SECTION:badges-->
 <img src="http://img.shields.io/badge/Code%20Time-738%20hrs%2045%20mins-blue?style=flat" alt="http://img.shields.io/badge/Code%20Time-738%20hrs%2045%20mins-blue?style=flat" />
@@ -31,6 +17,17 @@ _Building and breaking stuff since 2019._
 <!--END_SECTION:badges-->
  <a href="https://github.com/sponsors/sans-script"><img src="https://badgen.net/badge/GitHub/Sponsor?icon=github" alt="Sponsor"></a>
   <a href="https://www.paypal.com/donate/?business=alexhere.user@gmail.com"><img src="https://badgen.net/badge/Donate%20via/PayPal?icon=paypal" alt="Donate via PayPal"></a> 
+</p>
+
+### 🏆 Google Developer Program  
+
+<p align="left">
+<img height="100 width="100" src="https://developers.google.com/static/profile/badges/profile/created-profile/created_profile.svg" alt="Joined the Google Developer Program" title="Joined the Google Developer Program" style="vertical-align:middle"/>
+<img height="100 width="100" src="https://developers.google.com/static/profile/badges/community/innovators/cloud/innovators_plus/badge.svg" alt="Innovators+ — Google Developer Program Premium Tier" title="Innovators+ — Google Developer Program Premium Tier" style="vertical-align:middle"/>
+<img height="100 width="100" src="https://developers.google.com/static/profile/badges/activity/android/install-android-studio/badge.svg" alt="Android Studio User" title="Android Studio User" style="vertical-align:middle"/>
+<img height="100 width="100" src="https://developers.google.com/static/profile/badges/activity/android/sdk-platform-tools/badge.svg" alt="Android SDK Platform Tools" title="Android SDK Platform Tools" style="vertical-align:middle"/>
+<img height="100 width="100" src="https://developers.google.com/static/profile/badges/activity/chrome-devtools/chrome-devtools-user/badge.svg" alt="Chrome DevTools User" title="Chrome DevTools User" style="vertical-align:middle"/>
+<img height="100 width="100" src="https://developers.google.com/static/profile/badges/nvidia-developer/badge.svg" alt="Google Cloud & NVIDIA Community Member" title="Google Cloud & NVIDIA Community Member" style="vertical-align:middle"/>
 </p>
 
 <!--UP_TIME_START-->
