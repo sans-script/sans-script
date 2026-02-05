@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 19 years, 10 months and 11 days
+Up time: 19 years, 10 months and 12 days
 ```
 <!--UP_TIME_END-->
 
@@ -113,9 +113,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Deep diving into TypeScript, Other, CSS • Exploring Component architecture • ✨💡
+Actively working with TypeScript, Other, CSS • Exploring new UI patterns • 🎨💡
 
-<div align="center"><strong>Use TypeScript to define clear interfaces for your component props, ensuring your CSS classes are consistently applied and manageable.</strong></div>
+<div align="center"><strong>Utilize CSS custom properties (variables) for consistent theming and easier maintenance across your stylesheets.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
