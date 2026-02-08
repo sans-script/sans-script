@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 19 years, 10 months and 14 days
+Up time: 19 years, 10 months and 15 days
 ```
 <!--UP_TIME_END-->
 
@@ -113,9 +113,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Actively developing with TypeScript, JSON, Markdown • Optimizing data and documentation workflows • 🎯✨
+Actively developing with TypeScript, JSON, and Markdown • Refining TypeScript type definitions • 🚀✨
 
-<div align="center"><strong>Organize your project documentation with Markdown, leveraging code blocks to showcase TypeScript and JSON examples.</strong></div>
+<div align="center"><strong>Utilize TypeScript's `as const` assertion on literal types to infer the narrowest possible type, enhancing type safety in configurations.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
