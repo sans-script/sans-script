@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 19 years, 10 months and 15 days
+Up time: 19 years, 10 months and 16 days
 ```
 <!--UP_TIME_END-->
 
@@ -113,9 +113,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Actively coding with TypeScript, Markdown, JSON • Refining structured data practices • 🎯✨
+Deep diving into TypeScript, Markdown, JSON • Exploring Clean code principles • 🚀✨
 
-<div align="center"><strong>Always validate your JSON schemas to ensure data integrity and predictable parsing behavior in your applications.</strong></div>
+<div align="center"><strong>Enable `noImplicitAny` in your TypeScript configuration to catch untyped variables early and prevent common errors.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
