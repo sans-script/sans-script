@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 19 years, 10 months and 16 days
+Up time: 19 years, 10 months and 17 days
 ```
 <!--UP_TIME_END-->
 
@@ -112,10 +112,10 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 <img width="100%" src="https://raw.githubusercontent.com/sans-script/sans-script/output/github-contribution-grid-snake-dark.svg"/> 
 
 <!--MODEL_RESPONSE_START-->
-### 🎯 Current Focus
-Deep diving into TypeScript, Markdown, JSON • Exploring Clean code principles • 🚀✨
+### 🚀 Current Focus
+Deep diving into TypeScript, Markdown, JSON • Refining data structures and documentation • 🔥💡
 
-<div align="center"><strong>Enable `noImplicitAny` in your TypeScript configuration to catch untyped variables early and prevent common errors.</strong></div>
+<div align="center"><strong>Harness TypeScript's strict mode to catch common errors at compile time, improving code reliability.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
