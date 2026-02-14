@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 19 years, 10 months and 20 days
+Up time: 19 years, 10 months and 21 days
 ```
 <!--UP_TIME_END-->
 
@@ -113,9 +113,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Deep diving into TypeScript, Markdown, JSON • Exploring Responsive design patterns • 🎯✨
+Deep diving into TypeScript, Markdown, JSON • Exploring Accessibility best practices • 🎯💡
 
-<div align="center"><strong>Leverage TypeScript interfaces to enforce data structure consistency when working with JSON payloads.</strong></div>
+<div align="center"><strong>Leverage TypeScript's utility types like Partial<T> or Omit<T, K> for more flexible and reusable type definitions.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
