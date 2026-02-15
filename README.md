@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 19 years, 10 months and 21 days
+Up time: 19 years, 10 months and 22 days
 ```
 <!--UP_TIME_END-->
 
@@ -114,9 +114,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Deep diving into TypeScript, Markdown, JSON • Exploring Clean code principles • 🎯✨
+Deep diving into TypeScript, Markdown, JSON • Exploring Clean code principles • 🚀✨
 
-<div align="center"><strong>Leverage TypeScript's strict null checks to catch potential runtime errors before deployment.</strong></div>
+<div align="center"><strong>Leverage TypeScript interfaces to define clear contracts for objects, improving code predictability and maintainability.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
