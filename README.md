@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 19 years, 10 months and 24 days
+Up time: 19 years, 10 months and 25 days
 ```
 <!--UP_TIME_END-->
 
@@ -114,9 +114,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Developing with TypeScript, Bash, JSON • Streamlining automation • ⚡️💡
+Focused on TypeScript, Bash, JSON • Building scripting solutions • 🚀🔧
 
-<div align="center"><strong>Always quote your variables in Bash scripts to prevent unexpected word splitting and globbing.</strong></div>
+<div align="center"><strong>When processing JSON in Bash, utilize `jq` for reliable parsing and manipulation instead of brittle regex.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
