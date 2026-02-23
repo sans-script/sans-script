@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 19 years, 10 months and 29 days
+Up time: 19 years, 10 months and 30 days
 ```
 <!--UP_TIME_END-->
 
@@ -114,9 +114,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Brief work with TypeScript, C++, Other • Refining language proficiency • 💡✨
+Brief work with TypeScript, C++, Other • Refining workflows • 🔥💡
 
-<div align="center"><strong>Use const extensively in C++ for clarity and performance, and TypeScript's readonly properties for immutable data structures.</strong></div>
+<div align="center"><strong>In C++, embrace `const` correctness to improve code safety and readability by indicating immutable data.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
