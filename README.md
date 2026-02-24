@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 19 years, 10 months and 30 days
+Up time: 19 years, 11 months and 0 days
 ```
 <!--UP_TIME_END-->
 
@@ -114,9 +114,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Working with TypeScript, C++, JSON • Brief explorations this week • 💡✨
+Briefly working with TypeScript, C++, JSON • Quick session exploring TypeScript concepts. 💡✨
 
-<div align="center"><strong>Ensure all keys in JSON are double-quoted strings for valid parsing across different systems.</strong></div>
+<div align="center"><strong>Prefer `unknown` over `any` in TypeScript for type-safe handling of values with uncertain types.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
