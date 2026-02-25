@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 19 years, 11 months and 0 days
+Up time: 19 years, 11 months and 1 days
 ```
 <!--UP_TIME_END-->
 
@@ -114,9 +114,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Brief work with TypeScript, C++, HTML • Exploring new patterns • 🎯💡
+Briefly working with TypeScript, C++, HTML • Exploring code efficiency 💡✨
 
-<div align="center"><strong>Use TypeScript interfaces to define clear contracts for data structures and improve code predictability.</strong></div>
+<div align="center"><strong>Leverage TypeScript's type system to catch errors at compile-time, improving code robustness.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
