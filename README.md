@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 19 years, 11 months and 1 days
+Up time: 19 years, 11 months and 2 days
 ```
 <!--UP_TIME_END-->
 
@@ -112,9 +112,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Working with TypeScript, HTML, JSON • Brief work exploring data structures 🧪✨
+Working with TypeScript, HTML, JSON • Quick session on component architecture ✨💡
 
-<div align="center"><strong>Leverage TypeScript interfaces to accurately type your JSON data when fetching from an API.</strong></div>
+<div align="center"><strong>Leverage TypeScript interfaces to define the structure of your JSON data, ensuring type safety throughout your application.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
