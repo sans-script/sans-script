@@ -12,11 +12,8 @@ _Building and breaking stuff since 2019._
 
 <p>
 <!--START_SECTION:badges-->
-![Code Time](http://img.shields.io/badge/Code%20Time-768%20hrs%2044%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.08%20million%20lines%20of%20code-blue?style=flat)
-
-
+<img src="http://img.shields.io/badge/Code%20Time-768%20hrs%2044%20mins-blue?style=flat" alt="http://img.shields.io/badge/Code%20Time-768%20hrs%2044%20mins-blue?style=flat" />
+<img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.08%20million%20lines%20of%20code-blue?style=flat" alt="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.08%20million%20lines%20of%20code-blue?style=flat" />
 <!--END_SECTION:badges-->
  <a href="https://github.com/sponsors/sans-script"><img src="https://badgen.net/badge/GitHub/Sponsor?icon=github" alt="Sponsor"></a>
   <a href="https://www.paypal.com/donate/?business=alexhere.user@gmail.com"><img src="https://badgen.net/badge/Donate%20via/PayPal?icon=paypal" alt="Donate via PayPal"></a> 
@@ -115,9 +112,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Working with TypeScript, HTML, JSON • Quick session on component architecture ✨💡
+Working with TypeScript, HTML, JSON on a quick session • Enhancing type safety • 💡🔧
 
-<div align="center"><strong>Leverage TypeScript interfaces to define the structure of your JSON data, ensuring type safety throughout your application.</strong></div>
+<div align="center"><strong>Always define clear interfaces in TypeScript for your JSON data structures to ensure robust type checking and fewer runtime errors.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
