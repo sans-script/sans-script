@@ -46,19 +46,19 @@ Up time: 19 years, 11 months and 12 days
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 2 mins        ███████████░░░░░░░░░░░░░░   42.20 % 
-HTTP                     3 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   30.42 % 
-Markdown                 50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+TypeScript               6 hrs 27 mins       █████████████░░░░░░░░░░░░   50.48 % 
+HTTP                     3 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   28.41 % 
+Markdown                 50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+Dart                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 21 mins      ██████████████████████░░░   86.78 % 
-Antigravity              1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+VS Code                  10 hrs 32 mins      █████████████████████░░░░   82.45 % 
+Antigravity              2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
 
 💻 Operating System: 
-Windows                  10 hrs 21 mins      ██████████████████████░░░   86.78 % 
-WSL                      1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+Windows                  10 hrs 24 mins      ████████████████████░░░░░   81.45 % 
+WSL                      2 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
 ```
 
 
