@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 19 years, 11 months and 12 days
+Up time: 19 years, 11 months and 13 days
 ```
 <!--UP_TIME_END-->
 
@@ -114,9 +114,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Deep diving into TypeScript, HTTP, Markdown • Refining API communication • 🚀💡
+Deep diving into TypeScript, HTTP, Markdown • Focusing on type-safe API interactions and clear documentation • 💡✨
 
-<div align="center"><strong>When consuming HTTP APIs in TypeScript, define an interface for your expected response data to ensure compile-time type safety.</strong></div>
+<div align="center"><strong>Leverage TypeScript interfaces to define clear HTTP request and response structures, ensuring robust and type-safe API interactions.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
