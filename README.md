@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 19 years, 11 months and 15 days
+Up time: 19 years, 11 months and 16 days
 ```
 <!--UP_TIME_END-->
 
@@ -114,9 +114,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Deep diving into TypeScript, HTTP, Markdown • Exploring Clean code principles • 🎯💡
+Deep diving into TypeScript, HTTP, Markdown • Enhancing API interactions • ✨💡
 
-<div align="center"><strong>Understand HTTP status codes to effectively debug API responses and client-side issues.</strong></div>
+<div align="center"><strong>Leverage TypeScript interfaces to define clear contract shapes for your HTTP API responses, enhancing type safety and developer experience.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
