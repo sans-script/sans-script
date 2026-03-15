@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 19 years, 11 months and 18 days
+Up time: 19 years, 11 months and 19 days
 ```
 <!--UP_TIME_END-->
 
@@ -114,9 +114,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Working with TypeScript, Dart, Other • Refining project architecture • 🎯✨
+Working with TypeScript, Dart, Other • Refining type safety practices • ✨💡
 
-<div align="center"><strong>Embrace Dart's sound null safety to prevent runtime null reference exceptions, making your applications more reliable.</strong></div>
+<div align="center"><strong>Harness TypeScript's strict null checks to catch potential undefined or null reference errors during compilation, preventing runtime crashes.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
