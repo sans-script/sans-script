@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 19 years, 11 months and 19 days
+Up time: 19 years, 11 months and 20 days
 ```
 <!--UP_TIME_END-->
 
@@ -113,9 +113,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Quick coding session with Dart, Other, C++ • Exploring Component architecture • 🎯✨
+Quick coding session with Dart, Other, C++ • Refining core logic • 🎯🔧
 
-<div align="center"><strong>In Dart, leverage `const` constructors for immutable widgets to optimize rebuilds and improve UI performance.</strong></div>
+<div align="center"><strong>In C++, prefer `std::unique_ptr` and `std::shared_ptr` over raw pointers to manage memory safely and automatically.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
