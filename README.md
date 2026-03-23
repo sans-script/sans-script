@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 19 years, 11 months and 26 days
+Up time: 19 years, 11 months and 27 days
 ```
 <!--UP_TIME_END-->
 
@@ -114,9 +114,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Deep diving into TypeScript, HTTP, JSON • Exploring Web performance • 🎯✨
+Deep diving into TypeScript, HTTP, JSON • Exploring Component architecture • 🚀✨
 
-<div align="center"><strong>When consuming HTTP APIs, define a TypeScript interface for your expected JSON response to ensure type safety and improve code reliability.</strong></div>
+<div align="center"><strong>Leverage TypeScript interfaces to define the shape of your API responses, ensuring type safety when consuming JSON data.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
