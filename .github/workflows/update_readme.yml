@@ -8,35 +8,50 @@ on:
     branches:
       - main
 
+concurrency:
+  group: update-readme-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    
+
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
-      
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0     
+          persist-credentials: true
+
       - name: Set up Python and Install Dependencies
         run: |
           python -m pip install --upgrade pip
           pip install python-dotenv google-generativeai python-dateutil
-          
-      - name: Git pull
-        run: |
-          git pull
-      
+
       - name: Run Python script and update README.md
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python update_readme.py
-      - name: Commit
-        run: |-
+
+      - name: Commit and push changes (safe rebase)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.email "alexhere.user@gmail.com"
+          git config user.name "Alexandre Santos"
+          # Only commit if there are changes
           git add .
-          git diff
-          git config --global user.email "alexhere.user@gmail.com"
-          git config --global user.name "Alexandre Santos"
-          git commit -m "Update README.md" -a || echo "No changes to commit"
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "Update README.md"
+          # Ensure we integrate remote changes first to avoid non-fast-forward
+          git fetch origin main
+          # Rebase local commit(s) on top of latest main
+          git rebase origin/main
+          # Push. If you prefer to force only when you know it's safe, use --force-with-lease.
+          git push origin HEAD:main
