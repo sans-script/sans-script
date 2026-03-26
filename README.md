@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 0 months and 1 days
+Up time: 20 years, 0 months and 2 days
 ```
 <!--UP_TIME_END-->
 
@@ -113,9 +113,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Deep diving into TypeScript, HTTP, JSON • Exploring TypeScript advanced patterns • 🔥💡
+Deep diving into TypeScript, HTTP, JSON • Exploring Testing strategies • 💡✨
 
-<div align="center"><strong>Use `unknown` instead of `any` in TypeScript functions to enforce type checking and improve code safety.</strong></div>
+<div align="center"><strong>Use TypeScript interfaces to model expected JSON structures for HTTP responses, ensuring type safety and reducing runtime errors.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
