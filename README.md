@@ -46,18 +46,18 @@ Up time: 20 years, 0 months and 3 days
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 42 mins        ███████████░░░░░░░░░░░░░░   44.27 % 
-HTTP                     53 mins             ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
-JSON                     34 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Bash                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Java Properties          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+HTTP                     41 mins             ███████████████░░░░░░░░░░   59.78 % 
+Bash                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+Java Properties          5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+SSH Config               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 
 🔥 Editors: 
-Antigravity              3 hrs 49 mins       █████████████████████████   98.81 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Antigravity              1 hr 7 mins         ████████████████████████░   95.86 % 
+VS Code                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 
 💻 Operating System: 
-Windows                  3 hrs 52 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 9 mins         █████████████████████████   100.00 % 
 ```
 
 
