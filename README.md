@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 0 months and 3 days
+Up time: 20 years, 0 months and 4 days
 ```
 <!--UP_TIME_END-->
 
@@ -113,9 +113,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Quick coding session with HTTP, Bash, Java Properties • Light scripting tasks • 🎯✨
+Quick coding session with HTTP, Bash, Java Properties • Exploring Clean code principles • 🎯💡
 
-<div align="center"><strong>Always quote variables in Bash scripts to prevent unexpected word splitting and globbing.</strong></div>
+<div align="center"><strong>Remember that HTTP status codes communicate the outcome of a server request, with 2xx for success and 4xx/5xx for errors.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
