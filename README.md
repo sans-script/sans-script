@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 0 months and 5 days
+Up time: 20 years, 0 months and 6 days
 ```
 <!--UP_TIME_END-->
 
@@ -113,9 +113,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Quick coding session with HTTP, TypeScript, Bash • ⚡️ Brief development tasks.
+Quick coding session with HTTP, TypeScript, Bash • Exploring Clean code principles • 💡✨
 
-<div align="center"><strong>Leverage Bash scripts to automate TypeScript compilation and development workflows for consistent builds.</strong></div>
+<div align="center"><strong>For robust Bash scripts, always use `set -euo pipefail` to ensure early exit on errors and undefined variables.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
