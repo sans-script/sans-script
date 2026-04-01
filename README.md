@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 0 months and 7 days
+Up time: 20 years, 0 months and 8 days
 ```
 <!--UP_TIME_END-->
 
@@ -113,9 +113,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Quick coding session with TypeScript, HTTP, Bash • Exploring Clean code principles • 💡🎯
+Light coding session with TypeScript, HTTP, Bash • Quick scripting & API interactions • 💡✨
 
-<div align="center"><strong>Leverage TypeScript's type guards to narrow down union types and ensure type safety in conditional blocks.</strong></div>
+<div align="center"><strong>Leverage TypeScript's strong typing for HTTP request and response interfaces to ensure data consistency and prevent runtime errors.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
