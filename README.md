@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 0 months and 10 days
+Up time: 20 years, 0 months and 11 days
 ```
 <!--UP_TIME_END-->
 
@@ -113,9 +113,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Actively developing with Markdown, TypeScript, HTTP • Enhancing development workflows • 💡✨
+Actively working with Markdown, TypeScript, HTTP • Refining type safety & API interactions • 🚀💡
 
-<div align="center"><strong>Leverage TypeScript's utility types like Partial<T> or Omit<T, K> to efficiently transform existing types.</strong></div>
+<div align="center"><strong>Leverage TypeScript's optional chaining and nullish coalescing operators to safely handle potentially undefined or null values in complex data structures.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
