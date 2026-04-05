@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 0 months and 11 days
+Up time: 20 years, 0 months and 12 days
 ```
 <!--UP_TIME_END-->
 
@@ -113,9 +113,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Engaging with Markdown, TypeScript, YAML • Exploring Accessibility best practices • 🎯✨
+Focused on Markdown, TypeScript, YAML across recent coding sessions. ✨💡
 
-<div align="center"><strong>Leverage TypeScript's `strict` mode in `tsconfig.json` to enforce best practices and catch potential errors during development.</strong></div>
+<div align="center"><strong>Utilize TypeScript's strict null checks to prevent common runtime errors and improve code robustness.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
