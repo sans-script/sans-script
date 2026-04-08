@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 0 months and 14 days
+Up time: 20 years, 0 months and 15 days
 ```
 <!--UP_TIME_END-->
 
@@ -114,9 +114,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Working with Markdown, TypeScript, JavaScript • Refining logic and presentation • 🔥💡
+Deep diving into Markdown, TypeScript, JavaScript • Exploring State management • 🎯✨
 
-<div align="center"><strong>Leverage TypeScript interfaces to define consistent object shapes and improve code predictability.</strong></div>
+<div align="center"><strong>Leverage TypeScript's type inference and interfaces to build more robust and maintainable frontend applications.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
