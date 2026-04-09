@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 0 months and 15 days
+Up time: 20 years, 0 months and 16 days
 ```
 <!--UP_TIME_END-->
 
@@ -114,9 +114,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Deep diving into Markdown, TypeScript, JavaScript • Exploring modern frontend practices • 💡✨
+Actively developing with Markdown, TypeScript, JavaScript • Exploring type-safe patterns and documentation strategies • 💡✨
 
-<div align="center"><strong>Leverage TypeScript's type inference to write robust code with less explicit type annotations.</strong></div>
+<div align="center"><strong>Employ TypeScript's optional chaining (`?.`) and nullish coalescing (`??`) operators to safely handle potentially undefined or null values.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
