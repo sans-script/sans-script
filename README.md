@@ -12,11 +12,8 @@ _Building and breaking stuff since 2019._
 
 <p>
 <!--START_SECTION:badges-->
-![Code Time](http://img.shields.io/badge/Code%20Time-813%20hrs%2014%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.43%20million%20lines%20of%20code-blue?style=flat)
-
-
+<img src="http://img.shields.io/badge/Code%20Time-813%20hrs%2014%20mins-blue?style=flat" alt="http://img.shields.io/badge/Code%20Time-813%20hrs%2014%20mins-blue?style=flat" />
+<img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.43%20million%20lines%20of%20code-blue?style=flat" alt="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.43%20million%20lines%20of%20code-blue?style=flat" />
 <!--END_SECTION:badges-->
  <a href="https://github.com/sponsors/sans-script"><img src="https://badgen.net/badge/GitHub/Sponsor?icon=github" alt="Sponsor"></a>
   <a href="https://www.paypal.com/donate/?business=alexhere.user@gmail.com"><img src="https://badgen.net/badge/Donate%20via/PayPal?icon=paypal" alt="Donate via PayPal"></a> 
@@ -24,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 0 months and 16 days
+Up time: 20 years, 0 months and 17 days
 ```
 <!--UP_TIME_END-->
 
@@ -117,9 +114,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Deep diving into TypeScript, Markdown, JavaScript • Refining type definitions • ✨🧪
+Deep diving into TypeScript, Markdown, JavaScript • Actively coding this week • 🔥💡
 
-<div align="center"><strong>Leverage TypeScript's utility types to create robust and reusable type definitions for complex data structures.</strong></div>
+<div align="center"><strong>Utilize Markdown to create clear, readable documentation for your TypeScript and JavaScript projects.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
