@@ -12,11 +12,8 @@ _Building and breaking stuff since 2019._
 
 <p>
 <!--START_SECTION:badges-->
-![Code Time](http://img.shields.io/badge/Code%20Time-814%20hrs%2029%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.45%20million%20lines%20of%20code-blue?style=flat)
-
-
+<img src="http://img.shields.io/badge/Code%20Time-814%20hrs%2029%20mins-blue?style=flat" alt="http://img.shields.io/badge/Code%20Time-814%20hrs%2029%20mins-blue?style=flat" />
+<img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.45%20million%20lines%20of%20code-blue?style=flat" alt="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.45%20million%20lines%20of%20code-blue?style=flat" />
 <!--END_SECTION:badges-->
  <a href="https://github.com/sponsors/sans-script"><img src="https://badgen.net/badge/GitHub/Sponsor?icon=github" alt="Sponsor"></a>
   <a href="https://www.paypal.com/donate/?business=alexhere.user@gmail.com"><img src="https://badgen.net/badge/Donate%20via/PayPal?icon=paypal" alt="Donate via PayPal"></a> 
@@ -117,9 +114,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Deep diving into TypeScript, Markdown, JavaScript • Exploring Clean code principles • 🔥💡
+Actively refining projects with TypeScript, Markdown, JavaScript • Exploring advanced TypeScript patterns ✨💡
 
-<div align="center"><strong>Leverage TypeScript's type system to improve code readability and prevent common JavaScript errors during development.</strong></div>
+<div align="center"><strong>Leverage TypeScript's utility types like Partial<T> or Readonly<T> to create flexible and type-safe data structures.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
