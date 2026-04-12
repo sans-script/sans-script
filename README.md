@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 0 months and 18 days
+Up time: 20 years, 0 months and 19 days
 ```
 <!--UP_TIME_END-->
 
@@ -114,9 +114,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Actively refining projects with TypeScript, Markdown, JavaScript • Exploring advanced TypeScript patterns ✨💡
+Deep diving into TypeScript, Markdown, JavaScript • Exploring Accessibility best practices • 🚀✨
 
-<div align="center"><strong>Leverage TypeScript's utility types like Partial<T> or Readonly<T> to create flexible and type-safe data structures.</strong></div>
+<div align="center"><strong>Leverage TypeScript's type inference to write safer JavaScript with less boilerplate.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
