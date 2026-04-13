@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 0 months and 19 days
+Up time: 20 years, 0 months and 20 days
 ```
 <!--UP_TIME_END-->
 
@@ -114,9 +114,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Deep diving into TypeScript, Markdown, JavaScript • Optimizing documentation and component logic ✨🚀
+Deep diving into TypeScript, Markdown, JavaScript • Refining development workflows ✨
 
-<div align="center"><strong>Adopt TypeScript to enforce type safety and build more robust, scalable JavaScript applications.</strong></div>
+<div align="center"><strong>Employ TypeScript interfaces to define consistent data structures, improving code readability and collaboration in JavaScript projects.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
