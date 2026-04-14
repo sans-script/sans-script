@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 0 months and 20 days
+Up time: 20 years, 0 months and 21 days
 ```
 <!--UP_TIME_END-->
 
@@ -114,9 +114,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Deep diving into TypeScript, Markdown, JSON • Exploring structured data workflows • 🎯✨
+Deep diving into TypeScript, Markdown, JSON • Exploring Accessibility best practices • 🎯✨
 
-<div align="center"><strong>Utilize TypeScript's `as const` assertion to create literal types from mutable data, enhancing type safety in your configurations.</strong></div>
+<div align="center"><strong>Leverage TypeScript's type inference to write cleaner, safer code with less explicit type annotation.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
