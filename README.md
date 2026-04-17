@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 0 months and 23 days
+Up time: 20 years, 0 months and 24 days
 ```
 <!--UP_TIME_END-->
 
@@ -113,9 +113,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Deep diving into TypeScript, JavaScript, YAML • Exploring Component architecture • 🎯💡
+Deep diving into TypeScript, JavaScript, YAML • Exploring Component architecture • 💡✨
 
-<div align="center"><strong>Leverage TypeScript's discriminated unions to model state with distinct types, enhancing type safety and exhaustiveness checks.</strong></div>
+<div align="center"><strong>Utilize destructuring assignments in JavaScript and TypeScript to extract values from objects and arrays with concise syntax.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
