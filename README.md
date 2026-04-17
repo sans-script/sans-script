@@ -12,11 +12,8 @@ _Building and breaking stuff since 2019._
 
 <p>
 <!--START_SECTION:badges-->
-![Code Time](http://img.shields.io/badge/Code%20Time-824%20hrs%2017%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.46%20million%20lines%20of%20code-blue?style=flat)
-
-
+<img src="http://img.shields.io/badge/Code%20Time-824%20hrs%2017%20mins-blue?style=flat" alt="http://img.shields.io/badge/Code%20Time-824%20hrs%2017%20mins-blue?style=flat" />
+<img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.46%20million%20lines%20of%20code-blue?style=flat" alt="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.46%20million%20lines%20of%20code-blue?style=flat" />
 <!--END_SECTION:badges-->
  <a href="https://github.com/sponsors/sans-script"><img src="https://badgen.net/badge/GitHub/Sponsor?icon=github" alt="Sponsor"></a>
   <a href="https://www.paypal.com/donate/?business=alexhere.user@gmail.com"><img src="https://badgen.net/badge/Donate%20via/PayPal?icon=paypal" alt="Donate via PayPal"></a> 
@@ -116,9 +113,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Deep diving into TypeScript, JavaScript, YAML • Exploring Component architecture • 💡✨
+Actively engaged with TypeScript, Python, JavaScript • Refining development workflows • ✨🚀
 
-<div align="center"><strong>Utilize destructuring assignments in JavaScript and TypeScript to extract values from objects and arrays with concise syntax.</strong></div>
+<div align="center"><strong>Embrace asynchronous programming with async/await to build responsive applications in JavaScript, Python, and TypeScript.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
