@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 0 months and 24 days
+Up time: 20 years, 0 months and 25 days
 ```
 <!--UP_TIME_END-->
 
@@ -113,9 +113,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Actively engaged with TypeScript, Python, JavaScript • Refining development workflows • ✨🚀
+Deep diving into TypeScript, Python, JavaScript • Refining type safety & async patterns ⚡️✨
 
-<div align="center"><strong>Embrace asynchronous programming with async/await to build responsive applications in JavaScript, Python, and TypeScript.</strong></div>
+<div align="center"><strong>Embrace asynchronous programming with async/await for cleaner, non-blocking operations in JavaScript and Python.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
