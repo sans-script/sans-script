@@ -46,17 +46,17 @@ Up time: 20 years, 0 months and 28 days
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   40.60 % 
-Python                   2 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
-Markdown                 1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-YAML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-SQL                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+TypeScript               2 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   33.11 % 
+Python                   2 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
+Markdown                 1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+SQL                      34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+JavaScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
 
 🔥 Editors: 
-Antigravity              10 hrs 31 mins      █████████████████████████   100.00 % 
+Antigravity              8 hrs 20 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 hrs 31 mins      █████████████████████████   100.00 % 
+Windows                  8 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 
