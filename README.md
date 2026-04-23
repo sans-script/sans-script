@@ -12,11 +12,8 @@ _Building and breaking stuff since 2019._
 
 <p>
 <!--START_SECTION:badges-->
-![Code Time](http://img.shields.io/badge/Code%20Time-829%20hrs%2024%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.47%20million%20lines%20of%20code-blue?style=flat)
-
-
+<img src="http://img.shields.io/badge/Code%20Time-829%20hrs%2024%20mins-blue?style=flat" alt="http://img.shields.io/badge/Code%20Time-829%20hrs%2024%20mins-blue?style=flat" />
+<img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.47%20million%20lines%20of%20code-blue?style=flat" alt="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.47%20million%20lines%20of%20code-blue?style=flat" />
 <!--END_SECTION:badges-->
  <a href="https://github.com/sponsors/sans-script"><img src="https://badgen.net/badge/GitHub/Sponsor?icon=github" alt="Sponsor"></a>
   <a href="https://www.paypal.com/donate/?business=alexhere.user@gmail.com"><img src="https://badgen.net/badge/Donate%20via/PayPal?icon=paypal" alt="Donate via PayPal"></a> 
@@ -115,9 +112,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Working with TypeScript, Python, Markdown • Exploring Accessibility best practices • 🎯💡
+Working with Python, Markdown, TypeScript • Refining project documentation and structure • 🎯✨
 
-<div align="center"><strong>Utilize Python's f-strings for concise and readable string formatting in your scripts.</strong></div>
+<div align="center"><strong>Consistently applying type annotations in TypeScript and Python improves code maintainability and reduces runtime errors.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
