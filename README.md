@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 1 months and 1 days
+Up time: 20 years, 1 months and 2 days
 ```
 <!--UP_TIME_END-->
 
@@ -112,10 +112,10 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 <img width="100%" src="https://raw.githubusercontent.com/sans-script/sans-script/output/github-contribution-grid-snake-dark.svg"/> 
 
 <!--MODEL_RESPONSE_START-->
-### 🎯 Current Focus
-Active with TypeScript, Other, and Markdown • Focusing on refining type definitions and clear documentation. • 💡✨
+### 🚀 Current Focus
+Actively developing with TypeScript, Other, Markdown • Refining documentation & code structure • ✨💡
 
-<div align="center"><strong>Employ TypeScript interfaces to clearly define data structures, improving code predictability and collaboration.</strong></div>
+<div align="center"><strong>Leverage TypeScript interfaces and types to enforce strict data structures, improving code predictability and reducing runtime errors.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
