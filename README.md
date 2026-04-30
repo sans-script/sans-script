@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 1 months and 5 days
+Up time: 20 years, 1 months and 6 days
 ```
 <!--UP_TIME_END-->
 
@@ -114,9 +114,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Deep diving into TypeScript, Python, Markdown • Active development sessions • 🔥💡
+Deep diving into TypeScript, Python, Markdown • Refining type safety and data scripting • 🎯💡
 
-<div align="center"><strong>Leverage TypeScript interfaces and Python type hints to improve code clarity and prevent runtime errors.</strong></div>
+<div align="center"><strong>Leverage TypeScript's strict mode for robust type checking and fewer runtime errors in your projects.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
