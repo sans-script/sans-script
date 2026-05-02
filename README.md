@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 1 months and 7 days
+Up time: 20 years, 1 months and 8 days
 ```
 <!--UP_TIME_END-->
 
@@ -113,10 +113,10 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 <img width="100%" src="https://raw.githubusercontent.com/sans-script/sans-script/output/github-contribution-grid-snake-dark.svg"/> 
 
 <!--MODEL_RESPONSE_START-->
-### 🎯 Current Focus
-Deep diving into TypeScript, Python, HTTP • Exploring robust API patterns ✨
+### 🚀 Current Focus
+Deep diving into TypeScript, Python, HTTP • Exploring Clean code principles • 🚀✨
 
-<div align="center"><strong>Always validate incoming HTTP request bodies in Python and define clear data contracts with TypeScript interfaces for robust API interactions.</strong></div>
+<div align="center"><strong>Utilize Python's f-strings for concise and readable string formatting, improving code clarity.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
