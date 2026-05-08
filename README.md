@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 1 months and 13 days
+Up time: 20 years, 1 months and 14 days
 ```
 <!--UP_TIME_END-->
 
@@ -113,9 +113,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Actively coding in TypeScript, Markdown, Python • Exploring project architecture • 🔥💡
+Actively coding in TypeScript, Markdown, Python • Exploring clean code principles • ⚡️✨
 
-<div align="center"><strong>Utilize TypeScript's utility types like `Partial` or `Readonly` to transform existing types safely and efficiently.</strong></div>
+<div align="center"><strong>Leverage list comprehensions in Python for concise and efficient data transformations.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
