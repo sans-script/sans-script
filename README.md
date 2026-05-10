@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 1 months and 15 days
+Up time: 20 years, 1 months and 16 days
 ```
 <!--UP_TIME_END-->
 
@@ -113,9 +113,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Working with TypeScript, Python, Markdown • Refining scripting solutions & documentation • 💡✨
+Deep diving into Python, TypeScript, Markdown • Focused on scripting and structured documentation • 🚀✨
 
-<div align="center"><strong>Utilize Python virtual environments to manage project dependencies cleanly and avoid conflicts.</strong></div>
+<div align="center"><strong>Leverage type annotations in Python and TypeScript to enhance code maintainability and catch potential bugs before runtime.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
