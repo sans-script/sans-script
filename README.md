@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 1 months and 16 days
+Up time: 20 years, 1 months and 17 days
 ```
 <!--UP_TIME_END-->
 
@@ -114,9 +114,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Focused on Python, TypeScript, Markdown • Refining data processing and type safety paradigms • 🔥💡
+Deep diving into Python, TypeScript, Markdown • Streamlining development workflows • 🎯✨
 
-<div align="center"><strong>Embrace TypeScript's strict null checks to prevent common runtime errors before deployment.</strong></div>
+<div align="center"><strong>Utilize TypeScript's type guards to narrow down union types and ensure robust type safety in your applications.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
