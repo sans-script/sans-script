@@ -21,7 +21,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 1 months and 20 days
+Up time: 20 years, 1 months and 21 days
 ```
 <!--UP_TIME_END-->
 
@@ -114,9 +114,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Deep diving into TypeScript, Python, Other • Enhancing development workflows • 🎯⚡️
+Actively developing with TypeScript, Python, Other • Exploring new patterns • 🎯✨
 
-<div align="center"><strong>Prioritize type annotations in TypeScript and Python for clearer, more maintainable codebases.</strong></div>
+<div align="center"><strong>Remember to use virtual environments in Python projects to isolate dependencies and prevent version conflicts.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
