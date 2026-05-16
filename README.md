@@ -20,7 +20,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 1 months and 21 days
+Up time: 20 years, 1 months and 22 days
 ```
 <!--UP_TIME_END-->
 
@@ -112,10 +112,10 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 <img width="100%" src="https://raw.githubusercontent.com/sans-script/sans-script/output/github-contribution-grid-snake-dark.svg"/> 
 
 <!--MODEL_RESPONSE_START-->
-### 🎯 Current Focus
-Deep diving into TypeScript, Python, Other • Exploring State management • 🚀✨
+### 🚀 Current Focus
+Deep diving into TypeScript, Other, Python • Optimizing workflows • 🔥💡
 
-<div align="center"><strong>Leverage TypeScript's union types to represent values that can be one of several types, enhancing type safety and code clarity.</strong></div>
+<div align="center"><strong>Isolate project dependencies with virtual environments in Python and dedicated package managers for TypeScript to prevent conflicts.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
