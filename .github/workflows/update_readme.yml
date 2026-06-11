@@ -1,7 +1,9 @@
 name: Python Update README.md
 on:
-  schedule:
-    - cron: '0 3 * * *'
+  workflow_run:
+    workflows: ["WakaTime Stats"]
+    types:
+      - completed
   workflow_dispatch:
 
 concurrency:
