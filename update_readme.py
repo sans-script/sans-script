@@ -230,19 +230,24 @@ def update_overall_stats_section(file_path):
                 if match:
                     lines_of_code = urllib.parse.unquote(match.group(1)).replace('--', '-')
 
-    overall_stats_text = f"**Code Time:** {code_time} | **From Hello World I've Written:** {lines_of_code}"
-
-    overall_section = re.search(r'<!--OVERALL_STATS_START-->(.*?)<!--OVERALL_STATS_END-->', content, re.DOTALL)
-
-    if overall_section:
-        prefix = content[:overall_section.start(1)]
-        suffix = content[overall_section.end(1):]
-        middle = "\n" + overall_stats_text + "\n"
-        updated_content = prefix + middle + suffix
+    if code_time != "Unknown" and lines_of_code != "Unknown":
+        overall_stats_text = f"**Code Time:** {code_time} | **From Hello World I've Written:** {lines_of_code}"
+        
+        # Update the plain text section
+        overall_section = re.search(r'<!--OVERALL_STATS_START-->(.*?)<!--OVERALL_STATS_END-->', content, re.DOTALL)
+        if overall_section:
+            content = content[:overall_section.start(1)] + "\n" + overall_stats_text + "\n" + content[overall_section.end(1):]
+            
+        # Empty the hidden badges section so they don't show up on GitHub
+        hidden_section = re.search(r'<!--START_SECTION:hidden_badges-->(.*?)<!--END_SECTION:hidden_badges-->', content, re.DOTALL)
+        if hidden_section:
+            content = content[:hidden_section.start(1)] + "\n" + content[hidden_section.end(1):]
 
         with open(file_path, 'w', encoding='utf-8') as file:
-            file.write(updated_content)
-            print("Overall Stats Section Done")
+            file.write(content)
+            print("Overall Stats Section Updated and Hidden Badges Cleared")
+    else:
+        print("No new stats found, leaving existing Overall Stats intact.")
 
 def update_up_time_section(file_path):
     start_date = datetime(2006, 3, 24)
