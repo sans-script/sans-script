@@ -20,7 +20,7 @@ _Building and breaking stuff since 2019._
 
 <div style="display:none">
 <!--START_SECTION:hidden_badges-->
-![Code Time](http://img.shields.io/badge/Code%20Time-898%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-901%20hrs%2036%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.24%20million%20lines%20of%20code-blue?style=flat)
 
