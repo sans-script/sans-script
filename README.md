@@ -15,16 +15,11 @@ _Building and breaking stuff since 2019._
 </p>
 
 <!--OVERALL_STATS_START-->
-**Code Time:** 898 hrs 53 mins | **From Hello World I've Written:** 3.24 million lines of code
+**Code Time:** 901 hrs 36 mins | **From Hello World I've Written:** 3.24 million lines of code
 <!--OVERALL_STATS_END-->
 
 <div style="display:none">
 <!--START_SECTION:hidden_badges-->
-![Code Time](http://img.shields.io/badge/Code%20Time-901%20hrs%2036%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.24%20million%20lines%20of%20code-blue?style=flat)
-
-
 <!--END_SECTION:hidden_badges-->
 </div>
 
@@ -123,9 +118,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Deep diving into TypeScript, Markdown, Vue • Refining component design with robust TypeScript typings & streamlining documentation pipelines • ✨📝
+Engaging with TypeScript, Markdown, Vue • Refining reactive component architecture for maintainable UI logic 🧩✨
 
-<div align="center"><strong>Design Vue composables as pure functions of reactive state, encapsulating intricate logic and side effects for enhanced testability and reusability across your application.</strong></div>
+<div align="center"><strong>Employ discriminated unions within your TypeScript models to precisely type various data states, guiding Vue component rendering logic with unmatched compile-time safety.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
