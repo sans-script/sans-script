@@ -15,7 +15,7 @@ _Building and breaking stuff since 2019._
 </p>
 
 <!--OVERALL_STATS_START-->
-**Code Time:** Unknown | **From Hello World I've Written:** Unknown
+**Code Time:** 898 hrs 53 mins | **From Hello World I've Written:** 3.24 million lines of code
 <!--OVERALL_STATS_END-->
 
 <div style="display:none">
@@ -30,7 +30,7 @@ _Building and breaking stuff since 2019._
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 2 months and 17 days
+Up time: 20 years, 2 months and 18 days
 ```
 <!--UP_TIME_END-->
 
@@ -123,9 +123,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Working with TypeScript, Markdown, JavaScript • Orchestrating TypeScript and JavaScript across decoupled frontend and backend services • ⚛️⚙️
+Deep diving into TypeScript, Markdown, Vue • Refining component design with robust TypeScript typings & streamlining documentation pipelines • ✨📝
 
-<div align="center"><strong>Harness advanced type inference to validate API contracts, ensuring end-to-end data integrity across decoupled TypeScript services.</strong></div>
+<div align="center"><strong>Design Vue composables as pure functions of reactive state, encapsulating intricate logic and side effects for enhanced testability and reusability across your application.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
