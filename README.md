@@ -15,22 +15,17 @@ _Building and breaking stuff since 2019._
 </p>
 
 <!--OVERALL_STATS_START-->
-**Code Time:** 903 hrs 59 mins | **From Hello World I've Written:** 3.24 million lines of code
+**Code Time:** 904 hrs 2 mins | **From Hello World I've Written:** 3.24 million lines of code
 <!--OVERALL_STATS_END-->
 
 <div style="display:none">
 <!--START_SECTION:hidden_badges-->
-![Code Time](http://img.shields.io/badge/Code%20Time-904%20hrs%202%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.24%20million%20lines%20of%20code-blue?style=flat)
-
-
 <!--END_SECTION:hidden_badges-->
 </div>
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 2 months and 18 days
+Up time: 20 years, 2 months and 19 days
 ```
 <!--UP_TIME_END-->
 
@@ -123,9 +118,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Deep diving into TypeScript, Markdown, Vue • Exploring modular architecture patterns for robust Vue applications and TypeScript service layers • 🟦💚
+Deep diving into TypeScript, Markdown, YAML • Integrating structured content and configuration with typed application logic • ⚙️ 📝
 
-<div align="center"><strong>Employ conditional and mapped TypeScript types to precisely model complex component state and API responses, safeguarding your Vue application's data integrity.</strong></div>
+<div align="center"><strong>Employ type-driven schema validation to unify declarative YAML configurations with runtime-safe TypeScript types, preventing data drift at architectural seams.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
