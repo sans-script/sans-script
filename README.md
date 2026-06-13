@@ -53,17 +53,17 @@ Up time: 20 years, 2 months and 19 days
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   41.88 % 
-Markdown                 1 hr 42 mins        ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-YAML                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-Vue                      35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-Java                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+TypeScript               3 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   41.61 % 
+Markdown                 1 hr 43 mins        ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
+YAML                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+Vue                      35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+Java                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 24 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 27 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 24 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 
