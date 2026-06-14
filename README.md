@@ -15,22 +15,17 @@ _Building and breaking stuff since 2019._
 </p>
 
 <!--OVERALL_STATS_START-->
-**Code Time:** 904 hrs 2 mins | **From Hello World I've Written:** 3.24 million lines of code
+**Code Time:** 904 hrs 2 mins | **From Hello World I've Written:** 3.25 million lines of code
 <!--OVERALL_STATS_END-->
 
 <div style="display:none">
 <!--START_SECTION:hidden_badges-->
-![Code Time](http://img.shields.io/badge/Code%20Time-904%20hrs%202%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.25%20million%20lines%20of%20code-blue?style=flat)
-
-
 <!--END_SECTION:hidden_badges-->
 </div>
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 2 months and 20 days
+Up time: 20 years, 2 months and 21 days
 ```
 <!--UP_TIME_END-->
 
@@ -123,9 +118,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Deep diving into TypeScript, Markdown, YAML • Developing robust configuration and data schemas for AI tooling and system automation • 🤖⚙️
+Deep diving into TypeScript, Markdown, YAML • Refining type-safe configuration management and declarative content rendering pipelines • ⚙️ 📝 🛡️
 
-<div align="center"><strong>Leverage recursive conditional types to enforce schema integrity across complex nested data structures defined in YAML.</strong></div>
+<div align="center"><strong>Leverage TypeScript's inferential power and conditional types to programmatically derive and validate YAML schema definitions at compile time, ensuring data integrity across content and configuration.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
