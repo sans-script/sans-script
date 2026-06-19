@@ -10,6 +10,8 @@
 
 _Building and breaking stuff since 2019._
 
+<br clear="right"/>
+
 <p align="right">
   ❤️ <a href="https://github.com/sponsors/sans-script">GitHub Sponsor</a> | ☕ <a href="https://www.paypal.com/donate/?business=alexhere.user@gmail.com">Donate via PayPal</a>
 </p>
