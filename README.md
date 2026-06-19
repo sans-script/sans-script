@@ -21,6 +21,7 @@ _Building and breaking stuff since 2019._
 <!--OVERALL_STATS_END-->
 
 <div style="display:none">
+<img src="https://komarev.com/ghpvc/?username=sans-script" />
 <!--START_SECTION:hidden_badges-->
 <!--END_SECTION:hidden_badges-->
 </div>
