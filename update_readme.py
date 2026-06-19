@@ -246,6 +246,17 @@ def update_overall_stats_section(file_path):
                 if match:
                     lines_of_code = urllib.parse.unquote(match.group(1)).replace('--', '-')
 
+    if code_time == "Unknown" or lines_of_code == "Unknown":
+        overall_section_text = re.search(r'<!--OVERALL_STATS_START-->(.*?)<!--OVERALL_STATS_END-->', content, re.DOTALL)
+        if overall_section_text:
+            existing_text = overall_section_text.group(1)
+            code_time_match = re.search(r'\*\*Code Time:\*\* (.*?)\s*\|', existing_text)
+            if code_time_match:
+                code_time = code_time_match.group(1).strip()
+            lines_match = re.search(r'\*\*From Hello World I\'ve Written:\*\* (.*?)(?:\s*\||$)', existing_text)
+            if lines_match:
+                lines_of_code = lines_match.group(1).strip()
+
     bot_views_match = re.search(r'<!--BOT_VIEWS:\s*(\d+)\s*-->', content)
     bot_views = int(bot_views_match.group(1)) if bot_views_match else 0
     bot_views += 1
