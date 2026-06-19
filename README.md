@@ -20,8 +20,8 @@ _Building and breaking stuff since 2019._
 **Code Time:** 905 hrs 59 mins | **From Hello World I've Written:** 3.25 million lines of code
 <!--OVERALL_STATS_END-->
 
-<div style="display:none">
-<img src="https://komarev.com/ghpvc/?username=sans-script" />
+<div>
+<img src="https://komarev.com/ghpvc/?username=sans-script" width="0" height="0" />
 <!--START_SECTION:hidden_badges-->
 <!--END_SECTION:hidden_badges-->
 </div>
