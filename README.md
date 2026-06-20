@@ -57,16 +57,18 @@ Up time: 20 years, 2 months and 26 days
 
 ```text
 💬 Programming Languages: 
-Vue                      48 mins             ███████████░░░░░░░░░░░░░░   44.22 % 
-Markdown                 30 mins             ███████░░░░░░░░░░░░░░░░░░   28.15 % 
-Java                     20 mins             █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
-Python                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+Markdown                 51 mins             ████████░░░░░░░░░░░░░░░░░   31.35 % 
+Vue                      48 mins             ███████░░░░░░░░░░░░░░░░░░   29.43 % 
+Java                     31 mins             █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+Java Properties          11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Python                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
 
 🔥 Editors: 
-VS Code                  1 hr 49 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 46 mins        ████████████████░░░░░░░░░   64.89 % 
+Antigravity IDE          57 mins             █████████░░░░░░░░░░░░░░░░   35.11 % 
 
 💻 Operating System: 
-Windows                  1 hr 49 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 
