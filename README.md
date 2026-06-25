@@ -57,19 +57,19 @@ Up time: 20 years, 3 months and 0 days
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   29.17 % 
-TypeScript               2 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
-Vue                      1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Java                     1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-Python                   50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Markdown                 3 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   30.97 % 
+TypeScript               2 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
+Vue                      1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+Python                   50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+Text                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
 
 🔥 Editors: 
-Antigravity IDE          11 hrs 47 mins      ████████████████████████░   97.53 % 
-VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-Antigravity Desktop      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Antigravity IDE          10 hrs 49 mins      ████████████████████████░   97.31 % 
+VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Antigravity Desktop      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 💻 Operating System: 
-Windows                  12 hrs 5 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 
