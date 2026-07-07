@@ -141,7 +141,7 @@ def get_profile_views(username='sans-script'):
 
 github_activity = get_github_activity()
 wakatime_data = get_wakatime_data('README.md')
-profile_views = get_profile_views()
+# profile_views = get_profile_views()
 
 # Build context from tracked metrics
 top_langs = [lang[0].strip() for lang in wakatime_data['languages']]
@@ -257,23 +257,23 @@ def update_overall_stats_section(file_path):
             if lines_match:
                 lines_of_code = lines_match.group(1).strip()
 
-    bot_views_match = re.search(r'<!--BOT_VIEWS:\s*(\d+)\s*-->', content)
-    bot_views = int(bot_views_match.group(1)) if bot_views_match else 0
-    bot_views += 1
+    # bot_views_match = re.search(r'<!--BOT_VIEWS:\s*(\d+)\s*-->', content)
+    # bot_views = int(bot_views_match.group(1)) if bot_views_match else 0
+    # bot_views += 1
     
-    try:
-        raw_views = int(str(profile_views).replace(',', ''))
-        real_profile_views = str(max(0, raw_views - bot_views))
-    except ValueError:
-        real_profile_views = profile_views
+    # try:
+    #     raw_views = int(str(profile_views).replace(',', ''))
+    #     real_profile_views = str(max(0, raw_views - bot_views))
+    # except ValueError:
+    #     real_profile_views = profile_views
 
     if code_time != "Unknown" and lines_of_code != "Unknown":
-        overall_stats_text = f"**Code Time:** {code_time} | **From Hello World I've Written:** {lines_of_code} | **Profile Views:** {real_profile_views}"
+        overall_stats_text = f"**Code Time:** {code_time} | **From Hello World I've Written:** {lines_of_code}" # | **Profile Views:** {real_profile_views}"
         
-        if bot_views_match:
-            content = content[:bot_views_match.start()] + f"<!--BOT_VIEWS:{bot_views}-->" + content[bot_views_match.end():]
-        else:
-            content = re.sub(r'(<!--OVERALL_STATS_END-->)', r'\1\n<!--BOT_VIEWS:' + str(bot_views) + r'-->', content, count=1)
+        # if bot_views_match:
+        #     content = content[:bot_views_match.start()] + f"<!--BOT_VIEWS:{bot_views}-->" + content[bot_views_match.end():]
+        # else:
+        #     content = re.sub(r'(<!--OVERALL_STATS_END-->)', r'\1\n<!--BOT_VIEWS:' + str(bot_views) + r'-->', content, count=1)
             
         # Update the plain text section
         overall_section = re.search(r'<!--OVERALL_STATS_START-->(.*?)<!--OVERALL_STATS_END-->', content, re.DOTALL)
