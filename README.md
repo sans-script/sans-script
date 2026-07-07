@@ -17,12 +17,12 @@ _Building and breaking stuff since 2019._
 </p>
 
 <!--OVERALL_STATS_START-->
-**Code Time:** 921 hrs 50 mins | **From Hello World I've Written:** 3.33 million lines of code | **Profile Views:** 27
+**Code Time:** 921 hrs 50 mins | **From Hello World I've Written:** 3.33 million lines of code
 <!--OVERALL_STATS_END-->
-<!--BOT_VIEWS:18-->
+<!--BOT_VIEWS:27-->
 
 <div>
-<img src="https://komarev.com/ghpvc/?username=sans-script" width="0" height="0" />
+<!-- <img src="https://komarev.com/ghpvc/?username=sans-script" width="0" height="0" />-->
 <!--START_SECTION:hidden_badges-->
 <!--END_SECTION:hidden_badges-->
 </div>
