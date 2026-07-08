@@ -57,17 +57,17 @@ Up time: 20 years, 3 months and 13 days
 
 ```text
 💬 Programming Languages: 
-Python                   36 mins             ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
-Markdown                 36 mins             ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
-JavaScript               31 mins             █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
-TypeScript               22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-Bash                     19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Markdown                 1 hr 7 mins         ███████░░░░░░░░░░░░░░░░░░   28.07 % 
+TypeScript               51 mins             █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
+Python                   41 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+JavaScript               36 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+Bash                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
 
 🔥 Editors: 
-Antigravity IDE          2 hrs 44 mins       █████████████████████████   100.00 % 
+Antigravity IDE          4 hrs 1 min         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 44 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 
