@@ -17,24 +17,19 @@ _Building and breaking stuff since 2019._
 </p>
 
 <!--OVERALL_STATS_START-->
-**Code Time:** 923 hrs 40 mins | **From Hello World I've Written:** 3.33 million lines of code
+**Code Time:** 925 hrs 39 mins | **From Hello World I've Written:** 3.33 million lines of code
 <!--OVERALL_STATS_END-->
 <!--BOT_VIEWS:27-->
 
 <div>
 <!-- <img src="https://komarev.com/ghpvc/?username=sans-script" width="0" height="0" />-->
 <!--START_SECTION:hidden_badges-->
-![Code Time](http://img.shields.io/badge/Code%20Time-925%20hrs%2039%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.33%20million%20lines%20of%20code-blue?style=flat)
-
-
 <!--END_SECTION:hidden_badges-->
 </div>
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 3 months and 14 days
+Up time: 20 years, 3 months and 15 days
 ```
 <!--UP_TIME_END-->
 
@@ -127,9 +122,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Working with Markdown, TypeScript, Python • Integrating web frontends with data processing backends • 🌐🐍
+Working with TypeScript, Markdown, Docker • Iterating on containerized TypeScript service definitions and documentation • 🐳 📝
 
-<div align="center"><strong>Decouple domain logic from I/O operations through hexagonal architecture to enhance testability and porting flexibility.</strong></div>
+<div align="center"><strong>Architect your TypeScript services with strict dependency inversion principles to ensure runtime modularity within Docker containers aligns with compile-time type safety.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
