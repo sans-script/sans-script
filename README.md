@@ -24,17 +24,12 @@ _Building and breaking stuff since 2019._
 <div>
 <!-- <img src="https://komarev.com/ghpvc/?username=sans-script" width="0" height="0" />-->
 <!--START_SECTION:hidden_badges-->
-![Code Time](http://img.shields.io/badge/Code%20Time-925%20hrs%2039%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.33%20million%20lines%20of%20code-blue?style=flat)
-
-
 <!--END_SECTION:hidden_badges-->
 </div>
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 3 months and 17 days
+Up time: 20 years, 3 months and 18 days
 ```
 <!--UP_TIME_END-->
 
@@ -127,9 +122,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Working with TypeScript, Docker, Markdown • optimizing frontend UI elements and container setup scripts • 🎨🐳
+Working with TypeScript, Docker, Markdown • Streamlining TypeScript backend deployments via Docker and maintaining project documentation • 🐳⚙️
 
-<div align="center"><strong>To guarantee robust inter-service communication in a containerized environment, enforce strict schema validation and type-safe API contracts across all microservices.</strong></div>
+<div align="center"><strong>Optimize Docker multi-stage builds by isolating build-time dependencies from the runtime image, drastically reducing attack surface and deployment footprint.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
