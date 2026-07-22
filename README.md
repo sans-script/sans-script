@@ -17,24 +17,19 @@ _Building and breaking stuff since 2019._
 </p>
 
 <!--OVERALL_STATS_START-->
-**Code Time:** 930 hrs 32 mins | **From Hello World I've Written:** 3.33 million lines of code
+**Code Time:** 930 hrs 49 mins | **From Hello World I've Written:** 3.34 million lines of code
 <!--OVERALL_STATS_END-->
 <!--BOT_VIEWS:27-->
 
 <div>
 <!-- <img src="https://komarev.com/ghpvc/?username=sans-script" width="0" height="0" />-->
 <!--START_SECTION:hidden_badges-->
-![Code Time](http://img.shields.io/badge/Code%20Time-930%20hrs%2049%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.34%20million%20lines%20of%20code-blue?style=flat)
-
-
 <!--END_SECTION:hidden_badges-->
 </div>
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 3 months and 27 days
+Up time: 20 years, 3 months and 28 days
 ```
 <!--UP_TIME_END-->
 
@@ -128,9 +123,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Quick coding session with Bash, TypeScript, Markdown • Iterating on web service logic and automation scripts • 💻⚙️
+Working with Bash, TypeScript, Markdown • Building client-side application logic, automating workflows, and structuring documentation • 🌐⚙️
 
-<div align="center"><strong>Design your TypeScript architecture with strict module boundaries and `import type` to prevent runtime coupling and enforce clean layer separation.</strong></div>
+<div align="center"><strong>In complex TypeScript applications, employ branded types to enforce stricter nominal typing, preventing accidental assignment of semantically distinct but structurally identical data.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
