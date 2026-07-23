@@ -24,6 +24,11 @@ _Building and breaking stuff since 2019._
 <div>
 <!-- <img src="https://komarev.com/ghpvc/?username=sans-script" width="0" height="0" />-->
 <!--START_SECTION:hidden_badges-->
+![Code Time](http://img.shields.io/badge/Code%20Time-944%20hrs%201%20min-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.34%20million%20lines%20of%20code-blue?style=flat)
+
+
 <!--END_SECTION:hidden_badges-->
 </div>
 
