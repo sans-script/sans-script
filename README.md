@@ -24,17 +24,12 @@ _Building and breaking stuff since 2019._
 <div>
 <!-- <img src="https://komarev.com/ghpvc/?username=sans-script" width="0" height="0" />-->
 <!--START_SECTION:hidden_badges-->
-![Code Time](http://img.shields.io/badge/Code%20Time-944%20hrs%2047%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.34%20million%20lines%20of%20code-blue?style=flat)
-
-
 <!--END_SECTION:hidden_badges-->
 </div>
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 4 months and 0 days
+Up time: 20 years, 4 months and 1 days
 ```
 <!--UP_TIME_END-->
 
@@ -129,9 +124,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Working with Bash, TypeScript, JSON • Scripting automated system tasks and refining data structures • ⚙️ 💾
+Working with Bash, Markdown, TypeScript • Exploring robust type-safe computational patterns and refining automation scripts • ⚙️⚛️
 
-<div align="center"><strong>Architect idempotent service operations, ensuring system state remains consistent regardless of retry attempts or network disruptions.</strong></div>
+<div align="center"><strong>Enforce domain invariants at the type level with TypeScript's advanced features to secure computational integrity within your orchestrated workflows.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
