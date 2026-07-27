@@ -77,6 +77,8 @@ Up time: 20 years, 4 months and 2 days
 <!--<img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sans-script&theme=github_dark"/>-->
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-105%20hrs%2019%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -94,6 +96,28 @@ VS Code                  28 mins             ████░░░░░░░�
 💻 Operating System: 
 Windows                  3 hrs 6 mins        ███████████████████████░░   91.57 % 
 WSL                      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 3 hrs 5 mins (91.08%)
+
+✍️ 268 lines written by AI, 14 lines written by hand (95.04% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 11 AI Sessions, 48 AI Prompts
+
+Gemini                   287 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 95.04% of written lines came from AI
+📄 Detailed Prompter — average 739 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 10.31% of changed lines were hand-edited
 ```
 
 
