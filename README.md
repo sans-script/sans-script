@@ -17,48 +17,19 @@ _Building and breaking stuff since 2019._
 </p>
 
 <!--OVERALL_STATS_START-->
-**Code Time:** 944 hrs 47 mins | **From Hello World I've Written:** 3.34 million lines of code
+**Code Time:** 105 hrs 19 mins | **From Hello World I've Written:** 3.34 million lines of code
 <!--OVERALL_STATS_END-->
 <!--BOT_VIEWS:27-->
 
 <div>
 <!-- <img src="https://komarev.com/ghpvc/?username=sans-script" width="0" height="0" />-->
 <!--START_SECTION:hidden_badges-->
-![Code Time](http://img.shields.io/badge/Code%20Time-926%20hrs%2034%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-105%20hrs%2019%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.34%20million%20lines%20of%20code-blue?style=flat)
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 3 hrs 5 mins (91.08%)
-
-✍️ 268 lines written by AI, 14 lines written by hand (95.04% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 11 AI Sessions, 48 AI Prompts
-
-Gemini                   287 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 95.04% of written lines came from AI
-📄 Detailed Prompter — average 739 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 10.31% of changed lines were hand-edited
-```
-
-
 <!--END_SECTION:hidden_badges-->
 </div>
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 4 months and 2 days
+Up time: 20 years, 4 months and 3 days
 ```
 <!--UP_TIME_END-->
 
@@ -177,9 +148,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Working with Bash, Markdown, TypeScript • Refining type-safe domain models for scheduling and mathematical reasoning systems • ⚙️🧠
+Working with Bash, Markdown, TypeScript • Engaging with formal mathematical reasoning and refining development workflows • 🧠⚙️
 
-<div align="center"><strong>Embrace Algebraic Data Types in TypeScript to model intricate domain states and operations with precise, compiler-enforced correctness.</strong></div>
+<div align="center"><strong>When modeling complex state with TypeScript, leverage discriminated unions and branded types to enforce domain invariants at compile-time, not just runtime.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
