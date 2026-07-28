@@ -24,41 +24,12 @@ _Building and breaking stuff since 2019._
 <div>
 <!-- <img src="https://komarev.com/ghpvc/?username=sans-script" width="0" height="0" />-->
 <!--START_SECTION:hidden_badges-->
-![Code Time](http://img.shields.io/badge/Code%20Time-926%20hrs%2034%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-105%20hrs%2019%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.34%20million%20lines%20of%20code-blue?style=flat)
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 3 hrs 5 mins (91.53%)
-
-✍️ 268 lines written by AI, 14 lines written by hand (95.04% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 11 AI Sessions, 48 AI Prompts
-
-Gemini                   287 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 95.04% of written lines came from AI
-📄 Detailed Prompter — average 739 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 10.31% of changed lines were hand-edited
-```
-
-
 <!--END_SECTION:hidden_badges-->
 </div>
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 4 months and 3 days
+Up time: 20 years, 4 months and 4 days
 ```
 <!--UP_TIME_END-->
 
@@ -177,9 +148,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Working with Bash, Markdown, TypeScript • Engaging with formal mathematical reasoning and refining development workflows • 🧠⚙️
+Working with Bash, Markdown, TypeScript • Refining scripted automation for cloud infrastructure and service scheduling routines • ⚙️☁️
 
-<div align="center"><strong>When modeling complex state with TypeScript, leverage discriminated unions and branded types to enforce domain invariants at compile-time, not just runtime.</strong></div>
+<div align="center"><strong>Design idempotent automation scripts to ensure predictable and consistent state transitions across distributed systems.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
