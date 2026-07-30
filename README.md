@@ -77,47 +77,47 @@ Up time: 20 years, 4 months and 5 days
 <!--<img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sans-script&theme=github_dark"/>-->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-105%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-106%20hrs%2016%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 26 mins             ██████████░░░░░░░░░░░░░░░   41.07 % 
-Bash                     17 mins             ███████░░░░░░░░░░░░░░░░░░   26.93 % 
-TypeScript               11 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
-Other                    6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-Vue                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Other                    29 mins             ███████░░░░░░░░░░░░░░░░░░   28.64 % 
+Markdown                 26 mins             ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
+HTML                     20 mins             █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
+Bash                     17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+JavaScript               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
 
 🔥 Editors: 
-Antigravity IDE          46 mins             ██████████████████░░░░░░░   73.07 % 
-VS Code                  17 mins             ███████░░░░░░░░░░░░░░░░░░   26.93 % 
+Antigravity IDE          1 hr 25 mins        █████████████████████░░░░   83.35 % 
+VS Code                  17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
 
 💻 Operating System: 
-Windows                  46 mins             ██████████████████░░░░░░░   73.07 % 
-WSL                      17 mins             ███████░░░░░░░░░░░░░░░░░░   26.93 % 
+Windows                  1 hr 25 mins        █████████████████████░░░░   83.35 % 
+WSL                      17 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 46 mins (73.07%)
+⏱ AI Coding Time: 1 hr 25 mins (83.35%)
 
-✍️ 16 lines written by AI, 14 lines written by hand (53.33% AI-written)
+✍️ 32 lines written by AI, 14 lines written by hand (69.57% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 11 AI Prompts
+🧠 4 AI Sessions, 17 AI Prompts
 
-Gemini                   23 lines            █████████████████████████   100.00 % 
+Gemini                   38 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 53.33% of written lines came from AI
-📄 Detailed Prompter — average 1,048 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 58.93% of changed lines were hand-edited
+🤖 AI-Driven — 69.57% of written lines came from AI
+📝 Concise Prompter — average 373 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 46.48% of changed lines were hand-edited
 ```
 
 
