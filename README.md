@@ -17,52 +17,19 @@ _Building and breaking stuff since 2019._
 </p>
 
 <!--OVERALL_STATS_START-->
-**Code Time:** 108 hrs 6 mins | **From Hello World I've Written:** 3.35 million lines of code
+**Code Time:** 110 hrs 14 mins | **From Hello World I've Written:** 3.35 million lines of code
 <!--OVERALL_STATS_END-->
 <!--BOT_VIEWS:27-->
 
 <div>
 <!-- <img src="https://komarev.com/ghpvc/?username=sans-script" width="0" height="0" />-->
 <!--START_SECTION:hidden_badges-->
-![Code Time](http://img.shields.io/badge/Code%20Time-931%20hrs%2011%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-110%20hrs%2014%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.35%20million%20lines%20of%20code-blue?style=flat)
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 25 hrs 39 mins (98.95%)
-
-✍️ 1,030 lines written by AI, 19 lines written by hand (98.19% AI-written)
-
-🔤 186,435 Input Tokens, 1,605 Output Tokens
-
-💵 $0.84 Estimated AI Cost This Week
-
-🧠 17 AI Sessions, 443 AI Prompts
-
-Gemini                   1,005 lines         ████████████████████░░░░░   80.79 % 
-Sonnet                   239 lines           █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 98.19% of written lines came from AI
-📄 Detailed Prompter — average 803 characters per prompt
-🔁 Iterative Prompter — average 26 prompts per session
-🚀 High AI Trust — 2.51% of changed lines were hand-edited
-```
-
-
 <!--END_SECTION:hidden_badges-->
 </div>
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 4 months and 10 days
+Up time: 20 years, 4 months and 11 days
 ```
 <!--UP_TIME_END-->
 
@@ -185,9 +152,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Quick coding session with Markdown, Other, TOML • focused on refining system infrastructure configurations and documentation ⚙️📝
+Deep diving into Bash, Docker, Python • Orchestrating containerized services and automating infrastructure workflows • 🐳⚙️
 
-<div align="center"><strong>When orchestrating dynamic infrastructure with declarative configurations, prioritize idempotent state management through immutable deployments.</strong></div>
+<div align="center"><strong>Prioritize declarative state definitions over imperative scripting for infrastructure, ensuring predictable outcomes and simplifying reconciliation.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
