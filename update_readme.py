@@ -237,8 +237,9 @@ def update_overall_stats_section(file_path):
         badges = hidden_section.group(1).strip().split('\n')
         for badge in badges:
             badge = badge.strip()
+            # Match both old 'Code%20Time' and new 'AI%20Code%20Time' label from WakaTime
             if 'Code%20Time' in badge:
-                match = re.search(r'Code%20Time-(.*?)-blue', badge)
+                match = re.search(r'(?:AI%20)?Code%20Time-(.*?)-blue', badge)
                 if match:
                     code_time = urllib.parse.unquote(match.group(1)).replace('--', '-')
             elif 'From%20Hello%20World' in badge:
