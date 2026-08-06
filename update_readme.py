@@ -318,6 +318,25 @@ def update_up_time_section(file_path):
             file.write(updated_content)
             print("Up Time Section Done")
 
+def strip_waka_badges(file_path):
+    """Remove badge lines (e.g. AI Code Time) injected by WakaTime into the waka section"""
+    with open(file_path, 'r', encoding='utf-8') as file:
+        content = file.read()
+
+    waka_section = re.search(r'(<!--START_SECTION:waka-->)(.*?)(<!--END_SECTION:waka-->)', content, re.DOTALL)
+    if waka_section:
+        inner = waka_section.group(2)
+        # Remove any markdown badge lines: ![...](http://img.shields.io/badge/...)
+        cleaned = re.sub(r'!\[.*?\]\(https?://img\.shields\.io/badge/.*?\)\s*\n?', '', inner)
+        if cleaned != inner:
+            content = content[:waka_section.start(2)] + cleaned + content[waka_section.end(2):]
+            with open(file_path, 'w', encoding='utf-8') as file:
+                file.write(content)
+            print("WakaTime badges stripped from waka section")
+        else:
+            print("No WakaTime badges found in waka section")
+
+
 def update_model_response(file_path):
     with open(file_path, 'r') as file:
         content = file.read()
@@ -339,5 +358,6 @@ def update_model_response(file_path):
 if __name__ == "__main__":
     target_readme = 'README.md'
     update_overall_stats_section(target_readme)
+    strip_waka_badges(target_readme)
     update_up_time_section(target_readme)
     update_model_response(target_readme)
