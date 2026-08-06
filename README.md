@@ -69,33 +69,6 @@ Visual                   19 mins             ░░░░░░░░░░░�
 Windows                  23 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 23 hrs 23 mins (98.23%)
-
-✍️ 1,772 lines written by AI, 35 lines written by hand (98.06% AI-written)
-
-🔤 188,485 Input Tokens, 2,457 Output Tokens
-
-💵 $0.86 Estimated AI Cost This Week
-
-🧠 19 AI Sessions, 405 AI Prompts
-
-Gemini                   1,743 lines         ██████████████████████░░░   87.94 % 
-Sonnet                   239 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 98.06% of written lines came from AI
-📄 Detailed Prompter — average 880 characters per prompt
-🔁 Iterative Prompter — average 21 prompts per session
-🚀 High AI Trust — 2.89% of changed lines were hand-edited
-```
-
-
 <!--END_SECTION:waka-->
 
 <!--<img  src="https://github-readme-activity-graph.vercel.app/graph?username=sans-script&bg_color=0A0C10&color=36BCF7FF&line=36BCF7FF&point=006eff&area=true&hide_border=true&height=320"/>-->

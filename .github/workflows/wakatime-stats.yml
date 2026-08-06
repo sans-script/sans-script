@@ -58,3 +58,4 @@ jobs:
           SHOW_TIMEZONE: false
           SHOW_UPDATED_DATE: false
           SHOW_PROJECTS: false
+          SHOW_AI_CODING: "False"
