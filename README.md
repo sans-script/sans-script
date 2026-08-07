@@ -17,52 +17,19 @@ _Building and breaking stuff since 2019._
 </p>
 
 <!--OVERALL_STATS_START-->
-**Code Time:** 111 hrs 10 mins | **From Hello World I've Written:** 3.41 million lines of code
+**Code Time:** 112 hrs 49 mins | **From Hello World I've Written:** 3.41 million lines of code
 <!--OVERALL_STATS_END-->
 <!--BOT_VIEWS:27-->
 
 <div>
 <!-- <img src="https://komarev.com/ghpvc/?username=sans-script" width="0" height="0" />-->
 <!--START_SECTION:hidden_badges-->
-![Code Time](http://img.shields.io/badge/Code%20Time-933%20hrs%2038%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-112%20hrs%2049%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.41%20million%20lines%20of%20code-blue?style=flat)
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 19 hrs 52 mins (97.92%)
-
-✍️ 1,655 lines written by AI, 35 lines written by hand (97.93% AI-written)
-
-🔤 188,485 Input Tokens, 2,457 Output Tokens
-
-💵 $0.86 Estimated AI Cost This Week
-
-🧠 20 AI Sessions, 316 AI Prompts
-
-Gemini                   1,665 lines         ██████████████████████░░░   90.00 % 
-Sonnet                   185 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 97.93% of written lines came from AI
-📄 Detailed Prompter — average 1,062 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 3.09% of changed lines were hand-edited
-```
-
-
 <!--END_SECTION:hidden_badges-->
 </div>
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 4 months and 12 days
+Up time: 20 years, 4 months and 14 days
 ```
 <!--UP_TIME_END-->
 
@@ -81,8 +48,6 @@ Up time: 20 years, 4 months and 12 days
 <!--<img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sans-script&theme=github_dark"/>-->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-112%20hrs%2049%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -159,9 +124,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Deep diving into Bash, Docker, Python • Automating and containerizing mathematical models for reproducible computational reasoning • ⚙️ 🧠
+Deep diving into Docker, Bash, Python • Developing containerized computational tools for mathematics and formal reasoning, alongside automation scripts • 🐳🐍
 
-<div align="center"><strong>When containerizing stateful computational workflows, meticulously manage ephemeral storage and persistent data volumes to ensure data integrity and reproducibility across runs.</strong></div>
+<div align="center"><strong>For Python computational workloads in Docker, optimize image layers and runtime dependencies to reduce cold start times and resource footprint.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
