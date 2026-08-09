@@ -24,45 +24,12 @@ _Building and breaking stuff since 2019._
 <div>
 <!-- <img src="https://komarev.com/ghpvc/?username=sans-script" width="0" height="0" />-->
 <!--START_SECTION:hidden_badges-->
-![Code Time](http://img.shields.io/badge/Code%20Time-938%20hrs%2046%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-118%20hrs%2053%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.42%20million%20lines%20of%20code-blue?style=flat)
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 10 hrs 46 mins (94.38%)
-
-✍️ 1,542 lines written by AI, 578 lines written by hand (72.74% AI-written)
-
-🔤 73,654 Input Tokens, 1,097 Output Tokens
-
-💵 $0.56 Estimated AI Cost This Week
-
-🧠 23 AI Sessions, 125 AI Prompts
-
-Gemini                   1,453 lines         ██████████████████████░░░   89.58 % 
-Sonnet                   169 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 72.74% of written lines came from AI
-📄 Detailed Prompter — average 733 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 48.08% of changed lines were hand-edited
-```
-
-
 <!--END_SECTION:hidden_badges-->
 </div>
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 4 months and 15 days
+Up time: 20 years, 4 months and 16 days
 ```
 <!--UP_TIME_END-->
 
@@ -81,8 +48,6 @@ Up time: 20 years, 4 months and 15 days
 <!--<img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sans-script&theme=github_dark"/>-->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-118%20hrs%2053%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -159,9 +124,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Deep diving into TOML, Python, Other • Refining infrastructure configuration and automation scripts for internal DynamoDB-based systems • ⚙️🐍
+Deep diving into TOML, Python, Other • Refining computational logic and configuring systems for mathematical modeling • 🐍 ⚙️
 
-<div align="center"><strong>Employ immutable configuration objects in Python to prevent runtime state mutations, ensuring predictable infrastructure automation.</strong></div>
+<div align="center"><strong>For critical Python computational models, prefer immutable configuration objects loaded from TOML to prevent runtime state corruption and ensure deterministic execution.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
