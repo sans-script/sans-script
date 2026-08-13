@@ -17,51 +17,19 @@ _Building and breaking stuff since 2019._
 </p>
 
 <!--OVERALL_STATS_START-->
-**Code Time:** 118 hrs 53 mins | **From Hello World I've Written:** 3.46 million lines of code
+**Code Time:** 122 hrs 55 mins | **From Hello World I've Written:** 3.46 million lines of code
 <!--OVERALL_STATS_END-->
 <!--BOT_VIEWS:27-->
 
 <div>
 <!-- <img src="https://komarev.com/ghpvc/?username=sans-script" width="0" height="0" />-->
 <!--START_SECTION:hidden_badges-->
-![Code Time](http://img.shields.io/badge/Code%20Time-942%20hrs%2042%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-122%20hrs%2055%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.46%20million%20lines%20of%20code-blue?style=flat)
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 10 hrs 48 mins (96.11%)
-
-✍️ 936 lines written by AI, 569 lines written by hand (62.19% AI-written)
-
-🔤 292,862 Input Tokens, 24,686 Output Tokens
-
-💵 $2.62 Estimated AI Cost This Week
-
-🧠 13 AI Sessions, 143 AI Prompts
-
-Gemini                   832 lines           ████████████████████░░░░░   78.56 % 
-Sonnet                   131 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-GPT                      96 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 62.19% of written lines came from AI
-📝 Concise Prompter — average 274 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🔍 Hands-On Reviewer — 58.86% of changed lines were hand-edited
-```
-
-
 <!--END_SECTION:hidden_badges-->
 </div>
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 4 months and 19 days
+Up time: 20 years, 4 months and 20 days
 ```
 <!--UP_TIME_END-->
 
@@ -80,8 +48,6 @@ Up time: 20 years, 4 months and 19 days
 <!--<img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sans-script&theme=github_dark"/>-->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-122%20hrs%2055%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -158,9 +124,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Engaged with TOML, Other, Python • Refining configuration schemas for analytical workflows • ⚙️🐍
+Deep diving into TOML, TypeScript, Python • Exploring configuration-driven systems, formal reasoning applications, and knowledge base integration • ⚙️🐍
 
-<div align="center"><strong>Treat your TOML configuration schemas as explicit contracts, enforcing validation at runtime to prevent silent system failures.</strong></div>
+<div align="center"><strong>When integrating polyglot services, define your TOML configuration schema as the single source of truth, generating TypeScript interfaces and Python dataclass definitions to enforce compile-time and runtime data contracts.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
