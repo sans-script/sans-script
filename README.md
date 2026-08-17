@@ -17,50 +17,19 @@ _Building and breaking stuff since 2019._
 </p>
 
 <!--OVERALL_STATS_START-->
-**Code Time:** 122 hrs 55 mins | **From Hello World I've Written:** 3.47 million lines of code
+**Code Time:** 122 hrs 55 mins | **From Hello World I've Written:** 3.37 million lines of code
 <!--OVERALL_STATS_END-->
 <!--BOT_VIEWS:27-->
 
 <div>
 <!-- <img src="https://komarev.com/ghpvc/?username=sans-script" width="0" height="0" />-->
 <!--START_SECTION:hidden_badges-->
-![Code Time](http://img.shields.io/badge/Code%20Time-942%20hrs%2042%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-122%20hrs%2055%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.37%20million%20lines%20of%20code-blue?style=flat)
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 8 hrs 45 mins (97.59%)
-
-✍️ 932 lines written by AI, 26 lines written by hand (97.29% AI-written)
-
-🔤 288,762 Input Tokens, 24,633 Output Tokens
-
-💵 $2.61 Estimated AI Cost This Week
-
-🧠 11 AI Sessions, 171 AI Prompts
-
-Gemini                   960 lines           █████████████████████░░░░   85.18 % 
-GPT                      96 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-Sonnet                   71 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 97.29% of written lines came from AI
-📝 Concise Prompter — average 317 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 6.01% of changed lines were hand-edited
-```
-
-
 <!--END_SECTION:hidden_badges-->
 </div>
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 4 months and 23 days
+Up time: 20 years, 4 months and 24 days
 ```
 <!--UP_TIME_END-->
 
@@ -79,8 +48,6 @@ Up time: 20 years, 4 months and 23 days
 <!--<img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sans-script&theme=github_dark"/>-->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-122%20hrs%2055%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -157,9 +124,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Deep diving into TypeScript, TOML, Python • Exploring polyglot configuration patterns and robust type-safe scripting • 🐍⚙️
+Deep diving into TypeScript, TOML, Python • Refining cross-language configuration and scripting workflows • ⚙️🐍
 
-<div align="center"><strong>Validate cross-language configuration schemas at build-time using codified definitions to prevent runtime integration failures.</strong></div>
+<div align="center"><strong>When orchestrating polyglot data flows, prefer binary serialization protocols like Protocol Buffers over JSON for significant performance gains and strict schema enforcement.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
