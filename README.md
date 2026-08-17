@@ -79,23 +79,25 @@ Up time: 20 years, 4 months and 23 days
 <!--<img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sans-script&theme=github_dark"/>-->
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-122%20hrs%2055%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               8 hrs 42 mins       ████████████████░░░░░░░░░   64.25 % 
-TOML                     1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Python                   1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-SQL                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+TypeScript               4 hrs 35 mins       █████████████░░░░░░░░░░░░   51.16 % 
+TOML                     1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
+Python                   1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+SQL                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 
 🔥 Editors: 
-Antigravity IDE          12 hrs 42 mins      ███████████████████████░░   93.72 % 
-VS Code                  30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-Codex Vscode             20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Antigravity IDE          8 hrs 7 mins        ███████████████████████░░   90.52 % 
+VS Code                  30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Codex Vscode             20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 
 💻 Operating System: 
-Windows                  13 hrs 33 mins      █████████████████████████   100.00 % 
+Windows                  8 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 
