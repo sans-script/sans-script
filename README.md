@@ -24,43 +24,12 @@ _Building and breaking stuff since 2019._
 <div>
 <!-- <img src="https://komarev.com/ghpvc/?username=sans-script" width="0" height="0" />-->
 <!--START_SECTION:hidden_badges-->
-![Code Time](http://img.shields.io/badge/Code%20Time-942%20hrs%2042%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-122%20hrs%2055%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.37%20million%20lines%20of%20code-blue?style=flat)
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 4 hrs 41 mins (95.59%)
-
-✍️ 574 lines written by AI, 26 lines written by hand (95.67% AI-written)
-
-🔤 288,762 Input Tokens, 24,633 Output Tokens
-
-💵 $2.61 Estimated AI Cost This Week
-
-🧠 6 AI Sessions, 94 AI Prompts
-
-Gemini                   500 lines           ███████████████████░░░░░░   74.96 % 
-GPT                      96 lines            ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-Sonnet                   71 lines            ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 95.67% of written lines came from AI
-📝 Concise Prompter — average 125 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 9.76% of changed lines were hand-edited
-```
-
-
 <!--END_SECTION:hidden_badges-->
 </div>
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 4 months and 24 days
+Up time: 20 years, 4 months and 25 days
 ```
 <!--UP_TIME_END-->
 
@@ -79,8 +48,6 @@ Up time: 20 years, 4 months and 24 days
 <!--<img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sans-script&theme=github_dark"/>-->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-122%20hrs%2055%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -157,9 +124,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Deep diving into TypeScript, TOML, Python • Refining cross-language configuration and scripting workflows • ⚙️🐍
+Working with TypeScript, Python, Other • Integrating diverse systems and refining data structures • 🐍🔗
 
-<div align="center"><strong>When orchestrating polyglot data flows, prefer binary serialization protocols like Protocol Buffers over JSON for significant performance gains and strict schema enforcement.</strong></div>
+<div align="center"><strong>Leverage OpenAPI specifications to auto-generate strongly typed clients and server stubs across polyglot service boundaries, enforcing contract consistency at compile-time.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
