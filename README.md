@@ -17,49 +17,19 @@ _Building and breaking stuff since 2019._
 </p>
 
 <!--OVERALL_STATS_START-->
-**Code Time:** 122 hrs 55 mins | **From Hello World I've Written:** 3.37 million lines of code
+**Code Time:** 123 hrs 39 mins | **From Hello World I've Written:** 3.38 million lines of code
 <!--OVERALL_STATS_END-->
 <!--BOT_VIEWS:27-->
 
 <div>
 <!-- <img src="https://komarev.com/ghpvc/?username=sans-script" width="0" height="0" />-->
 <!--START_SECTION:hidden_badges-->
-![Code Time](http://img.shields.io/badge/Code%20Time-943%20hrs%2049%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-123%20hrs%2039%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.38%20million%20lines%20of%20code-blue?style=flat)
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 8 hrs 26 mins (95.71%)
-
-✍️ 438 lines written by AI, 1 lines written by hand (99.77% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 12 AI Sessions, 207 AI Prompts
-
-Gemini                   579 lines           ███████████████████████░░   93.24 % 
-Sonnet                   42 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.77% of written lines came from AI
-📝 Concise Prompter — average 374 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
-🚀 High AI Trust — 2.51% of changed lines were hand-edited
-```
-
-
 <!--END_SECTION:hidden_badges-->
 </div>
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 4 months and 26 days
+Up time: 20 years, 4 months and 27 days
 ```
 <!--UP_TIME_END-->
 
@@ -78,8 +48,6 @@ Up time: 20 years, 4 months and 26 days
 <!--<img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sans-script&theme=github_dark"/>-->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-123%20hrs%2039%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -155,9 +123,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Working with TypeScript, Python, Other • Architecting cross-language module communication patterns • 🏗️🔗
+Deep diving into TypeScript, JavaScript, Prisma • Crafting robust, type-safe data access layers for knowledge management systems • 💾💡
 
-<div align="center"><strong>Design idempotent API endpoints to simplify retry logic and maintain data consistency in asynchronous polyglot environments.</strong></div>
+<div align="center"><strong>Isolate Prisma client interactions within dedicated repository layers, allowing your domain logic to remain database-agnostic and testable without direct ORM dependencies.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
