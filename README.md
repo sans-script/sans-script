@@ -17,49 +17,19 @@ _Building and breaking stuff since 2019._
 </p>
 
 <!--OVERALL_STATS_START-->
-**Code Time:** 124 hrs 10 mins | **From Hello World I've Written:** 3.57 million lines of code
+**Code Time:** 126 hrs 19 mins | **From Hello World I've Written:** 3.58 million lines of code
 <!--OVERALL_STATS_END-->
 <!--BOT_VIEWS:27-->
 
 <div>
 <!-- <img src="https://komarev.com/ghpvc/?username=sans-script" width="0" height="0" />-->
 <!--START_SECTION:hidden_badges-->
-![Code Time](http://img.shields.io/badge/Code%20Time-946%20hrs%2021%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-126%20hrs%2019%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.58%20million%20lines%20of%20code-blue?style=flat)
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 3 hrs 24 mins (90.01%)
-
-✍️ 347 lines written by AI, 1 lines written by hand (99.71% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 7 AI Sessions, 55 AI Prompts
-
-Gemini                   345 lines           ████████████████░░░░░░░░░   62.27 % 
-Sonnet                   209 lines           █████████░░░░░░░░░░░░░░░░   37.73 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.71% of written lines came from AI
-📝 Concise Prompter — average 336 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 3.0% of changed lines were hand-edited
-```
-
-
 <!--END_SECTION:hidden_badges-->
 </div>
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 5 months and 1 days
+Up time: 20 years, 5 months and 3 days
 ```
 <!--UP_TIME_END-->
 
@@ -78,8 +48,6 @@ Up time: 20 years, 5 months and 1 days
 <!--<img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sans-script&theme=github_dark"/>-->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-126%20hrs%2019%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -155,9 +123,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Working with TypeScript, JavaScript, Git Config • Configuring development environments and refining initial project structures • ⚙️✨
+Working with Markdown, Python, JavaScript • Iterating on scripting utilities and content structures across active repositories • ⚙️📝
 
-<div align="center"><strong>Leveraging TypeScript's conditional types and `infer` keywords to derive robust API client typings from runtime schema metadata ensures compile-time contract adherence.</strong></div>
+<div align="center"><strong>Design your data contracts between Python and JavaScript with schema validation (e.g., Pydantic on backend, Zod on frontend) to enforce type safety and data integrity.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
