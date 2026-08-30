@@ -17,49 +17,19 @@ _Building and breaking stuff since 2019._
 </p>
 
 <!--OVERALL_STATS_START-->
-**Code Time:** 128 hrs 53 mins | **From Hello World I've Written:** 3.58 million lines of code
+**Code Time:** 134 hrs 39 mins | **From Hello World I've Written:** 3.58 million lines of code
 <!--OVERALL_STATS_END-->
 <!--BOT_VIEWS:27-->
 
 <div>
 <!-- <img src="https://komarev.com/ghpvc/?username=sans-script" width="0" height="0" />-->
 <!--START_SECTION:hidden_badges-->
-![Code Time](http://img.shields.io/badge/Code%20Time-955%20hrs%2025%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-134%20hrs%2039%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.58%20million%20lines%20of%20code-blue?style=flat)
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 11 hrs 40 mins (93.93%)
-
-✍️ 1,000 lines written by AI, 27 lines written by hand (97.37% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 12 AI Sessions, 202 AI Prompts
-
-Gemini                   861 lines           ██████████████████░░░░░░░   72.05 % 
-Sonnet                   334 lines           ███████░░░░░░░░░░░░░░░░░░   27.95 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 97.37% of written lines came from AI
-📝 Concise Prompter — average 372 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
-🔍 Hands-On Reviewer — 57.23% of changed lines were hand-edited
-```
-
-
 <!--END_SECTION:hidden_badges-->
 </div>
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 5 months and 5 days
+Up time: 20 years, 5 months and 6 days
 ```
 <!--UP_TIME_END-->
 
@@ -78,8 +48,6 @@ Up time: 20 years, 5 months and 5 days
 <!--<img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sans-script&theme=github_dark"/>-->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-134%20hrs%2039%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -155,9 +123,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Working with Python, HTML, Markdown • Engaging in foundational refinement across existing repository structures • 🐍🛠️
+Deep diving into Python, Markdown, HTML • Actively engaging with Python for backend scripting and automating Markdown/HTML content generation across diverse repository structures • 🐍🌐
 
-<div align="center"><strong>Architect Python applications with a clean separation of concerns, employing Dependency Inversion to decouple business logic from framework specifics, ensuring testability and maintainability.</strong></div>
+<div align="center"><strong>Implement a clear data serialization layer separate from your rendering logic to fortify component reusability and streamline data integrity checks.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
