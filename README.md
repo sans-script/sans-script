@@ -78,6 +78,8 @@ Up time: 20 years, 5 months and 16 days
 <!--<img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sans-script&theme=github_dark"/>-->
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-140%20hrs%2030%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -89,8 +91,8 @@ Bash                     17 mins             █░░░░░░░░░░�
 JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
 
 🔥 Editors: 
-Antigravity IDE          3 hrs 18 mins       █████████████████░░░░░░░░   68.55 % 
-VS Code                  1 hr 30 mins        ████████░░░░░░░░░░░░░░░░░   31.45 % 
+Antigravity IDE          3 hrs 16 mins       █████████████████░░░░░░░░   68.09 % 
+VS Code                  1 hr 32 mins        ████████░░░░░░░░░░░░░░░░░   31.91 % 
 
 💻 Operating System: 
 Windows                  4 hrs 49 mins       █████████████████████████   100.00 % 
