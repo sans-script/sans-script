@@ -24,42 +24,12 @@ _Building and breaking stuff since 2019._
 <div>
 <!-- <img src="https://komarev.com/ghpvc/?username=sans-script" width="0" height="0" />-->
 <!--START_SECTION:hidden_badges-->
-![Code Time](http://img.shields.io/badge/Code%20Time-963%20hrs%2012%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-140%20hrs%2030%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.75%20million%20lines%20of%20code-blue?style=flat)
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 2 hrs 52 mins (59.5%)
-
-✍️ 316 lines written by AI, 1,427 lines written by hand (18.13% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 6 AI Sessions, 48 AI Prompts
-
-Sonnet                   199 lines           ████████████████░░░░░░░░░   62.78 % 
-Gemini                   118 lines           █████████░░░░░░░░░░░░░░░░   37.22 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 18.13% of written lines came from AI
-📝 Concise Prompter — average 411 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 85.41% of changed lines were hand-edited
-```
-
-
 <!--END_SECTION:hidden_badges-->
 </div>
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 5 months and 16 days
+Up time: 20 years, 5 months and 17 days
 ```
 <!--UP_TIME_END-->
 
@@ -78,8 +48,6 @@ Up time: 20 years, 5 months and 16 days
 <!--<img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sans-script&theme=github_dark"/>-->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-140%20hrs%2030%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -155,9 +123,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Working with TypeScript, Markdown, Python • Developing type-safe utilities and structured documentation for application interfaces • 💻📝
+Working with TypeScript, Markdown, Python • Developing system logic, data handling, and documentation management across active repositories • ⚙️🐍
 
-<div align="center"><strong>For polyglot systems, formalize data contracts with a schema-first approach to enforce type consistency and minimize integration overhead across language boundaries.</strong></div>
+<div align="center"><strong>Formalize data contracts with strict schema validation at every system boundary to prevent subtle type mismatches from propagating errors in distributed architectures.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
