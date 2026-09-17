@@ -24,42 +24,12 @@ _Building and breaking stuff since 2019._
 <div>
 <!-- <img src="https://komarev.com/ghpvc/?username=sans-script" width="0" height="0" />-->
 <!--START_SECTION:hidden_badges-->
-![Code Time](http://img.shields.io/badge/Code%20Time-968%20hrs%2032%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-140%20hrs%2057%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.95%20million%20lines%20of%20code-blue?style=flat)
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 26 mins (8.16%)
-
-✍️ 4 lines written by AI, 40,210 lines written by hand (0.01% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 30 AI Prompts
-
-Sonnet                   40 lines            █████████████████████░░░░   85.11 % 
-Gemini                   7 lines             ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.01% of written lines came from AI
-📚 Verbose Prompter — average 1,897 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🔍 Hands-On Reviewer — 99.99% of changed lines were hand-edited
-```
-
-
 <!--END_SECTION:hidden_badges-->
 </div>
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 5 months and 23 days
+Up time: 20 years, 5 months and 24 days
 ```
 <!--UP_TIME_END-->
 
@@ -78,8 +48,6 @@ Up time: 20 years, 5 months and 23 days
 <!--<img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sans-script&theme=github_dark"/>-->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-140%20hrs%2057%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -156,9 +124,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Working with Python, JSON, Bash • Engineering utilities for visual asset decomposition, knowledge base integration, and script orchestration • 🎨🧠
+Working with Python, JSON, Bash • Exploring scripting workflows and data integration patterns for knowledge base systems • 🐍 📂 ⚙️
 
-<div align="center"><strong>Leverage idempotency patterns in your Bash and Python automation scripts to ensure consistent system states even after multiple executions.</strong></div>
+<div align="center"><strong>Employ declarative data transformation pipelines in Python, leveraging JSON Schema for strict contract enforcement at integration boundaries, not just at rest.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
