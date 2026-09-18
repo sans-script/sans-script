@@ -17,49 +17,19 @@ _Building and breaking stuff since 2019._
 </p>
 
 <!--OVERALL_STATS_START-->
-**Code Time:** 140 hrs 57 mins | **From Hello World I've Written:** 3.95 million lines of code
+**Code Time:** 142 hrs 2 mins | **From Hello World I've Written:** 3.95 million lines of code
 <!--OVERALL_STATS_END-->
 <!--BOT_VIEWS:27-->
 
 <div>
 <!-- <img src="https://komarev.com/ghpvc/?username=sans-script" width="0" height="0" />-->
 <!--START_SECTION:hidden_badges-->
-![Code Time](http://img.shields.io/badge/Code%20Time-970%20hrs%2058%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-142%20hrs%202%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.95%20million%20lines%20of%20code-blue?style=flat)
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 1 hr 8 mins (17.12%)
-
-✍️ 121 lines written by AI, 40,019 lines written by hand (0.3% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 9 AI Prompts
-
-Gemini                   124 lines           ███████████████████░░░░░░   75.61 % 
-Sonnet                   40 lines            ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.3% of written lines came from AI
-📚 Verbose Prompter — average 1,525 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 99.7% of changed lines were hand-edited
-```
-
-
 <!--END_SECTION:hidden_badges-->
 </div>
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 5 months and 24 days
+Up time: 20 years, 5 months and 25 days
 ```
 <!--UP_TIME_END-->
 
@@ -78,8 +48,6 @@ Up time: 20 years, 5 months and 24 days
 <!--<img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sans-script&theme=github_dark"/>-->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-142%20hrs%202%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -156,9 +124,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Working with Python, JSON, Bash • Exploring scripting workflows and data integration patterns for knowledge base systems • 🐍 📂 ⚙️
+Working with TypeScript, JSON, Bash • Developing utilities for sprite sheet decomposition and system integration scripting • 🖼️ ⚙️
 
-<div align="center"><strong>Employ declarative data transformation pipelines in Python, leveraging JSON Schema for strict contract enforcement at integration boundaries, not just at rest.</strong></div>
+<div align="center"><strong>Leverage advanced TypeScript conditional types to build polymorphic data structures, ensuring robust compile-time safety across diverse JSON configurations and Bash script outputs.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
