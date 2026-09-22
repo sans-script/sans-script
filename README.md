@@ -17,48 +17,19 @@ _Building and breaking stuff since 2019._
 </p>
 
 <!--OVERALL_STATS_START-->
-**Code Time:** 142 hrs 2 mins | **From Hello World I've Written:** 3.95 million lines of code
+**Code Time:** 142 hrs 2 mins | **From Hello World I've Written:** 3.96 million lines of code
 <!--OVERALL_STATS_END-->
 <!--BOT_VIEWS:27-->
 
 <div>
 <!-- <img src="https://komarev.com/ghpvc/?username=sans-script" width="0" height="0" />-->
 <!--START_SECTION:hidden_badges-->
-![Code Time](http://img.shields.io/badge/Code%20Time-970%20hrs%2058%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-142%20hrs%202%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.96%20million%20lines%20of%20code-blue?style=flat)
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 1 hr 5 mins (22.29%)
-
-✍️ 117 lines written by AI, 1,146 lines written by hand (9.26% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 8 AI Prompts
-
-Gemini                   117 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 9.26% of written lines came from AI
-📄 Detailed Prompter — average 1,390 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 91.48% of changed lines were hand-edited
-```
-
-
 <!--END_SECTION:hidden_badges-->
 </div>
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 5 months and 28 days
+Up time: 20 years, 5 months and 29 days
 ```
 <!--UP_TIME_END-->
 
@@ -77,8 +48,6 @@ Up time: 20 years, 5 months and 28 days
 <!--<img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sans-script&theme=github_dark"/>-->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-142%20hrs%202%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -154,9 +123,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Working with TypeScript, Bash, Python • Maintaining foundational scripts across repositories and exploring type-safe automation patterns • 🛠️🔄
+Working with TypeScript, Bash, Python • Orchestrating multi-language workflows across diverse project domains • ⚙️ 🚀
 
-<div align="center"><strong>Guard against system fragility by rigorously defining and validating inter-service data contracts across heterogeneous language boundaries.</strong></div>
+<div align="center"><strong>Ensure cross-language data contracts are rigorously schema-validated at runtime to prevent silent integration failures.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
