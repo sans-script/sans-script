@@ -17,49 +17,19 @@ _Building and breaking stuff since 2019._
 </p>
 
 <!--OVERALL_STATS_START-->
-**Code Time:** 143 hrs 27 mins | **From Hello World I've Written:** 3.90 million lines of code
+**Code Time:** 144 hrs 15 mins | **From Hello World I've Written:** 3.90 million lines of code
 <!--OVERALL_STATS_END-->
 <!--BOT_VIEWS:27-->
 
 <div>
 <!-- <img src="https://komarev.com/ghpvc/?username=sans-script" width="0" height="0" />-->
 <!--START_SECTION:hidden_badges-->
-![Code Time](http://img.shields.io/badge/Code%20Time-975%20hrs%2053%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-144%20hrs%2015%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.90%20million%20lines%20of%20code-blue?style=flat)
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 3 hrs 18 mins (44.5%)
-
-✍️ 416 lines written by AI, 2,183 lines written by hand (16.01% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 157 AI Prompts
-
-Gemini                   373 lines           ████████████████████░░░░░   80.22 % 
-Sonnet                   92 lines            █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 16.01% of written lines came from AI
-📝 Concise Prompter — average 233 characters per prompt
-🔁 Iterative Prompter — average 39 prompts per session
-🔍 Hands-On Reviewer — 90.32% of changed lines were hand-edited
-```
-
-
 <!--END_SECTION:hidden_badges-->
 </div>
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 5 months and 30 days
+Up time: 20 years, 6 months and 0 days
 ```
 <!--UP_TIME_END-->
 
@@ -78,8 +48,6 @@ Up time: 20 years, 5 months and 30 days
 <!--<img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sans-script&theme=github_dark"/>-->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-144%20hrs%2015%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -157,9 +125,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Deep diving into TypeScript, Git, PowerShell • Building robust data acquisition pipelines for digital thermal systems on Windows • 💻⚙️
+Deep diving into TypeScript, Python, Git • Architecting data management solutions and refining scripting workflows • 📊⚙️
 
-<div align="center"><strong>Design data acquisition pipelines with backpressure mechanisms and idempotent processing stages to gracefully handle transient network failures and prevent data loss in high-throughput sensor environments.</strong></div>
+<div align="center"><strong>Enforce immutability within TypeScript state and Python data models to simplify concurrency and trace data flow across service boundaries.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
