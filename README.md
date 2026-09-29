@@ -17,49 +17,19 @@ _Building and breaking stuff since 2019._
 </p>
 
 <!--OVERALL_STATS_START-->
-**Code Time:** 144 hrs 15 mins | **From Hello World I've Written:** 3.92 million lines of code
+**Code Time:** 144 hrs 21 mins | **From Hello World I've Written:** 3.92 million lines of code
 <!--OVERALL_STATS_END-->
 <!--BOT_VIEWS:27-->
 
 <div>
 <!-- <img src="https://komarev.com/ghpvc/?username=sans-script" width="0" height="0" />-->
 <!--START_SECTION:hidden_badges-->
-![Code Time](http://img.shields.io/badge/Code%20Time-980%20hrs%2030%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-144%20hrs%2021%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.92%20million%20lines%20of%20code-blue?style=flat)
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 2 hrs 19 mins (24.12%)
-
-✍️ 299 lines written by AI, 4,107 lines written by hand (6.79% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 156 AI Prompts
-
-Gemini                   256 lines           ██████████████████░░░░░░░   73.56 % 
-Sonnet                   92 lines            ███████░░░░░░░░░░░░░░░░░░   26.44 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 6.79% of written lines came from AI
-📝 Concise Prompter — average 255 characters per prompt
-🔁 Iterative Prompter — average 52 prompts per session
-🔍 Hands-On Reviewer — 95.0% of changed lines were hand-edited
-```
-
-
 <!--END_SECTION:hidden_badges-->
 </div>
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 6 months and 4 days
+Up time: 20 years, 6 months and 5 days
 ```
 <!--UP_TIME_END-->
 
@@ -78,8 +48,6 @@ Up time: 20 years, 6 months and 4 days
 <!--<img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sans-script&theme=github_dark"/>-->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-144%20hrs%2021%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -158,9 +126,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Deep diving into Python, TypeScript, Text • Developing data-driven applications, processing graphical assets, and structuring information systems • ⚙️ 🖼️
+Deep diving into Python, TypeScript, Text • Architecting data flows and interactive UIs for knowledge management and asset processing • 🧠🛠️
 
-<div align="center"><strong>To ensure system resilience and scalability across polyglot services, implement event-driven architectures with robust message queues that decouple data producers from consumers.</strong></div>
+<div align="center"><strong>Bridge Python data models and TypeScript interfaces with a single source of truth for schema definitions to enforce end-to-end type safety.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
