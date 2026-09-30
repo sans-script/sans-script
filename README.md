@@ -17,48 +17,19 @@ _Building and breaking stuff since 2019._
 </p>
 
 <!--OVERALL_STATS_START-->
-**Code Time:** 144 hrs 21 mins | **From Hello World I've Written:** 3.92 million lines of code
+**Code Time:** 144 hrs 21 mins | **From Hello World I've Written:** 4.05 million lines of code
 <!--OVERALL_STATS_END-->
 <!--BOT_VIEWS:27-->
 
 <div>
 <!-- <img src="https://komarev.com/ghpvc/?username=sans-script" width="0" height="0" />-->
 <!--START_SECTION:hidden_badges-->
-![Code Time](http://img.shields.io/badge/Code%20Time-981%20hrs%2055%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-144%20hrs%2021%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.05%20million%20lines%20of%20code-blue?style=flat)
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 54 mins (10.85%)
-
-✍️ 0 lines written by AI, 3,443 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 70 AI Prompts
-
-Gemini                   62 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 220 characters per prompt
-🔁 Iterative Prompter — average 35 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
-```
-
-
 <!--END_SECTION:hidden_badges-->
 </div>
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 6 months and 5 days
+Up time: 20 years, 6 months and 6 days
 ```
 <!--UP_TIME_END-->
 
@@ -77,8 +48,6 @@ Up time: 20 years, 6 months and 5 days
 <!--<img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sans-script&theme=github_dark"/>-->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-144%20hrs%2021%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -156,9 +125,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Deep diving into Python, TypeScript, Text • Architecting data flows and interactive UIs for knowledge management and asset processing • 🧠🛠️
+Deep diving into Python, Java, Text • Exploring cross-language utility design and data parsing patterns for resource management • 🛠️⚙️
 
-<div align="center"><strong>Bridge Python data models and TypeScript interfaces with a single source of truth for schema definitions to enforce end-to-end type safety.</strong></div>
+<div align="center"><strong>When designing polyglot systems, prioritize resilient data contracts and explicit serialization protocols over implicit inter-service dependencies to ensure robust runtime integrity.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
