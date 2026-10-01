@@ -77,24 +77,25 @@ Up time: 20 years, 6 months and 6 days
 <!--<img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sans-script&theme=github_dark"/>-->
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-144%20hrs%2021%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   6 hrs 36 mins       ████████████████████░░░░░   78.83 % 
-Java                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-Text                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-SQL                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Python                   4 hrs 23 mins       █████████████░░░░░░░░░░░░   53.05 % 
+Rust                     2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   25.73 % 
+Java                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+Text                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+SQL                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 17 mins       █████████████████████████   98.96 % 
-Antigravity CLI          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+VS Code                  8 hrs 15 mins       █████████████████████████   99.94 % 
 Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Windows                  5 hrs               ███████████████░░░░░░░░░░   59.76 % 
-WSL                      3 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   40.24 % 
+Windows                  5 hrs               ███████████████░░░░░░░░░░   60.58 % 
+WSL                      3 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   39.42 % 
 ```
 
 
