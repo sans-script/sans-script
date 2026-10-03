@@ -17,49 +17,19 @@ _Building and breaking stuff since 2019._
 </p>
 
 <!--OVERALL_STATS_START-->
-**Code Time:** 144 hrs 21 mins | **From Hello World I've Written:** 4.08 million lines of code
+**Code Time:** 147 hrs 35 mins | **From Hello World I've Written:** 4.11 million lines of code
 <!--OVERALL_STATS_END-->
 <!--BOT_VIEWS:27-->
 
 <div>
 <!-- <img src="https://komarev.com/ghpvc/?username=sans-script" width="0" height="0" />-->
 <!--START_SECTION:hidden_badges-->
-![Code Time](http://img.shields.io/badge/Code%20Time-987%20hrs%2034%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-147%20hrs%2035%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.11%20million%20lines%20of%20code-blue?style=flat)
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 3 hrs 19 mins (36.26%)
-
-✍️ 2,592 lines written by AI, 1,981 lines written by hand (56.68% AI-written)
-
-🔤 1,094,335 Input Tokens, 291,922 Output Tokens
-
-💵 $20.61 Estimated AI Cost This Week
-
-🧠 8 AI Sessions, 35 AI Prompts
-
-Opus                     2,735 lines         █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 56.68% of written lines came from AI
-📄 Detailed Prompter — average 948 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 47.95% of changed lines were hand-edited
-```
-
-
 <!--END_SECTION:hidden_badges-->
 </div>
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 6 months and 8 days
+Up time: 20 years, 6 months and 9 days
 ```
 <!--UP_TIME_END-->
 
@@ -78,8 +48,6 @@ Up time: 20 years, 6 months and 8 days
 <!--<img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sans-script&theme=github_dark"/>-->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-147%20hrs%2035%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -157,9 +125,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Working with Rust, Python, Java • Prototyping RAG components and exploring multi-language service interaction • 🧠⚙️
+Working with Python, Rust, Other • Refining hybrid architectures for AI/ML pipelines • 🧠⚙️
 
-<div align="center"><strong>Optimize RAG component interoperability by carefully managing cross-language memory ownership and concurrency patterns, preventing costly data marshaling and race conditions in high-throughput retrieval pipelines.</strong></div>
+<div align="center"><strong>For high-performance RAG pipelines, offload compute-intensive indexing and retrieval logic to Rust, carefully managing data serialization and asynchronous boundaries with Python.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
