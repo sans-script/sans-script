@@ -79,24 +79,26 @@ Up time: 20 years, 6 months and 10 days
 <!--<img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sans-script&theme=github_dark"/>-->
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-153%20hrs%2058%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   28.62 % 
-Markdown                 2 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
-Rust                     2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-Other                    1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-Java                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Python                   4 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+Markdown                 3 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+Rust                     2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+TypeScript               1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Other                    1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 12 mins       ██████████████░░░░░░░░░░░   55.97 % 
-Claude Code              6 hrs 27 mins       ███████████░░░░░░░░░░░░░░   43.99 % 
-Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Claude Code              8 hrs 56 mins       █████████████░░░░░░░░░░░░   50.38 % 
+VS Code                  8 hrs 48 mins       ████████████░░░░░░░░░░░░░   49.59 % 
+Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Windows                  11 hrs 21 mins      ███████████████████░░░░░░   77.33 % 
-WSL                      3 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
+Windows                  11 hrs 30 mins      ████████████████░░░░░░░░░   64.81 % 
+WSL                      6 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   35.19 % 
 ```
 
 
