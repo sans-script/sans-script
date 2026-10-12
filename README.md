@@ -24,43 +24,12 @@ _Building and breaking stuff since 2019._
 <div>
 <!-- <img src="https://komarev.com/ghpvc/?username=sans-script" width="0" height="0" />-->
 <!--START_SECTION:hidden_badges-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C005%20hrs%2020%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-160%20hrs%204%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.20%20million%20lines%20of%20code-blue?style=flat)
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 10 hrs 36 mins (76.43%)
-
-✍️ 14,805 lines written by AI, 755 lines written by hand (95.15% AI-written)
-
-🔤 4,080,933 Input Tokens, 1,452,383 Output Tokens
-
-💵 $157.00 Estimated AI Cost This Week
-
-🧠 9 AI Sessions, 104 AI Prompts
-
-Opus                     14,618 lines        ████████████████████████░   97.56 % 
-Sonnet                   366 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 95.15% of written lines came from AI
-📄 Detailed Prompter — average 1,055 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 8.4% of changed lines were hand-edited
-```
-
-
 <!--END_SECTION:hidden_badges-->
 </div>
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 6 months and 17 days
+Up time: 20 years, 6 months and 18 days
 ```
 <!--UP_TIME_END-->
 
@@ -79,8 +48,6 @@ Up time: 20 years, 6 months and 17 days
 <!--<img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sans-script&theme=github_dark"/>-->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-160%20hrs%204%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -157,9 +124,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Building with Markdown, TypeScript, JavaScript • Developing extensible scripting solutions and structured content workflows • ⚙️📝
+Deep diving into Markdown, TypeScript, Python • Exploring polyglot tooling and documentation strategies • 🐍🟦
 
-<div align="center"><strong>Enforce domain invariants by implementing branded types in TypeScript, providing nominal type safety for primitives across module boundaries without runtime overhead.</strong></div>
+<div align="center"><strong>Aligning runtime Python schemas with compile-time TypeScript interfaces prevents critical data mismatches across service boundaries.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
