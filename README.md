@@ -79,23 +79,25 @@ Up time: 20 years, 6 months and 17 days
 <!--<img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sans-script&theme=github_dark"/>-->
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-160%20hrs%204%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   27.11 % 
-TypeScript               2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
-JavaScript               1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-Rust                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-Java                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+Markdown                 3 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
+TypeScript               3 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
+Python                   2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+JavaScript               1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Rust                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 57 mins       ████████████████░░░░░░░░░   62.33 % 
-VS Code                  4 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   37.67 % 
+Claude Code              9 hrs 57 mins       ██████████████████░░░░░░░   71.75 % 
+VS Code                  3 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   28.25 % 
 
 💻 Operating System: 
-Windows                  9 hrs 45 mins       ███████████████████░░░░░░   76.46 % 
-WSL                      3 hrs               ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
+Windows                  13 hrs 48 mins      █████████████████████████   99.48 % 
+WSL                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
 
 
