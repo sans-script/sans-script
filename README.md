@@ -24,43 +24,12 @@ _Building and breaking stuff since 2019._
 <div>
 <!-- <img src="https://komarev.com/ghpvc/?username=sans-script" width="0" height="0" />-->
 <!--START_SECTION:hidden_badges-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C005%20hrs%2020%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-160%20hrs%204%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.20%20million%20lines%20of%20code-blue?style=flat)
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 9 hrs 48 mins (75.4%)
-
-✍️ 14,580 lines written by AI, 755 lines written by hand (95.08% AI-written)
-
-🔤 3,933,098 Input Tokens, 1,399,701 Output Tokens
-
-💵 $150.96 Estimated AI Cost This Week
-
-🧠 7 AI Sessions, 93 AI Prompts
-
-Opus                     14,387 lines        ████████████████████████░   97.52 % 
-Sonnet                   366 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 95.08% of written lines came from AI
-📄 Detailed Prompter — average 836 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 8.52% of changed lines were hand-edited
-```
-
-
 <!--END_SECTION:hidden_badges-->
 </div>
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 6 months and 18 days
+Up time: 20 years, 6 months and 19 days
 ```
 <!--UP_TIME_END-->
 
@@ -79,8 +48,6 @@ Up time: 20 years, 6 months and 18 days
 <!--<img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sans-script&theme=github_dark"/>-->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-160%20hrs%204%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -156,9 +123,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Deep diving into Markdown, TypeScript, Python • Exploring polyglot tooling and documentation strategies • 🐍🟦
+Actively engaging with Markdown, TypeScript, Python • Building interactive web applications and data processing tools across [supersecom](https://github.com/SEMIT-SUAS/supersecom), [echo](https://github.com/sans-script/echo), and [tracker](https://github.com/sans-script/tracker) • 💻⚙️
 
-<div align="center"><strong>Aligning runtime Python schemas with compile-time TypeScript interfaces prevents critical data mismatches across service boundaries.</strong></div>
+<div align="center"><strong>Leverage TypeScript's advanced conditional types and Python's runtime type checking to enforce rigorous data contracts across service boundaries, preventing integration surprises.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
