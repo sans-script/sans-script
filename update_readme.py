@@ -8,60 +8,55 @@ from datetime import datetime
 from dateutil.relativedelta import relativedelta
 import google.generativeai as genai
 
-# Configure the Gemini API using the environment variable directly
-genai.configure(api_key=os.environ["GEMINI_API_KEY"])
-
 # Model configuration
 generation_config = {
     "temperature": 1,
     "top_p": 0.9,
     "top_k": 50,
     "max_output_tokens": 8192,
-    "response_mime_type": "text/plain",
+    "response_mime_type": "application/json",
 }
 
-model = genai.GenerativeModel(
-    model_name="gemini-2.5-flash",
-    generation_config=generation_config,
-)
-
-# Start a chat session
-chat_session = model.start_chat(history=[])
+# WakaTime "languages" that say nothing about what is being built
+NON_CODE_LANGUAGES = {'markdown', 'json', 'yaml', 'text', 'toml', 'ini', 'xml', 'csv', 'git config', 'gitignore file', 'other'}
 
 def get_github_activity(username='sans-script'):
     """Get recent GitHub activity and commit messages from the GitHub API"""
     try:
         url = f'https://api.github.com/users/{username}/events?per_page=100'
         req = urllib.request.Request(url)
-        
+
         req.add_header('Accept', 'application/vnd.github+json')
         req.add_header('X-GitHub-Api-Version', '2022-11-28')
         req.add_header('User-Agent', 'sans-script-readme-updater')
-        
+
         github_token = os.environ.get('GH_TOKEN') or os.environ.get('ACCESS_TOKEN')
         if github_token:
             req.add_header('Authorization', f'Bearer {github_token}')
-        
+
         with urllib.request.urlopen(req, timeout=10) as response:
             events = json.loads(response.read().decode())
-        
-        repos = set()
+
+        # Authenticated requests also return private events; never expose those
+        events = [e for e in events if e.get('public')]
+
+        repos = []  # most recent first; only repos actually worked on (not starred)
         event_types = []
         commits_count = 0
         commit_messages = []
-        
+
         for event in events[:50]:
             event_type = event.get('type', '')
             repo_name = event.get('repo', {}).get('name', '')
-            
-            if repo_name:
-                repos.add(repo_name)
-            
+
+            if repo_name and event_type in ('PushEvent', 'PullRequestEvent', 'CreateEvent') and repo_name not in repos:
+                repos.append(repo_name)
+
             if event_type == 'PushEvent':
                 commits = event.get('payload', {}).get('commits', [])
                 commits_count += len(commits)
                 event_types.append('coding')
-                
+
                 for commit in commits:
                     msg = commit.get('message', '')
                     if msg and not msg.startswith('Merge '):
@@ -75,10 +70,10 @@ def get_github_activity(username='sans-script'):
                 event_types.append('created')
             elif event_type == 'WatchEvent':
                 event_types.append('starred')
-        
+
         print(f"✓ GitHub activity: {len(repos)} repos, {commits_count} commits, {len(event_types)} events")
         return {
-            'repos': list(repos)[:3],
+            'repos': repos[:3],
             'commits_count': commits_count,
             'activity_types': list(set(event_types)),
             'recent_commits': commit_messages[:6]
@@ -90,37 +85,44 @@ def get_github_activity(username='sans-script'):
         print(f"Could not fetch GitHub activity: {e}")
         return {'repos': [], 'commits_count': 0, 'activity_types': [], 'recent_commits': []}
 
+def parse_minutes(text):
+    """'1 hr 38 mins' -> 98"""
+    hrs = re.search(r'(\d+)\s*hrs?', text)
+    mins = re.search(r'(\d+)\s*mins?', text)
+    return (int(hrs.group(1)) * 60 if hrs else 0) + (int(mins.group(1)) if mins else 0)
+
+def parse_waka_block(waka_content, header):
+    """Return [(name, minutes)] for the rows listed under a WakaTime header"""
+    block = re.search(re.escape(header) + r'.*?\n(.*?)(?:\n\s*\n|$)', waka_content, re.DOTALL)
+    if not block:
+        return []
+    rows = re.findall(r'^(\S.*?)\s{2,}(.+?)\s{2,}[█░]', block.group(1), re.MULTILINE)
+    return [(name.strip(), parse_minutes(time)) for name, time in rows]
+
 def get_wakatime_data(file_path):
     """Extract real programming data from WakaTime section"""
     try:
-        with open(file_path, 'r') as file:
+        with open(file_path, 'r', encoding='utf-8') as file:
             content = file.read()
-        
+
         waka_section = re.search(r'<!--START_SECTION:waka-->(.*?)<!--END_SECTION:waka-->', content, re.DOTALL)
         if waka_section:
             waka_content = waka_section.group(1)
-            
-            languages = re.findall(r'([\w\s+#]+?)\s+(\d+\s+(?:hrs?|mins?).*?)\s+([\d.]+)\s*%', waka_content)
-            
-            total_time_match = re.search(r'(\d+)\s+(hrs?|mins?)', waka_content)
-            total_minutes = 0
-            if total_time_match:
-                value = int(total_time_match.group(1))
-                unit = total_time_match.group(2)
-                total_minutes = value * 60 if 'hr' in unit else value
-            
-            editors = re.findall(r'🔥 Editors:.*?(\w+(?:\s+\w+)*)\s+\d+\s+(?:hrs?|mins?)', waka_content, re.DOTALL)
-            os_match = re.findall(r'💻 Operating System:.*?(\w+)', waka_content, re.DOTALL)
-            
+            languages = [name for name, _ in parse_waka_block(waka_content, 'Programming Languages:')
+                         if name.lower() not in NON_CODE_LANGUAGES]
+            editors = parse_waka_block(waka_content, 'Editors:')
+            os_rows = parse_waka_block(waka_content, 'Operating System:')
+
             return {
-                'languages': languages[:3] if languages else [],
-                'editor': editors[0].strip() if editors else 'VS Code',
-                'os': os_match[0].strip() if os_match else 'WSL',
-                'total_minutes': total_minutes
+                'languages': languages[:3],
+                'editor': editors[0][0] if editors else 'VS Code',
+                'os': os_rows[0][0] if os_rows else 'WSL',
+                # Each editor row is a slice of the week, so their sum is the weekly total
+                'total_minutes': sum(minutes for _, minutes in editors)
             }
     except Exception as e:
         print(f"Could not extract WakaTime data: {e}")
-    
+
     return {'languages': [], 'editor': 'VS Code', 'os': 'WSL', 'total_minutes': 0}
 
 # Fetch metrics from active APIs and files
@@ -139,46 +141,59 @@ def get_profile_views(username='sans-script'):
         print(f"Could not fetch profile views: {e}")
     return "0"
 
-github_activity = get_github_activity()
-wakatime_data = get_wakatime_data('README.md')
-# profile_views = get_profile_views()
+def add_repo_links(text, repos, username='sans-script'):
+    """Add GitHub links to repository names mentioned in the text"""
+    for repo in repos:
+        repo_short = repo.split('/')[-1]
+        text = re.sub(r'`' + re.escape(repo_short) + r'`', repo_short, text, flags=re.IGNORECASE)
+        pattern = r'(?<!\[)\b' + re.escape(repo_short) + r'\b(?!\])'
+        replacement = f'[{repo_short}](https://github.com/{repo})'
+        text = re.sub(pattern, replacement, text, flags=re.IGNORECASE, count=1)
 
-# Build context from tracked metrics
-top_langs = [lang[0].strip() for lang in wakatime_data['languages']]
-languages_text = ", ".join(top_langs) if top_langs else "TypeScript, Node.js"
-repos_text = ", ".join([repo.split('/')[-1] for repo in github_activity['repos']]) if github_activity['repos'] else ""
-total_minutes = wakatime_data.get('total_minutes', 0)
+    return text
 
-if total_minutes < 60:
-    activity_level = "light"
-    activity_prefix = "Quick coding session with"
-elif total_minutes < 180:
-    activity_level = "moderate"
-    activity_prefix = "Working with"
-else:
-    activity_level = "active"
-    activity_prefix = "Deep diving into"
+def generate_model_response(file_path):
+    """Ask Gemini for the focus and tip, render the section; None if anything fails"""
+    github_activity = get_github_activity()
+    wakatime_data = get_wakatime_data(file_path)
+    # profile_views = get_profile_views()
 
-if repos_text and github_activity['commits_count'] > 0:
-    activity_context = f" Active repositories: {repos_text}."
-    commits_info = f" Made {github_activity['commits_count']} commits recently."
-elif repos_text:
-    activity_context = f" Active repositories: {repos_text}."
-    commits_info = ""
-else:
-    no_activity_messages = [
-        " Taking a break from public repos this week.",
-        " Focusing on local development.",
-        " Working on private projects.",
-        " Experimenting offline."
-    ]
-    activity_context = random.choice(no_activity_messages)
-    commits_info = ""
+    # Build context from tracked metrics
+    top_langs = wakatime_data['languages']
+    languages_text = ", ".join(top_langs) if top_langs else "TypeScript, Node.js"
+    repos_text = ", ".join([repo.split('/')[-1] for repo in github_activity['repos']]) if github_activity['repos'] else ""
+    total_minutes = wakatime_data.get('total_minutes', 0)
 
-recent_commits_list = github_activity['recent_commits']
-commits_context = "\n".join(recent_commits_list) if recent_commits_list else "No recent public commit messages available."
+    if total_minutes < 60:
+        activity_level = "light"
+        activity_prefix = "Quick coding session with"
+    elif total_minutes < 180:
+        activity_level = "moderate"
+        activity_prefix = "Working with"
+    else:
+        activity_level = "active"
+        activity_prefix = "Deep diving into"
 
-prompt = f"""
+    if repos_text and github_activity['commits_count'] > 0:
+        activity_context = f" Active repositories: {repos_text}."
+        commits_info = f" Made {github_activity['commits_count']} commits recently."
+    elif repos_text:
+        activity_context = f" Active repositories: {repos_text}."
+        commits_info = ""
+    else:
+        no_activity_messages = [
+            " Taking a break from public repos this week.",
+            " Focusing on local development.",
+            " Working on private projects.",
+            " Experimenting offline."
+        ]
+        activity_context = random.choice(no_activity_messages)
+        commits_info = ""
+
+    recent_commits_list = github_activity['recent_commits']
+    commits_context = "\n".join(recent_commits_list) if recent_commits_list else "No recent public commit messages available."
+
+    prompt = f"""
 Generate a compact, highly specific "Dev Status Report" for a Software Developer's GitHub README profile based on REAL data.
 
 Real data from this week:
@@ -196,43 +211,45 @@ CRITICAL INSTRUCTIONS:
 4. For the RPG tip: It MUST be an advanced engineering pro-tip tailored directly to the architecture implied by the languages ({languages_text}) or commits.
 5. CRITICAL: Strictly AVOID basic, cliché tutorial advice (e.g., "use const instead of let", "use semantic HTML", "remember to write tests"). Focus on clean code architecture, performance optimization, concurrency, or advanced type mechanics.
 6. Write the tip like an RPG loading screen hint - just a single impactful sentence with no prefix, no list format, and no emoji.
+7. Only mention repositories from the data above, by their exact name, without markdown links.
 
-Format your response EXACTLY like this (3-4 lines total):
-
-### 🎯 Current Focus
-{activity_prefix} {languages_text} • [Deduce a highly specific technical action or focus area here based on commits] • [1-2 relevant emoji]
-
-<div align="center"><strong>[The advanced RPG loading screen programming tip here]</strong></div>
+Respond with ONLY a JSON object with exactly these keys:
+- "focus": one short phrase (max 15 words) with the highly specific technical action or focus area deduced from the commits. It is shown right after "{activity_prefix} {languages_text} •", so do not repeat the languages or start with a similar verb.
+- "emoji": 1-2 relevant emoji.
+- "tip": the advanced RPG loading screen programming tip.
 """
 
-response = chat_session.send_message(prompt)
+    try:
+        genai.configure(api_key=os.environ["GEMINI_API_KEY"])
+        model = genai.GenerativeModel(
+            model_name="gemini-2.5-flash",
+            generation_config=generation_config,
+        )
+        data = json.loads(model.generate_content(prompt).text)
+        focus, emoji, tip = (" ".join(str(data[key]).split()) for key in ('focus', 'emoji', 'tip'))
+        if not (focus and tip):
+            raise ValueError(f"empty fields in {data}")
+    except Exception as e:
+        print(f"Could not generate model response, keeping the previous one: {e}")
+        return None
 
-def add_repo_links(text, repos, username='sans-script'):
-    """Add GitHub links to repository names mentioned in the text"""
-    for repo in repos:
-        repo_short = repo.split('/')[-1]
-        text = re.sub(r'`' + re.escape(repo_short) + r'`', repo_short, text, flags=re.IGNORECASE)
-        pattern = r'(?<!\[)\b' + re.escape(repo_short) + r'\b(?!\])'
-        replacement = f'[{repo_short}](https://github.com/{repo})'
-        text = re.sub(pattern, replacement, text, flags=re.IGNORECASE, count=1)
-    
-    return text
-
-response_text = response.text
-if github_activity['repos']:
-    response_text = add_repo_links(response_text, github_activity['repos'])
-
+    focus = add_repo_links(focus, github_activity['repos'])
+    return (
+        f"### 🎯 Current Focus\n"
+        f"{activity_prefix} {languages_text} • {focus} • {emoji}\n\n"
+        f'<div align="center"><strong>{tip}</strong></div>'
+    )
 
 
 def update_overall_stats_section(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         content = file.read()
-        
+
     hidden_section = re.search(r'<!--START_SECTION:hidden_badges-->(.*?)<!--END_SECTION:hidden_badges-->', content, re.DOTALL)
-    
+
     code_time = "Unknown"
     lines_of_code = "Unknown"
-    
+
     if hidden_section:
         badges = hidden_section.group(1).strip().split('\n')
         for badge in badges:
@@ -261,7 +278,7 @@ def update_overall_stats_section(file_path):
     # bot_views_match = re.search(r'<!--BOT_VIEWS:\s*(\d+)\s*-->', content)
     # bot_views = int(bot_views_match.group(1)) if bot_views_match else 0
     # bot_views += 1
-    
+
     # try:
     #     raw_views = int(str(profile_views).replace(',', ''))
     #     real_profile_views = str(max(0, raw_views - bot_views))
@@ -270,17 +287,17 @@ def update_overall_stats_section(file_path):
 
     if code_time != "Unknown" and lines_of_code != "Unknown":
         overall_stats_text = f"**Code Time:** {code_time} | **From Hello World I've Written:** {lines_of_code}" # | **Profile Views:** {real_profile_views}"
-        
+
         # if bot_views_match:
         #     content = content[:bot_views_match.start()] + f"<!--BOT_VIEWS:{bot_views}-->" + content[bot_views_match.end():]
         # else:
         #     content = re.sub(r'(<!--OVERALL_STATS_END-->)', r'\1\n<!--BOT_VIEWS:' + str(bot_views) + r'-->', content, count=1)
-            
+
         # Update the plain text section
         overall_section = re.search(r'<!--OVERALL_STATS_START-->(.*?)<!--OVERALL_STATS_END-->', content, re.DOTALL)
         if overall_section:
             content = content[:overall_section.start(1)] + "\n" + overall_stats_text + "\n" + content[overall_section.end(1):]
-            
+
         # Empty the hidden badges section so they don't show up on GitHub
         hidden_section = re.search(r'<!--START_SECTION:hidden_badges-->(.*?)<!--END_SECTION:hidden_badges-->', content, re.DOTALL)
         if hidden_section:
@@ -337,8 +354,12 @@ def strip_waka_badges(file_path):
             print("No WakaTime badges found in waka section")
 
 
-def update_model_response(file_path):
-    with open(file_path, 'r') as file:
+def update_model_response(file_path, response_text):
+    if response_text is None:
+        print("Model Response Section left unchanged")
+        return
+
+    with open(file_path, 'r', encoding='utf-8') as file:
         content = file.read()
 
     model_response_section = re.search(r'<!--MODEL_RESPONSE_START-->(.*?)<!--MODEL_RESPONSE_END-->', content, re.DOTALL)
@@ -349,7 +370,7 @@ def update_model_response(file_path):
         middle = '\n' + response_text + '\n'
         updated_content = prefix + middle + suffix
 
-        with open(file_path, 'w') as file:
+        with open(file_path, 'w', encoding='utf-8') as file:
             file.write(updated_content)
             print("Model Response Section Done")
     else:
@@ -360,4 +381,4 @@ if __name__ == "__main__":
     update_overall_stats_section(target_readme)
     strip_waka_badges(target_readme)
     update_up_time_section(target_readme)
-    update_model_response(target_readme)
+    update_model_response(target_readme, generate_model_response(target_readme))

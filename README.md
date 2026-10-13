@@ -123,7 +123,7 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Actively engaging with Markdown, TypeScript, Python • Building interactive web applications and data processing tools across [supersecom](https://github.com/SEMIT-SUAS/supersecom), [echo](https://github.com/sans-script/echo), and [tracker](https://github.com/sans-script/tracker) • 💻⚙️
+Actively engaging with Markdown, TypeScript, Python • Building interactive web applications and data processing tools in [echo](https://github.com/sans-script/echo) • 💻⚙️
 
 <div align="center"><strong>Leverage TypeScript's advanced conditional types and Python's runtime type checking to enforce rigorous data contracts across service boundaries, preventing integration surprises.</strong></div>
 <!--MODEL_RESPONSE_END-->
