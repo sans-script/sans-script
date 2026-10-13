@@ -133,6 +133,6 @@ Deep diving into TypeScript, Python, JavaScript • enhancing UI and refining ap
 <br>
 🛈 The content above is generated daily using AI.
 AI and I can make mistakes.
-Powered By Google Gemini.
+Powered By Google Gemini 2.5 Flash.
 </small>
 </div>
