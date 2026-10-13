@@ -4,7 +4,7 @@ import json
 import urllib.request
 import urllib.parse
 import random
-from datetime import datetime
+from datetime import datetime, timezone
 from dateutil.relativedelta import relativedelta
 import google.generativeai as genai
 
@@ -20,48 +20,43 @@ generation_config = {
 # WakaTime "languages" that say nothing about what is being built
 NON_CODE_LANGUAGES = {'markdown', 'json', 'yaml', 'text', 'toml', 'ini', 'xml', 'csv', 'git config', 'gitignore file', 'other'}
 
+def github_get(path):
+    """GET a GitHub API path and return the decoded JSON"""
+    req = urllib.request.Request(f'https://api.github.com{path}')
+
+    req.add_header('Accept', 'application/vnd.github+json')
+    req.add_header('X-GitHub-Api-Version', '2022-11-28')
+    req.add_header('User-Agent', 'sans-script-readme-updater')
+
+    github_token = os.environ.get('GH_TOKEN') or os.environ.get('ACCESS_TOKEN')
+    if github_token:
+        req.add_header('Authorization', f'Bearer {github_token}')
+
+    with urllib.request.urlopen(req, timeout=10) as response:
+        return json.loads(response.read().decode())
+
 def get_github_activity(username='sans-script'):
     """Get recent GitHub activity and commit messages from the GitHub API"""
     try:
-        url = f'https://api.github.com/users/{username}/events?per_page=100'
-        req = urllib.request.Request(url)
-
-        req.add_header('Accept', 'application/vnd.github+json')
-        req.add_header('X-GitHub-Api-Version', '2022-11-28')
-        req.add_header('User-Agent', 'sans-script-readme-updater')
-
-        github_token = os.environ.get('GH_TOKEN') or os.environ.get('ACCESS_TOKEN')
-        if github_token:
-            req.add_header('Authorization', f'Bearer {github_token}')
-
-        with urllib.request.urlopen(req, timeout=10) as response:
-            events = json.loads(response.read().decode())
+        events = github_get(f'/users/{username}/events?per_page=100')
 
         # Authenticated requests also return private events; never expose those
         events = [e for e in events if e.get('public')]
 
         repos = []  # most recent first; only repos actually worked on (not starred)
         event_types = []
-        commits_count = 0
-        commit_messages = []
 
         for event in events[:50]:
             event_type = event.get('type', '')
             repo_name = event.get('repo', {}).get('name', '')
 
-            if repo_name and event_type in ('PushEvent', 'PullRequestEvent', 'CreateEvent') and repo_name not in repos:
+            # The profile repo only gets automated README commits
+            if (repo_name and repo_name != f'{username}/{username}' and repo_name not in repos
+                    and event_type in ('PushEvent', 'PullRequestEvent', 'CreateEvent')):
                 repos.append(repo_name)
 
             if event_type == 'PushEvent':
-                commits = event.get('payload', {}).get('commits', [])
-                commits_count += len(commits)
                 event_types.append('coding')
-
-                for commit in commits:
-                    msg = commit.get('message', '')
-                    if msg and not msg.startswith('Merge '):
-                        short_name = repo_name.split('/')[-1]
-                        commit_messages.append(f"[{short_name}]: {msg}")
             elif event_type == 'PullRequestEvent':
                 event_types.append('PR')
             elif event_type == 'IssuesEvent':
@@ -71,9 +66,26 @@ def get_github_activity(username='sans-script'):
             elif event_type == 'WatchEvent':
                 event_types.append('starred')
 
+        repos = repos[:3]
+
+        # PushEvent payloads no longer carry commits, so read them from each repo
+        since = (datetime.now(timezone.utc) - relativedelta(days=30)).strftime('%Y-%m-%dT%H:%M:%SZ')
+        commits_count = 0
+        commit_messages = []
+        for repo_name in repos:
+            try:
+                commits = github_get(f'/repos/{repo_name}/commits?author={username}&since={since}&per_page=100')
+            except Exception as e:
+                print(f"Could not fetch commits for {repo_name}: {e}")
+                continue
+            commits_count += len(commits)
+            messages = [c['commit']['message'].split('\n')[0] for c in commits]
+            short_name = repo_name.split('/')[-1]
+            commit_messages += [f"[{short_name}]: {msg}" for msg in messages if not msg.startswith('Merge ')][:2]
+
         print(f"✓ GitHub activity: {len(repos)} repos, {commits_count} commits, {len(event_types)} events")
         return {
-            'repos': repos[:3],
+            'repos': repos,
             'commits_count': commits_count,
             'activity_types': list(set(event_types)),
             'recent_commits': commit_messages[:6]
@@ -233,7 +245,7 @@ Respond with ONLY a JSON object with exactly these keys:
         print(f"Could not generate model response, keeping the previous one: {e}")
         return None
 
-    focus = add_repo_links(focus, github_activity['repos'])
+    focus = add_repo_links(focus.rstrip('.'), github_activity['repos'])
     return (
         f"### 🎯 Current Focus\n"
         f"{activity_prefix} {languages_text} • {focus} • {emoji}\n\n"
