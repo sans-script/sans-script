@@ -17,51 +17,19 @@ _Building and breaking stuff since 2019._
 </p>
 
 <!--OVERALL_STATS_START-->
-**Code Time:** 160 hrs 41 mins | **From Hello World I've Written:** 4.25 million lines of code
+**Code Time:** 160 hrs 41 mins | **From Hello World I've Written:** 4.27 million lines of code
 <!--OVERALL_STATS_END-->
 <!--BOT_VIEWS:27-->
 
 <div>
 <!-- <img src="https://komarev.com/ghpvc/?username=sans-script" width="0" height="0" />-->
 <!--START_SECTION:hidden_badges-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C007%20hrs%2035%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-160%20hrs%2041%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.27%20million%20lines%20of%20code-blue?style=flat)
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 2 hrs 50 mins (56.03%)
-
-✍️ 4,320 lines written by AI, 103 lines written by hand (97.67% AI-written)
-
-🔤 1,860,378 Input Tokens, 458,333 Output Tokens
-
-💵 $64.11 Estimated AI Cost This Week
-
-🧠 6 AI Sessions, 41 AI Prompts
-
-Opus                     4,935 lines         █████████████████████████   100.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 97.67% of written lines came from AI
-📚 Verbose Prompter — average 1,513 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 2.61% of changed lines were hand-edited
-```
-
-
 <!--END_SECTION:hidden_badges-->
 </div>
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 6 months and 22 days
+Up time: 20 years, 6 months and 23 days
 ```
 <!--UP_TIME_END-->
 
@@ -80,8 +48,6 @@ Up time: 20 years, 6 months and 22 days
 <!--<img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sans-script&theme=github_dark"/>-->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-160%20hrs%2041%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -159,9 +125,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Deep diving into TypeScript, JavaScript, Python • enhancing user interfaces and stabilizing core application logic within [echo](https://github.com/sans-script/echo) • 🐛✨
+Deep diving into TypeScript, JavaScript, Python • refining user interfaces and enhancing application stability • 🛠️✨
 
-<div align="center"><strong>Leverage TypeScript's conditional types and mapped types to construct highly adaptive component props, ensuring compile-time validation for dynamic UI configurations and reducing runtime errors.</strong></div>
+<div align="center"><strong>Architect state management with immutable data structures to simplify change detection, reduce debugging complexity, and enhance predictability in reactive UIs.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
