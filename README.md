@@ -80,24 +80,26 @@ Up time: 20 years, 6 months and 23 days
 <!--<img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sans-script&theme=github_dark"/>-->
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-163%20hrs%2031%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 55 mins        █████████░░░░░░░░░░░░░░░░   37.90 % 
-TypeScript               1 hr 13 mins        ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
-JavaScript               1 hr                █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
-Python                   28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Markdown                 1 hr 41 mins        ████████░░░░░░░░░░░░░░░░░   33.16 % 
+Python                   1 hr 18 mins        ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
+JavaScript               55 mins             █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+CSS                      48 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+TypeScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 28 mins       ████████████░░░░░░░░░░░░░   48.85 % 
-VS Code                  2 hrs 28 mins       ████████████░░░░░░░░░░░░░   48.69 % 
-Antigravity IDE          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Claude Code              3 hrs 17 mins       ████████████████░░░░░░░░░   64.32 % 
+VS Code                  1 hr 41 mins        ████████░░░░░░░░░░░░░░░░░   33.24 % 
+Antigravity IDE          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 
 💻 Operating System: 
-Windows                  4 hrs 59 mins       █████████████████████████   98.59 % 
-WSL                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Windows                  5 hrs 2 mins        █████████████████████████   98.60 % 
+WSL                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 ```
 
 
