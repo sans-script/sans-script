@@ -80,6 +80,8 @@ Up time: 20 years, 6 months and 25 days
 <!--<img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sans-script&theme=github_dark"/>-->
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-163%20hrs%2031%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
