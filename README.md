@@ -17,52 +17,19 @@ _Building and breaking stuff since 2019._
 </p>
 
 <!--OVERALL_STATS_START-->
-**Code Time:** 163 hrs 31 mins | **From Hello World I've Written:** 4.47 million lines of code
+**Code Time:** 165 hrs 3 mins | **From Hello World I've Written:** 4.46 million lines of code
 <!--OVERALL_STATS_END-->
 <!--BOT_VIEWS:27-->
 
 <div>
 <!-- <img src="https://komarev.com/ghpvc/?username=sans-script" width="0" height="0" />-->
 <!--START_SECTION:hidden_badges-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C012%20hrs%202%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-165%20hrs%203%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.46%20million%20lines%20of%20code-blue?style=flat)
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 6 hrs 50 mins (82.56%)
-
-✍️ 7,931 lines written by AI, 107 lines written by hand (98.67% AI-written)
-
-🔤 3,266,006 Input Tokens, 1,056,762 Output Tokens
-
-💵 $85.32 Estimated AI Cost This Week
-
-🧠 15 AI Sessions, 107 AI Prompts
-
-Sonnet                   7,148 lines         █████████████████████░░░░   85.83 % 
-Opus                     920 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-GPT                      260 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 98.67% of written lines came from AI
-📄 Detailed Prompter — average 1,048 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 1.36% of changed lines were hand-edited
-```
-
-
 <!--END_SECTION:hidden_badges-->
 </div>
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 6 months and 26 days
+Up time: 20 years, 6 months and 27 days
 ```
 <!--UP_TIME_END-->
 
@@ -81,8 +48,6 @@ Up time: 20 years, 6 months and 26 days
 <!--<img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sans-script&theme=github_dark"/>-->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-165%20hrs%203%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -161,9 +126,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Deep diving into Python, JavaScript, CSS • refining web application UI and enhancing stability across all layers • 🛠️✨
+Deep diving into Python, JavaScript, CSS • refining user interface and resolving issues within the [echo](https://github.com/sans-script/echo) project • 🛠️✨
 
-<div align="center"><strong>Implement a robust asynchronous task queue like Celery in Python to offload long-running operations, preventing request blocking and enhancing API responsiveness.</strong></div>
+<div align="center"><strong>Minimize redundant API calls by implementing client-side data normalization and server-side query optimization, reducing both frontend load and backend stress.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
