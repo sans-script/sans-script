@@ -79,25 +79,26 @@ Up time: 20 years, 6 months and 27 days
 <!--<img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sans-script&theme=github_dark"/>-->
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-165%20hrs%203%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   26.83 % 
-Python                   1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
-JavaScript               1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-CSS                      1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-TypeScript               47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+Python                   1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
+CSS                      1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+JavaScript               57 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+TypeScript               43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Markdown                 43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 3 mins        ██████████████████░░░░░░░   73.08 % 
-VS Code                  1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-Codex CLI                35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-Antigravity IDE          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Claude Code              5 hrs 33 mins       ███████████████████████░░   90.61 % 
+VS Code                  27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+Antigravity IDE          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 
 💻 Operating System: 
-Windows                  7 hrs 37 mins       ███████████████████████░░   92.07 % 
-WSL                      39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+Windows                  6 hrs 3 mins        █████████████████████████   98.83 % 
+WSL                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 ```
 
 
