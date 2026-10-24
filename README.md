@@ -17,50 +17,19 @@ _Building and breaking stuff since 2019._
 </p>
 
 <!--OVERALL_STATS_START-->
-**Code Time:** 165 hrs 3 mins | **From Hello World I've Written:** 4.48 million lines of code
+**Code Time:** 165 hrs 3 mins | **From Hello World I've Written:** 4.29 million lines of code
 <!--OVERALL_STATS_END-->
 <!--BOT_VIEWS:27-->
 
 <div>
 <!-- <img src="https://komarev.com/ghpvc/?username=sans-script" width="0" height="0" />-->
 <!--START_SECTION:hidden_badges-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C012%20hrs%202%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-165%20hrs%203%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.29%20million%20lines%20of%20code-blue?style=flat)
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 4 hrs 21 mins (94.46%)
-
-✍️ 6,820 lines written by AI, 20 lines written by hand (99.71% AI-written)
-
-🔤 1,765,683 Input Tokens, 848,785 Output Tokens
-
-💵 $67.47 Estimated AI Cost This Week
-
-🧠 5 AI Sessions, 50 AI Prompts
-
-Sonnet                   7,148 lines         █████████████████████████   99.58 % 
-Opus                     30 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.71% of written lines came from AI
-📄 Detailed Prompter — average 1,268 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.28% of changed lines were hand-edited
-```
-
-
 <!--END_SECTION:hidden_badges-->
 </div>
 
 <!--UP_TIME_START-->
 ```text
-Up time: 20 years, 6 months and 29 days
+Up time: 20 years, 7 months and 0 days
 ```
 <!--UP_TIME_END-->
 
@@ -79,8 +48,6 @@ Up time: 20 years, 6 months and 29 days
 <!--<img  width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sans-script&theme=github_dark"/>-->
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-165%20hrs%203%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -157,9 +124,9 @@ Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
 
 <!--MODEL_RESPONSE_START-->
 ### 🎯 Current Focus
-Deep diving into Python, CSS, JavaScript • Enhancing user interfaces and fortifying application stability • ✨🐛
+Deep diving into Python, CSS, JavaScript • tweaking UI presentation and solidifying project test scripts across active repositories • 🎨🧪
 
-<div align="center"><strong>Ensure your Python API endpoints are idempotent and establish a clear contract for error responses to build resilient frontend state management in JavaScript.</strong></div>
+<div align="center"><strong>When orchestrating complex UI states with asynchronous data, embrace immutable data structures and deterministic state machines to prevent unexpected side effects and simplify debugging.</strong></div>
 <!--MODEL_RESPONSE_END-->
 
 <div align="center" style="font-size: 12px; color: gray; line-height: 1.5;">
