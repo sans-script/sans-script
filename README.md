@@ -3,7 +3,7 @@
 <img src="https://github.com/sans-script.png" width="140px" align="right" >
 <br>
   <p align="left">
-     Software Engineer currently pursuing a B.Sc. in Science and Technology at the Federal University of Maranhão
+     I'm a Software Engineer currently pursuing a B.Sc. in Science and Technology at the Federal University of Maranhão
   </p>
 
 **A passionate Software Engineer from Brazil 🇧🇷**
