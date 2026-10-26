@@ -1,12 +1,12 @@
-# <em>Hello World!</em>
+# Software Engineer
 
 <img src="https://github.com/sans-script.png" width="140px" align="right" >
 <br>
   <p align="left">
-     Software Developer currently pursuing a B.Sc. in Science and Technology at the Federal University of Maranhão
+     Software Engineer currently pursuing a B.Sc. in Science and Technology at the Federal University of Maranhão
   </p>
 
-**A passionate Software Developer from Brazil 🇧🇷**
+**Software Engineer from Brazil 🇧🇷**
 
 _Building and breaking stuff since 2019._
 
