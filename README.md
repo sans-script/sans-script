@@ -3,10 +3,10 @@
 <img src="https://github.com/sans-script.png" width="140px" align="right" >
 <br>
   <p align="left">
-     Software Developer currently pursuing a B.Sc. in Science and Technology at the Federal University of Maranhão
+     Software Engineer currently pursuing a B.Sc. in Science and Technology at the Federal University of Maranhão
   </p>
 
-**A passionate Software Developer from Brazil 🇧🇷**
+**A passionate Software Engineer from Brazil 🇧🇷**
 
 _Building and breaking stuff since 2019._
 
@@ -98,7 +98,7 @@ If there's any music playing on my Spotify, it will show up here. This means I'm
 
 <img align="left" height="94px" width="94px" alt="SEMIT" src="https://github.com/user-attachments/assets/d633a940-dbf4-4103-86ae-b6efd4860a0c2" />
 
-**Software Developer** \
+**Software Engineer** \
 [**SEMIT – Municipal Department of Information and Technology**](https://www.saoluis.ma.gov.br/portal/secretarias/27/secretaria-municipal-de-informacao-e-tecnologia---semit/) • Internship \
 Jan 2026 • Currently \
 Languages & Technologies: `Node.js` `TypeScript` `Tailwindcss` `Python` `Docker`
@@ -114,7 +114,7 @@ Languages & Technologies: `Node.js` `Next.js` `TypeScript` `Tailwind CSS` `Pytho
 
 [<img align="left" height="94px" width="94px" alt="DevOps" src="https://github.com/sans-script/sans-script/assets/84801905/54f71c6f-bbe8-4b4f-a80d-63641bfba28f" />](https://devops.tec.br/)
 
-**Software Developer** \
+**Software Engineer** \
 [**DevOps**](https://devops.tec.br/) • Full time \
 Feb 2024 • Currently \
 Languages & Technologies: `Node.js` `Angular17` `TypeScript` `Tailwind CSS`
