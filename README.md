@@ -24,6 +24,36 @@ _Building and breaking stuff since 2019._
 <div>
 <!-- <img src="https://komarev.com/ghpvc/?username=sans-script" width="0" height="0" />-->
 <!--START_SECTION:hidden_badges-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C016%20hrs%2052%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-170%20hrs%208%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.57%20million%20lines%20of%20code-blue?style=flat)
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 5 hrs 5 mins (82.18%)
+
+✍️ 5,146 lines written by AI, 155 lines written by hand (97.08% AI-written)
+
+🔤 1,285,009 Input Tokens, 511,618 Output Tokens
+
+💵 $57.24 Estimated AI Cost This Week
+
+🧠 11 AI Sessions, 68 AI Prompts
+
+Opus                     3,945 lines         ███████████████████░░░░░░   74.97 % 
+Sonnet                   1,317 lines         ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 97.08% of written lines came from AI
+📄 Detailed Prompter — average 514 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 4.17% of changed lines were hand-edited
+```
+
+
 <!--END_SECTION:hidden_badges-->
 </div>
 
