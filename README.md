@@ -1,6 +1,6 @@
 # <em>Hello World!</em>
 
-<img src="https://github.com/sans-script.png" width="140px" align="right" >
+<img src="https://github.com/user-attachments/assets/87cec055-03dc-4d4d-ac43-e8b735be3af2" width="140px" align="right" >
 <br>
   <p align="left">
      I'm a Software Engineer currently pursuing a B.Sc. in Science and Technology at the Federal University of Maranhão
